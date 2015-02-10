@@ -1,9 +1,11 @@
-<—-Hanrich Potgieter—>
+﻿<—-Hanrich Potgieter—>
 This is my commit.
 <—Jason Richard Evans—>
 This is my commit.
 <—Goodness Adegbenro—>
 This is my commit.
 <-Lelethu Zazaza->
+This is my commit.
+<-Chris Cloete->
 This is my commit.
 Please enter your name here.
