@@ -10,5 +10,13 @@ This is my commit.
 This is my commit.
 Please enter your name here.
 <Isabel Nel>
+<<<<<<< HEAD
 OT In group hahahaha 
 <William>
+=======
+Not in group hahahaha .
+< Kaleab Tessera >
+Finally.
+<william>
+Was here:
+>>>>>>> 661573665c8f061558ce6ef0641632b026c9741
