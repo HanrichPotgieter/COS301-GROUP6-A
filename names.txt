@@ -11,3 +11,5 @@ This is my commit.
 Please enter your name here.
 <Isabel Nel>
 Not in group hahahaha .
+<Lelethu Zazaza>
+Let's Experiment - Git on my PC .
