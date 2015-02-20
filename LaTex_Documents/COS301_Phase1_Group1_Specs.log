@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.2.19)  20 FEB 2015 17:44
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.2.19)  20 FEB 2015 18:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -172,11 +172,11 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 No file COS301_Phase1_Group1_Specs.bbl.
 (./COS301_Phase1_Group1_Specs.aux) ) 
 Here is how much of TeX's memory you used:
- 1542 strings out of 493117
- 22396 string characters out of 6135433
+ 1543 strings out of 493117
+ 22411 string characters out of 6135433
  82405 words of memory out of 5000000
- 5000 multiletter control sequences out of 15000+600000
- 10630 words of font info for 37 fonts, out of 8000000 for 9000
+ 5001 multiletter control sequences out of 15000+600000
+ 10937 words of font info for 38 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  37i,7n,23p,399b,251s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2014/texmf-dist/fonts/t
@@ -186,7 +186,7 @@ pe1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2014/texmf-dist/fonts/type
 1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1
 /public/amsfonts/cm/cmssbx10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type
 1/public/amsfonts/cm/cmti12.pfb>
-Output written on COS301_Phase1_Group1_Specs.pdf (6 pages, 138605 bytes).
+Output written on COS301_Phase1_Group1_Specs.pdf (6 pages, 139378 bytes).
 PDF statistics:
  48 PDF objects out of 1000 (max. 8388607)
  32 compressed objects within 1 object stream
