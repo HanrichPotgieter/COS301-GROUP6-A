@@ -1,0 +1,99 @@
+\documentclass[a4paper,12pt]{report}
+\addtolength{\oddsidemargin}{-1.cm}
+\addtolength{\textwidth}{2cm}
+\addtolength{\topmargin}{-2cm}
+\addtolength{\textheight}{3.5cm}
+\newcommand{\HRule}{\rule{\linewidth}{0.5mm}}
+\makeindex
+
+
+\usepackage[pdftex]{graphicx}
+\usepackage{makeidx}
+
+
+% define the title
+\author{Group6_a}
+\title{ Assignment 1 Report}
+\begin{document}
+\setlength{\parskip}{6pt}
+
+% generates the title
+\begin{titlepage}
+
+\begin{center}
+% Upper part of the page       
+\includegraphics[width=1\textwidth]{./up-logo.jpg}\\[0.4cm]    
+\textsc{\LARGE Department of Information Technology}\\[1.5cm]
+\textsc{\Large COS 301 - Software Engineering}\\[0.5cm]
+% Title
+\HRule \\[0.4cm]
+{ \huge \bfseries COS 301 - Mini Project}\\[0.4cm]
+\HRule \\[0.4cm]
+% Author and supervisor
+\begin{minipage}{0.4\textwidth}
+\begin{flushleft} \large
+\emph{Author:}\\
+Hanrich {Potgieter}
+\end{flushleft}
+\end{minipage}
+\begin{minipage}{0.4\textwidth}
+\begin{flushright} \large
+\emph{Student number:} \\
+u12287343
+\end{flushright}
+\end{minipage}
+\begin{minipage}{0.4\textwidth}
+\begin{flushleft} \large
+Chris {Cloete}
+\end{flushleft}
+\end{minipage}
+\begin{minipage}{0.4\textwidth}
+\begin{flushright} \large
+\emph{} \\
+u13029721
+\end{flushright}
+\end{minipage}
+\vfill
+% Bottom of the page
+{\large \today}
+\end{center}
+\end{titlepage}
+\footnotesize
+\input{declaration_of_originality.tex}
+\normalsize
+\setcounter{chapter}{1}
+\renewcommand{\thesection}{\arabic{section}}
+\newpage
+\begin{center}
+\textsc{\LARGE Software Requirements Specification and Technology Neutral Process Design}\\[1.5cm]
+\textsc{\Large Buzz Space/Mini Project}\\[0.5cm]
+Version: Version 0.1 Alpha 
+
+{\large \today}
+
+\section{Introduction}
+\section{Vision}
+\section{Background}
+\section{Arcitecture requirements}
+\subsection{Access channel requirements}
+\subsection{Quality requirements}
+\subsection{Integration requirements}
+\subsection{Architecture requirements}
+\section{Functional requirements}
+\subsection{Use case prioritiation}
+\subsection{Use case/Service contracts}
+\subsection{Required functionality}
+\subsection{Process specification}
+\subsection{Domain Model}
+
+\index{Vision}
+
+\end{center}
+
+
+\newpage
+\section{...}
+
+\bibliography{myrefs}{} % expects file "myrefs.bib"
+\bibliographystyle{ieeetr}
+\end{document}
