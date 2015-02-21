@@ -4,7 +4,7 @@ Working repository for Software Engineering (COS 301) at the University Of Preto
 Students working with this project:
   Jason Richard Evans  -> u13032608
   Hanrich Potgieter  -> u
-  Goodness Adegbenro  -> u
+  Goodness Adegbenro  -> u13046412
   Lelethu Zazaza  -> u
   Chris Cloete  -> u
   Kaleab Tessera  -> u13048423
