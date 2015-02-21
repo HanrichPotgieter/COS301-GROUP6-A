@@ -9,4 +9,4 @@ Students working with this project:
   Chris Cloete  -> u
   Kaleab Tessera  -> u13048423
   William M -> u
-  Herman -> u
+  Herman Willem Keuris-> u13037618
