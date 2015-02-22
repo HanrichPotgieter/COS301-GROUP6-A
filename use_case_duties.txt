@@ -20,6 +20,7 @@ Goodness
 - Text formatting functionality based on user level
 
 Herman
+- Gathering and analization of statistical information.
 - Semi-Automatic functionality for generating thread summaries.
 
 Hanrich
