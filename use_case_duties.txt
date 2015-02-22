@@ -1,7 +1,7 @@
 Jason
 - Login
 - Logout
-- Socail tagging system on threads (and posts)
+- Social tagging system on threads (and posts)
 - Searching and Filtering of threads
 
 Kaleb
@@ -20,4 +20,7 @@ Goodness
 - Text formatting functionality based on user level
 
 Herman
-- Generating Thread Summaries
+- Semi-Automatic functionality for generating thread summaries.
+
+Hanrich
+- Format code in an easy to view/edit layout.
