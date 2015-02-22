@@ -1,24 +1,15 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.2.21)  22 FEB 2015 14:22
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/W32TeX) (preloaded format=pdflatex 2015.2.21)  22 FEB 2015 15:35
 entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
 **COS301_Phase1_Group1_Specs.tex
-
-(C:\Users\Kale-ab\Documents\GitHub\COS301-GROUP6-A\LaTex_Documents\COS301_Phase
-1_Group1_Specs.tex
-LaTeX2e <2011/06/27>
-Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
-abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
-croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
-lician, german, german-x-2013-05-26, greek, gujarati, hindi, hungarian, iceland
-ic, indonesian, interlingua, irish, italian, kannada, kurmanji, latin, latvian,
- lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, n
-german-x-2013-05-26, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
-ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
-an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
-ishmax, welsh, loaded.
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\report.cls"
-Document Class: report 2007/10/19 v1.4h Standard LaTeX document class
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\size12.clo"
-File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+(./COS301_Phase1_Group1_Specs.tex
+LaTeX2e <2014/05/01>
+Babel <3.9l> and hyphenation patterns for 79 languages loaded.
+(c:/texlive/2014/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2014/09/29 v1.4h Standard LaTeX document class
+(c:/texlive/2014/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
 \c@chapter=\count80
@@ -34,33 +25,35 @@ File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 \bibindent=\dimen102
 )
 \@indexfile=\write3
+\openout3 = `COS301_Phase1_Group1_Specs.idx'.
+
 
 Writing index file COS301_Phase1_Group1_Specs.idx
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
-Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+(c:/texlive/2014/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
-Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+(c:/texlive/2014/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks14
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
-Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+(c:/texlive/2014/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+(c:/texlive/2014/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
-File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+(c:/texlive/2014/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
 )
 Package graphics Info: Driver file: pdftex.def on input line 91.
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+(c:/texlive/2014/texmf-dist/tex/latex/pdftex-def/pdftex.def
 File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+(c:/texlive/2014/texmf-dist/tex/generic/oberdiek/infwarerr.sty
 Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
 )
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+(c:/texlive/2014/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
 Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 )
 \Gread@gobject=\count88
@@ -68,11 +61,12 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 \Gin@req@height=\dimen103
 \Gin@req@width=\dimen104
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\makeidx.sty"
-Package: makeidx 2000/03/29 v1.0m Standard LaTeX package
+(c:/texlive/2014/texmf-dist/tex/latex/base/makeidx.sty
+Package: makeidx 2014/09/29 v1.0m Standard LaTeX package
 )
-(C:\Users\Kale-ab\Documents\GitHub\COS301-GROUP6-A\LaTex_Documents\COS301_Phase
-1_Group1_Specs.aux)
+(./COS301_Phase1_Group1_Specs.aux)
+\openout1 = `COS301_Phase1_Group1_Specs.aux'.
+
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
 LaTeX Font Info:    ... okay on input line 17.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
@@ -85,7 +79,8 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
 LaTeX Font Info:    ... okay on input line 17.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
 LaTeX Font Info:    ... okay on input line 17.
- ("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+
+(c:/texlive/2014/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count89
 \scratchdimen=\dimen105
@@ -98,7 +93,55 @@ LaTeX Font Info:    ... okay on input line 17.
 \MPnumerator=\count93
 \makeMPintoPDFobject=\count94
 \everyMPtoPDFconversion=\toks16
-) <./up-logo.jpg, id=1, 287.1528pt x 78.7743pt>
+) (c:/texlive/2014/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(c:/texlive/2014/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(c:/texlive/2014/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(c:/texlive/2014/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(c:/texlive/2014/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(c:/texlive/2014/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(c:/texlive/2014/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(c:/texlive/2014/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(c:/texlive/2014/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(c:/texlive/2014/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+<./up-logo.jpg, id=1, 287.1528pt x 78.7743pt>
 File: ./up-logo.jpg Graphic file (type jpg)
  <use ./up-logo.jpg>
 Package pdftex.def Info: ./up-logo.jpg used on input line 25.
@@ -111,30 +154,30 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 38.
  [1
 
-{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Users/Kale-ab/Document
-s/GitHub/COS301-GROUP6-A/LaTex_Documents/up-logo.jpg>]
-(C:\Users\Kale-ab\Documents\GitHub\COS301-GROUP6-A\LaTex_Documents\declaration_
-of_originality.tex
+{c:/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./up-logo.jpg>]
+
+(./declaration_of_originality.tex
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 51.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 51.
- [1]) [2]
-(C:\Users\Kale-ab\Documents\GitHub\COS301-GROUP6-A\LaTex_Documents\COS301_Phase
-1_Group1_Specs.toc)
+ [1]) [2] (./COS301_Phase1_Group1_Specs.toc)
 \tf@toc=\write4
- [3
+\openout4 = `COS301_Phase1_Group1_Specs.toc'.
+
+
+[3
 
 ]
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 148.
 
- ("C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
-File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+ (c:/texlive/2014/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 148.
 
-<../Functional_Requirements_DIagrams/UseCases/UseCase_Login.jpg, id=21, 836.123
+<../Functional_Requirements_DIagrams/UseCases/UseCase_Login.jpg, id=22, 836.123
 75pt x 608.2725pt>
 File: ../Functional_Requirements_DIagrams/UseCases/UseCase_Login.jpg Graphic fi
 le (type jpg)
@@ -148,7 +191,7 @@ Overfull \hbox (29.3747pt too wide) in paragraph at lines 150--150
  [] 
  []
 
-[4] <./Pictures/CodeRecognition.png, id=26, 660.4675pt x 232.87pt>
+[4] <./Pictures/CodeRecognition.png, id=27, 660.4675pt x 232.87pt>
 File: ./Pictures/CodeRecognition.png Graphic file (type png)
 
 <use ./Pictures/CodeRecognition.png>
@@ -160,15 +203,13 @@ Overfull \hbox (29.3747pt too wide) in paragraph at lines 167--167
  [] 
  []
 
-[5 <C:/Users/Kale-ab/Documents/GitHub/COS301-GROUP6-A/Functional_Requirements_D
-Iagrams/UseCases/UseCase_Login.jpg>]
+[5 <../Functional_Requirements_DIagrams/UseCases/UseCase_Login.jpg>]
 Overfull \hbox (85.57787pt too wide) in paragraph at lines 186--187
 []\OT1/cmr/m/n/12 Student is not reg-is-tered for a course [Un-less he/she is a
  Teach-ing As-sis-tant/Tutor/Lecturer/Admin. 
  []
 
-[6 <C:/Users/Kale-ab/Documents/GitHub/COS301-GROUP6-A/LaTex_Documents/Pictures/
-CodeRecognition.png>]
+[6 <./Pictures/CodeRecognition.png>]
 Overfull \hbox (18.96466pt too wide) in paragraph at lines 225--226
 []\OT1/cmr/m/n/12 Not a reg-is-tered stu-dent for the course [Un-less in-di-vid
 -ual is an Ad-min-is-tra-tor/Teaching
@@ -176,27 +217,26 @@ Overfull \hbox (18.96466pt too wide) in paragraph at lines 225--226
 
 [7]
 No file COS301_Phase1_Group1_Specs.bbl.
-
-(C:\Users\Kale-ab\Documents\GitHub\COS301-GROUP6-A\LaTex_Documents\COS301_Phase
-1_Group1_Specs.aux) ) 
+(./COS301_Phase1_Group1_Specs.aux) ) 
 Here is how much of TeX's memory you used:
- 1216 strings out of 493921
- 17066 string characters out of 3147276
- 68421 words of memory out of 3000000
- 4528 multiletter control sequences out of 15000+200000
- 10937 words of font info for 38 fonts, out of 3000000 for 9000
- 841 hyphenation exceptions out of 8191
- 27i,7n,21p,402b,250s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/c
-m/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc1
-0.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:
-/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Program
- Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Program Files
-/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 
-2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on COS301_Phase1_Group1_Specs.pdf (8 pages, 289212 bytes).
+ 1573 strings out of 493109
+ 22814 string characters out of 6138587
+ 82456 words of memory out of 5000000
+ 5025 multiletter control sequences out of 15000+600000
+ 10937 words of font info for 38 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 37i,7n,23p,401b,251s stack positions out of 5000i,500n,10000p,200000b,80000s
+<c:/texlive/2014/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmbx12.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmcsc10.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mr12.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb>
+<c:/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><c:/tex
+live/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2014
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on COS301_Phase1_Group1_Specs.pdf (8 pages, 301692 bytes).
 PDF statistics:
- 62 PDF objects out of 1000 (max. 8388607)
+ 64 PDF objects out of 1000 (max. 8388607)
+ 42 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
