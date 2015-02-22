@@ -1,0 +1,23 @@
+Jason
+- Login
+- Logout
+- Socail tagging system on threads (and posts)
+- Searching and Filtering of threads
+
+Kaleb
+- Buzz thread CRUD
+
+Lelethu
+- Buzz thread posts CRUD
+- Content Management
+
+William
+- Automatic update of user status
+-  User restriction
+
+Goodness
+- Semi-Automatic evaluation of posts
+- Text formatting functionality based on user level
+
+Herman
+- Generating Thread Summaries
