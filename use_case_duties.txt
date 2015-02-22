@@ -1,6 +1,6 @@
 Jason
 - Login
-- Logout
+- Logout [New]
 - Social tagging system on threads (and posts)
 - Searching and Filtering of threads
 
@@ -8,7 +8,7 @@ Kaleb
 - Buzz thread CRUD
 
 Lelethu
-- Buzz thread posts CRUD
+- Buzz thread posts CRUD [New]
 - Content Management
 
 William
