@@ -9,6 +9,6 @@
 \contentsline {section}{\numberline {5}Functional requirements}{4}
 \contentsline {subsection}{\numberline {5.1}Use case prioritiation}{4}
 \contentsline {subsection}{\numberline {5.2}Use case/Service contracts}{6}
-\contentsline {subsection}{\numberline {5.3}Required functionality}{6}
-\contentsline {subsection}{\numberline {5.4}Process specification}{6}
-\contentsline {subsection}{\numberline {5.5}Domain Model}{6}
+\contentsline {subsection}{\numberline {5.3}Required functionality}{7}
+\contentsline {subsection}{\numberline {5.4}Process specification}{7}
+\contentsline {subsection}{\numberline {5.5}Domain Model}{7}
