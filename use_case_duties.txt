@@ -5,7 +5,9 @@ Jason
 - Searching and Filtering of threads
 
 Kaleb
-- Buzz thread CRUD
+- Buzz thread CRUD own posts
+- Buzz thread CRUD of other people's posts
+- Record what has been read and highlight what is unread
 
 Lelethu
 - Buzz thread posts CRUD [New]
