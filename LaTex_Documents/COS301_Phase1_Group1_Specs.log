@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.2.24)  24 FEB 2015 22:36
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.2.21)  24 FEB 2015 23:12
 entering extended mode
 **COS301_Phase1_Group1_Specs.tex
 
-(O:\Uni\2015\COS301\GitHub\COS301-GROUP6-A\LaTex_Documents\COS301_Phase1_Group1
-_Specs.tex
+(C:\Users\Kale-ab\Documents\GitHub\COS301-GROUP6-A\LaTex_Documents\COS301_Phase
+1_Group1_Specs.tex
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -15,9 +15,9 @@ german-x-2013-05-26, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
 ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
 an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
 ishmax, welsh, loaded.
-("J:\Program Files\MikTex 2.9\tex\latex\base\report.cls"
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\report.cls"
 Document Class: report 2007/10/19 v1.4h Standard LaTeX document class
-("J:\Program Files\MikTex 2.9\tex\latex\base\size12.clo"
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size12.clo"
 File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
@@ -36,31 +36,31 @@ File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 \@indexfile=\write3
 
 Writing index file COS301_Phase1_Group1_Specs.idx
-("J:\Program Files\MikTex 2.9\tex\latex\graphics\graphicx.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
 Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
 
-("J:\Program Files\MikTex 2.9\tex\latex\graphics\keyval.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
 Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
 \KV@toks@=\toks14
 )
-("J:\Program Files\MikTex 2.9\tex\latex\graphics\graphics.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
 Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
 
-("J:\Program Files\MikTex 2.9\tex\latex\graphics\trig.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
 Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 )
-("J:\Program Files\MikTex 2.9\tex\latex\00miktex\graphics.cfg"
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
 File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
 )
 Package graphics Info: Driver file: pdftex.def on input line 91.
 
-("J:\Program Files\MikTex 2.9\tex\latex\pdftex-def\pdftex.def"
+("C:\Program Files\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
 File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
 
-("J:\Program Files\MikTex 2.9\tex\generic\oberdiek\infwarerr.sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
 Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
 )
-("J:\Program Files\MikTex 2.9\tex\generic\oberdiek\ltxcmds.sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
 Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 )
 \Gread@gobject=\count88
@@ -68,17 +68,17 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 \Gin@req@height=\dimen103
 \Gin@req@width=\dimen104
 )
-("J:\Program Files\MikTex 2.9\tex\latex\base\makeidx.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\makeidx.sty"
 Package: makeidx 2000/03/29 v1.0m Standard LaTeX package
 )
-("J:\Program Files\MikTex 2.9\tex\latex\hyperref\hyperref.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty"
 Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
 
-("J:\Program Files\MikTex 2.9\tex\generic\oberdiek\hobsub-hyperref.sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty"
 Package: hobsub-hyperref 2012/04/25 v1.12 Bundle oberdiek, subset hyperref (HO)
 
 
-("J:\Program Files\MikTex 2.9\tex\generic\oberdiek\hobsub-generic.sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty"
 Package: hobsub-generic 2012/04/25 v1.12 Bundle oberdiek, subset generic (HO)
 Package: hobsub 2012/04/25 v1.12 Construct package bundles (HO)
 Package hobsub Info: Skipping package `infwarerr' (already loaded).
@@ -119,25 +119,25 @@ Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
 Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
 Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
 )
-("J:\Program Files\MikTex 2.9\tex\generic\ifxetex\ifxetex.sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
-("J:\Program Files\MikTex 2.9\tex\latex\oberdiek\auxhook.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty"
 Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
 )
-("J:\Program Files\MikTex 2.9\tex\latex\oberdiek\kvoptions.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
 Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
 )
 \@linkdim=\dimen105
 \Hy@linkcounter=\count89
 \Hy@pagecounter=\count90
 
-("J:\Program Files\MikTex 2.9\tex\latex\hyperref\pd1enc.def"
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def"
 File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
 )
 \Hy@SavedSpaceFactor=\count91
 
-("J:\Program Files\MikTex 2.9\tex\latex\00miktex\hyperref.cfg"
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg"
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
 Package hyperref Info: Hyper figures OFF on input line 4443.
@@ -149,7 +149,7 @@ Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4688.
 \c@Hy@tempcnt=\count92
 
-(C:\Users\Chris\AppData\Roaming\MiKTeX\2.9\tex\latex\url\url.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\url\url.sty"
 \Urlmuskip=\muskip10
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
@@ -174,12 +174,12 @@ LaTeX Info: Redefining \pageref on input line 6369.
 
 Package hyperref Message: Driver (autodetected): hpdftex.
 
-("J:\Program Files\MikTex 2.9\tex\latex\hyperref\hpdftex.def"
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def"
 File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
 \Fld@listcount=\count97
 \c@bookmark@seq@number=\count98
 
-("J:\Program Files\MikTex 2.9\tex\latex\oberdiek\rerunfilecheck.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty"
 Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
@@ -188,8 +188,8 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 Package hyperref Info: Option `colorlinks' set `true' on input line 18.
 
-(O:\Uni\2015\COS301\GitHub\COS301-GROUP6-A\LaTex_Documents\COS301_Phase1_Group1
-_Specs.aux)
+(C:\Users\Kale-ab\Documents\GitHub\COS301-GROUP6-A\LaTex_Documents\COS301_Phase
+1_Group1_Specs.aux)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
 LaTeX Font Info:    ... okay on input line 24.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
@@ -204,8 +204,7 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
 LaTeX Font Info:    ... okay on input line 24.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 24.
 LaTeX Font Info:    ... okay on input line 24.
-
-(C:\Users\Chris\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
+ ("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count99
 \scratchdimen=\dimen109
@@ -220,20 +219,20 @@ LaTeX Font Info:    ... okay on input line 24.
 \everyMPtoPDFconversion=\toks16
 )
 \AtBeginShipoutBox=\box27
- ("J:\Program Files\MikTex 2.9\tex\latex\graphics\color.sty"
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\color.sty"
 Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
 
-("J:\Program Files\MikTex 2.9\tex\latex\00miktex\color.cfg"
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
 File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
 Package color Info: Driver file: pdftex.def on input line 130.
 )
 Package hyperref Info: Link coloring ON on input line 24.
 
-("J:\Program Files\MikTex 2.9\tex\latex\hyperref\nameref.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 
-("J:\Program Files\MikTex 2.9\tex\generic\oberdiek\gettitlestring.sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count105
@@ -242,14 +241,15 @@ LaTeX Info: Redefining \ref on input line 24.
 LaTeX Info: Redefining \pageref on input line 24.
 LaTeX Info: Redefining \nameref on input line 24.
 
-(O:\Uni\2015\COS301\GitHub\COS301-GROUP6-A\LaTex_Documents\COS301_Phase1_Group1
-_Specs.out)
-(O:\Uni\2015\COS301\GitHub\COS301-GROUP6-A\LaTex_Documents\COS301_Phase1_Group1
-_Specs.out)
+(C:\Users\Kale-ab\Documents\GitHub\COS301-GROUP6-A\LaTex_Documents\COS301_Phase
+1_Group1_Specs.out)
+(C:\Users\Kale-ab\Documents\GitHub\COS301-GROUP6-A\LaTex_Documents\COS301_Phase
+1_Group1_Specs.out)
 \@outlinefile=\write4
  <./up-logo.jpg, id=59, 287.1528pt x 78.7743pt>
 File: ./up-logo.jpg Graphic file (type jpg)
- <use ./up-logo.jpg>
+
+<use ./up-logo.jpg>
 Package pdftex.def Info: ./up-logo.jpg used on input line 32.
 (pdftex.def)             Requested size: 446.9055pt x 122.60974pt.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -258,13 +258,12 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 45.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 45.
+ [1
 
-[1
-
-{C:/Users/Chris/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <O:/Uni/2015
-/COS301/GitHub/COS301-GROUP6-A/LaTex_Documents/up-logo.jpg>]
-(O:\Uni\2015\COS301\GitHub\COS301-GROUP6-A\LaTex_Documents\declaration_of_origi
-nality.tex
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Users/Kale-ab/Document
+s/GitHub/COS301-GROUP6-A/LaTex_Documents/up-logo.jpg>]
+(C:\Users\Kale-ab\Documents\GitHub\COS301-GROUP6-A\LaTex_Documents\declaration_
+of_originality.tex
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 51.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -285,15 +284,15 @@ been already used, duplicate ignored
                    \relax 
 l.78 \newpage
               [1]) [2]
-(O:\Uni\2015\COS301\GitHub\COS301-GROUP6-A\LaTex_Documents\COS301_Phase1_Group1
-_Specs.toc)
+(C:\Users\Kale-ab\Documents\GitHub\COS301-GROUP6-A\LaTex_Documents\COS301_Phase
+1_Group1_Specs.toc)
 \tf@toc=\write5
  [3
 
 ]
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 167.
 
- ("J:\Program Files\MikTex 2.9\tex\latex\base\omscmr.fd"
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
@@ -328,8 +327,8 @@ Overfull \hbox (29.3747pt too wide) in paragraph at lines 173--173
  [] 
  []
 
-[5 <O:/Uni/2015/COS301/GitHub/COS301-GROUP6-A/Functional_Requirements_DIagrams/
-UseCases/UseCase_Login.jpg>]
+[5 <C:/Users/Kale-ab/Documents/GitHub/COS301-GROUP6-A/Functional_Requirements_D
+Iagrams/UseCases/UseCase_Login.jpg>]
 <../Functional_Requirements_DIagrams/UseCases/use_case_createBuzzSpace.jpg, id=
 114, 665.48625pt x 359.09157pt>
 File: ../Functional_Requirements_DIagrams/UseCases/use_case_createBuzzSpace.jpg
@@ -350,7 +349,7 @@ b Tessera/UseCase1.jpg' not found on input line 181.
 
 
 <../Functional_Requirements_Diagrams/UseCases1,2,3 - Kale-ab Tessera/UseCase1.j
-pg, id=115, 892.33376pt x 797.98125pt>
+pg, id=115, 1419.3025pt x 797.98125pt>
 File: ../Functional_Requirements_Diagrams/UseCases1,2,3 - Kale-ab Tessera/UseCa
 se1.jpg Graphic file (type jpg)
 
@@ -358,193 +357,219 @@ se1.jpg Graphic file (type jpg)
 e1.jpg>
 Package pdftex.def Info: ../Functional_Requirements_Diagrams/UseCases1,2,3 - Ka
 le-ab Tessera/UseCase1.jpg used on input line 181.
-(pdftex.def)             Requested size: 446.9055pt x 399.65933pt.
+(pdftex.def)             Requested size: 446.9055pt x 251.268pt.
 
 Overfull \hbox (29.3747pt too wide) in paragraph at lines 181--181
  [] 
  []
 
-[6 <O:/Uni/2015/COS301/GitHub/COS301-GROUP6-A/Functional_Requirements_DIagrams/
-UseCases/UseCase_Logout.jpg> <O:/Uni/2015/COS301/GitHub/COS301-GROUP6-A/Functio
-nal_Requirements_DIagrams/UseCases/use_case_createBuzzSpace.jpg>]
+[6 <C:/Users/Kale-ab/Documents/GitHub/COS301-GROUP6-A/Functional_Requirements_D
+Iagrams/UseCases/UseCase_Logout.jpg> <C:/Users/Kale-ab/Documents/GitHub/COS301-
+GROUP6-A/Functional_Requirements_DIagrams/UseCases/use_case_createBuzzSpace.jpg
+>]
+
+LaTeX Warning: File `../Functional_Requirements_Diagrams/UseCases1,2,3 - Kale-a
+b Tessera/UseCase2.jpg' not found on input line 185.
+
+
+<../Functional_Requirements_Diagrams/UseCases1,2,3 - Kale-ab Tessera/UseCase2.j
+pg, id=121, 1243.64626pt x 611.28375pt>
+File: ../Functional_Requirements_Diagrams/UseCases1,2,3 - Kale-ab Tessera/UseCa
+se2.jpg Graphic file (type jpg)
+
+<use ../Functional_Requirements_Diagrams/UseCases1,2,3 - Kale-ab Tessera/UseCas
+e2.jpg>
+Package pdftex.def Info: ../Functional_Requirements_Diagrams/UseCases1,2,3 - Ka
+le-ab Tessera/UseCase2.jpg used on input line 185.
+(pdftex.def)             Requested size: 446.9055pt x 219.6609pt.
+
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 185--185
+ [] 
+ []
+
+
 <../Functional_Requirements_DIagrams/UseCases/use_case_message_Restriction.jpg,
- id=121, 806.01125pt x 805.0075pt>
+ id=122, 806.01125pt x 805.0075pt>
 File: ../Functional_Requirements_DIagrams/UseCases/use_case_message_Restriction
 .jpg Graphic file (type jpg)
 
 <use ../Functional_Requirements_DIagrams/UseCases/use_case_message_Restriction.
 jpg>
 Package pdftex.def Info: ../Functional_Requirements_DIagrams/UseCases/use_case_
-message_Restriction.jpg used on input line 188.
+message_Restriction.jpg used on input line 193.
 (pdftex.def)             Requested size: 446.9055pt x 446.34225pt.
 
-Overfull \hbox (29.3747pt too wide) in paragraph at lines 188--188
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 193--193
  [] 
  []
 
-[7 <O:/Uni/2015/COS301/GitHub/COS301-GROUP6-A/Functional_Requirements_Diagrams/
-UseCases1,2,3 - Kale-ab Tessera/UseCase1.jpg>]
+[7 <C:/Users/Kale-ab/Documents/GitHub/COS301-GROUP6-A/Functional_Requirements_D
+iagrams/UseCases1,2,3 - Kale-ab Tessera/UseCase1.jpg> <C:/Users/Kale-ab/Documen
+ts/GitHub/COS301-GROUP6-A/Functional_Requirements_Diagrams/UseCases1,2,3 - Kale
+-ab Tessera/UseCase2.jpg>]
 <../Functional_Requirements_DIagrams/UseCases/UseCase_StatisticalInformation.jp
-g, id=126, 1532.72626pt x 914.41624pt>
+g, id=127, 1532.72626pt x 914.41624pt>
 File: ../Functional_Requirements_DIagrams/UseCases/UseCase_StatisticalInformati
 on.jpg Graphic file (type jpg)
 
 <use ../Functional_Requirements_DIagrams/UseCases/UseCase_StatisticalInformatio
 n.jpg>
 Package pdftex.def Info: ../Functional_Requirements_DIagrams/UseCases/UseCase_S
-tatisticalInformation.jpg used on input line 194.
+tatisticalInformation.jpg used on input line 199.
 (pdftex.def)             Requested size: 446.9055pt x 266.61107pt.
 
-Overfull \hbox (29.3747pt too wide) in paragraph at lines 194--194
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 199--199
  [] 
  []
 
-[8 <O:/Uni/2015/COS301/GitHub/COS301-GROUP6-A/Functional_Requirements_DIagrams/
-UseCases/use_case_message_Restriction.jpg>]
-<../Functional_Requirements_DIagrams/UseCases/UseCase_SocialTagging.jpg, id=131
+[8 <C:/Users/Kale-ab/Documents/GitHub/COS301-GROUP6-A/Functional_Requirements_D
+Iagrams/UseCases/use_case_message_Restriction.jpg>]
+<../Functional_Requirements_DIagrams/UseCases/UseCase_SocialTagging.jpg, id=132
 , 820.06375pt x 578.16pt>
 File: ../Functional_Requirements_DIagrams/UseCases/UseCase_SocialTagging.jpg Gr
 aphic file (type jpg)
 
 <use ../Functional_Requirements_DIagrams/UseCases/UseCase_SocialTagging.jpg>
 Package pdftex.def Info: ../Functional_Requirements_DIagrams/UseCases/UseCase_S
-ocialTagging.jpg used on input line 198.
+ocialTagging.jpg used on input line 203.
 (pdftex.def)             Requested size: 446.9055pt x 315.08655pt.
 
-Overfull \hbox (29.3747pt too wide) in paragraph at lines 198--198
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 203--203
  [] 
  []
 
 
 <../Functional_Requirements_DIagrams/UseCases/UseCase_SearchingAndFiltering.jpg
-, id=132, 800.9925pt x 578.16pt>
+, id=133, 800.9925pt x 578.16pt>
 File: ../Functional_Requirements_DIagrams/UseCases/UseCase_SearchingAndFilterin
 g.jpg Graphic file (type jpg)
 
 <use ../Functional_Requirements_DIagrams/UseCases/UseCase_SearchingAndFiltering
 .jpg>
 Package pdftex.def Info: ../Functional_Requirements_DIagrams/UseCases/UseCase_S
-earchingAndFiltering.jpg used on input line 202.
+earchingAndFiltering.jpg used on input line 207.
 (pdftex.def)             Requested size: 446.9055pt x 322.58524pt.
 
-Overfull \hbox (29.3747pt too wide) in paragraph at lines 202--202
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 207--207
  [] 
  []
 
-[9 <O:/Uni/2015/COS301/GitHub/COS301-GROUP6-A/Functional_Requirements_DIagrams/
-UseCases/UseCase_StatisticalInformation.jpg> <O:/Uni/2015/COS301/GitHub/COS301-
-GROUP6-A/Functional_Requirements_DIagrams/UseCases/UseCase_SocialTagging.jpg>]
-<../Functional_Requirements_DIagrams/UseCases/UseCase_FormatCode.jpg, id=137, 9
+[9 <C:/Users/Kale-ab/Documents/GitHub/COS301-GROUP6-A/Functional_Requirements_D
+Iagrams/UseCases/UseCase_StatisticalInformation.jpg> <C:/Users/Kale-ab/Document
+s/GitHub/COS301-GROUP6-A/Functional_Requirements_DIagrams/UseCases/UseCase_Soci
+alTagging.jpg>]
+<../Functional_Requirements_DIagrams/UseCases/UseCase_FormatCode.jpg, id=138, 9
 64.60374pt x 745.78625pt>
 File: ../Functional_Requirements_DIagrams/UseCases/UseCase_FormatCode.jpg Graph
 ic file (type jpg)
 
 <use ../Functional_Requirements_DIagrams/UseCases/UseCase_FormatCode.jpg>
 Package pdftex.def Info: ../Functional_Requirements_DIagrams/UseCases/UseCase_F
-ormatCode.jpg used on input line 206.
+ormatCode.jpg used on input line 211.
 (pdftex.def)             Requested size: 446.9055pt x 345.52386pt.
 
-Overfull \hbox (29.3747pt too wide) in paragraph at lines 206--206
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 211--211
  [] 
  []
 
-[10 <O:/Uni/2015/COS301/GitHub/COS301-GROUP6-A/Functional_Requirements_DIagrams
-/UseCases/UseCase_SearchingAndFiltering.jpg>]
+[10 <C:/Users/Kale-ab/Documents/GitHub/COS301-GROUP6-A/Functional_Requirements_
+DIagrams/UseCases/UseCase_SearchingAndFiltering.jpg>]
 
 LaTeX Warning: File `../Functional_Requirements_Diagrams/UseCases1,2,3 - Kale-a
-b Tessera/UseCase3.jpg' not found on input line 213.
+b Tessera/UseCase3.jpg' not found on input line 218.
 
 
 <../Functional_Requirements_Diagrams/UseCases1,2,3 - Kale-ab Tessera/UseCase3.j
-pg, id=142, 916.42375pt x 611.28375pt>
+pg, id=143, 1433.355pt x 573.14125pt>
 File: ../Functional_Requirements_Diagrams/UseCases1,2,3 - Kale-ab Tessera/UseCa
 se3.jpg Graphic file (type jpg)
 
 <use ../Functional_Requirements_Diagrams/UseCases1,2,3 - Kale-ab Tessera/UseCas
 e3.jpg>
 Package pdftex.def Info: ../Functional_Requirements_Diagrams/UseCases1,2,3 - Ka
-le-ab Tessera/UseCase3.jpg used on input line 213.
-(pdftex.def)             Requested size: 446.9055pt x 298.10455pt.
+le-ab Tessera/UseCase3.jpg used on input line 218.
+(pdftex.def)             Requested size: 446.9055pt x 178.69516pt.
 
-Overfull \hbox (29.3747pt too wide) in paragraph at lines 213--213
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 218--218
  [] 
  []
 
-[11 <O:/Uni/2015/COS301/GitHub/COS301-GROUP6-A/Functional_Requirements_DIagrams
-/UseCases/UseCase_FormatCode.jpg>]
+[11 <C:/Users/Kale-ab/Documents/GitHub/COS301-GROUP6-A/Functional_Requirements_
+DIagrams/UseCases/UseCase_FormatCode.jpg> <C:/Users/Kale-ab/Documents/GitHub/CO
+S301-GROUP6-A/Functional_Requirements_Diagrams/UseCases1,2,3 - Kale-ab Tessera/
+UseCase3.jpg>]
 <../Functional_Requirements_DIagrams/UseCases/functionality_vote_and_evaluate.j
-pg, id=147, 852.18375pt x 828.09375pt>
+pg, id=148, 852.18375pt x 828.09375pt>
 File: ../Functional_Requirements_DIagrams/UseCases/functionality_vote_and_evalu
 ate.jpg Graphic file (type jpg)
 
 <use ../Functional_Requirements_DIagrams/UseCases/functionality_vote_and_evalua
 te.jpg>
 Package pdftex.def Info: ../Functional_Requirements_DIagrams/UseCases/functiona
-lity_vote_and_evaluate.jpg used on input line 222.
+lity_vote_and_evaluate.jpg used on input line 227.
 (pdftex.def)             Requested size: 446.9055pt x 434.27557pt.
 
-Overfull \hbox (29.3747pt too wide) in paragraph at lines 222--222
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 227--227
  [] 
  []
 
-[12 <O:/Uni/2015/COS301/GitHub/COS301-GROUP6-A/Functional_Requirements_Diagrams
-/UseCases1,2,3 - Kale-ab Tessera/UseCase3.jpg>]
-Overfull \hbox (85.57787pt too wide) in paragraph at lines 231--232
+
+Overfull \hbox (85.57787pt too wide) in paragraph at lines 236--237
 []\OT1/cmr/m/n/12 Student is not reg-is-tered for a course [Un-less he/she is a
  Teach-ing As-sis-tant/Tutor/Lecturer/Admin. 
  []
 
-[13 <O:/Uni/2015/COS301/GitHub/COS301-GROUP6-A/Functional_Requirements_DIagrams
-/UseCases/functionality_vote_and_evaluate.jpg>]
-Overfull \hbox (18.96466pt too wide) in paragraph at lines 270--271
+[12 <C:/Users/Kale-ab/Documents/GitHub/COS301-GROUP6-A/Functional_Requirements_
+DIagrams/UseCases/functionality_vote_and_evaluate.jpg>]
+Overfull \hbox (18.96466pt too wide) in paragraph at lines 275--276
 []\OT1/cmr/m/n/12 Not a reg-is-tered stu-dent for the course [Un-less in-di-vid
 -ual is an Ad-min-is-tra-tor/Teaching
  []
 
 
-<../Functional_Requirements_DIagrams/DomainModel/DomainModel.jpg, id=157, 794.9
+<../Functional_Requirements_DIagrams/DomainModel/DomainModel.jpg, id=154, 794.9
 7pt x 598.235pt>
 File: ../Functional_Requirements_DIagrams/DomainModel/DomainModel.jpg Graphic f
 ile (type jpg)
 
 <use ../Functional_Requirements_DIagrams/DomainModel/DomainModel.jpg>
 Package pdftex.def Info: ../Functional_Requirements_DIagrams/DomainModel/Domain
-Model.jpg used on input line 290.
+Model.jpg used on input line 295.
 (pdftex.def)             Requested size: 446.9055pt x 336.31467pt.
- [14]
-[15 <O:/Uni/2015/COS301/GitHub/COS301-GROUP6-A/Functional_Requirements_DIagrams
-/DomainModel/DomainModel.jpg>]
+ [13]
+[14 <C:/Users/Kale-ab/Documents/GitHub/COS301-GROUP6-A/Functional_Requirements_
+DIagrams/DomainModel/DomainModel.jpg>]
 No file COS301_Phase1_Group1_Specs.bbl.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 298.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 298.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 303.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 303.
 
-(O:\Uni\2015\COS301\GitHub\COS301-GROUP6-A\LaTex_Documents\COS301_Phase1_Group1
-_Specs.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 298.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 298.
+(C:\Users\Kale-ab\Documents\GitHub\COS301-GROUP6-A\LaTex_Documents\COS301_Phase
+1_Group1_Specs.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 303.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 303.
 Package rerunfilecheck Info: File `COS301_Phase1_Group1_Specs.out' has not chan
 ged.
 (rerunfilecheck)             Checksum: D449D839BF435D1CFAA03A77CAD564E6;955.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 298.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 303.
  ) 
 Here is how much of TeX's memory you used:
- 5167 strings out of 493921
- 80572 string characters out of 3147282
+ 5170 strings out of 493921
+ 80944 string characters out of 3147276
  155148 words of memory out of 3000000
- 8385 multiletter control sequences out of 15000+200000
+ 8389 multiletter control sequences out of 15000+200000
  10937 words of font info for 38 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  29i,7n,28p,402b,447s stack positions out of 5000i,500n,10000p,200000b,50000s
-<J:/Program Files/MikTex 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><J:/Pr
-ogram Files/MikTex 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><J:/Program F
-iles/MikTex 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><J:/Program Files/MikT
-ex 2.9/fonts/type1/public/amsfonts/cm/cmss10.pfb><J:/Program Files/MikTex 2.9/f
-onts/type1/public/amsfonts/cm/cmssbx10.pfb><J:/Program Files/MikTex 2.9/fonts/t
-ype1/public/amsfonts/cm/cmsy10.pfb><J:/Program Files/MikTex 2.9/fonts/type1/pub
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Pr
+ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Program F
+iles/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKT
+eX 2.9/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Program Files/MiKTeX 2.9/f
+onts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
+ype1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pub
 lic/amsfonts/cm/cmti12.pfb>
-Output written on COS301_Phase1_Group1_Specs.pdf (16 pages, 2163439 bytes).
+Output written on COS301_Phase1_Group1_Specs.pdf (15 pages, 2528879 bytes).
 PDF statistics:
- 198 PDF objects out of 1000 (max. 8388607)
- 35 named destinations out of 1000 (max. 500000)
- 178 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 195 PDF objects out of 1000 (max. 8388607)
+ 34 named destinations out of 1000 (max. 500000)
+ 183 words of extra memory for PDF output out of 10000 (max. 10000000)
 

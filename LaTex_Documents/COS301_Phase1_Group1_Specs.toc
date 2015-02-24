@@ -8,7 +8,7 @@
 \contentsline {subsection}{\numberline {4.4}Architecture constraints}{4}{subsection.0.4.4}
 \contentsline {section}{\numberline {5}Functional requirements}{4}{section.0.5}
 \contentsline {subsection}{\numberline {5.1}Use case prioritiation}{4}{subsection.0.5.1}
-\contentsline {subsection}{\numberline {5.2}Use case/Service contracts}{13}{subsection.0.5.2}
-\contentsline {subsection}{\numberline {5.3}Required functionality}{15}{subsection.0.5.3}
-\contentsline {subsection}{\numberline {5.4}Process specification}{15}{subsection.0.5.4}
-\contentsline {subsection}{\numberline {5.5}Domain Model}{15}{subsection.0.5.5}
+\contentsline {subsection}{\numberline {5.2}Use case/Service contracts}{12}{subsection.0.5.2}
+\contentsline {subsection}{\numberline {5.3}Required functionality}{14}{subsection.0.5.3}
+\contentsline {subsection}{\numberline {5.4}Process specification}{14}{subsection.0.5.4}
+\contentsline {subsection}{\numberline {5.5}Domain Model}{14}{subsection.0.5.5}
