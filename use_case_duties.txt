@@ -31,3 +31,4 @@ Hanrich
 
 Chris 
 -User Restriction based on level
+-Have functionality to vote for and evaluate posts
