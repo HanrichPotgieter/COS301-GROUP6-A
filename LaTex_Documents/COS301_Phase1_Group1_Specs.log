@@ -1,6 +1,7 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.2.19)  22 FEB 2015 18:46
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.2.19)  24 FEB 2015 13:35
 entering extended mode
  restricted \write18 enabled.
+ file:line:error style messages enabled.
  %&-line parsing enabled.
 **COS301_Phase1_Group1_Specs.tex
 (./COS301_Phase1_Group1_Specs.tex
@@ -161,21 +162,31 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 51.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 51.
- [1]) [2] (./COS301_Phase1_Group1_Specs.toc)
+
+Overfull \hbox (3.29572pt too wide) in paragraph at lines 75--77
+[]\OT1/cmss/m/n/10 SIGNATURES: []  DATE: []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 75--77
+
+ []
+
+[1]) [2] (./COS301_Phase1_Group1_Specs.toc)
 \tf@toc=\write4
 \openout4 = `COS301_Phase1_Group1_Specs.toc'.
 
-
-[3
+ [3
 
 ]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 148.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 159.
 
- (/usr/local/texlive/2014/texmf-dist/tex/latex/base/omscmr.fd
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 148.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 159.
 
 <../Functional_Requirements_DIagrams/UseCases/UseCase_Login.jpg, id=22, 836.123
 75pt x 608.2725pt>
@@ -184,10 +195,10 @@ le (type jpg)
 
 <use ../Functional_Requirements_DIagrams/UseCases/UseCase_Login.jpg>
 Package pdftex.def Info: ../Functional_Requirements_DIagrams/UseCases/UseCase_L
-ogin.jpg used on input line 150.
+ogin.jpg used on input line 161.
 (pdftex.def)             Requested size: 446.9055pt x 325.13022pt.
 
-Overfull \hbox (29.3747pt too wide) in paragraph at lines 150--150
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 161--161
  [] 
  []
 
@@ -199,98 +210,168 @@ ile (type jpg)
 
 <use ../Functional_Requirements_DIagrams/UseCases/UseCase_Logout.jpg>
 Package pdftex.def Info: ../Functional_Requirements_DIagrams/UseCases/UseCase_L
-ogout.jpg used on input line 154.
+ogout.jpg used on input line 165.
 (pdftex.def)             Requested size: 446.9055pt x 331.8096pt.
 
-Overfull \hbox (29.3747pt too wide) in paragraph at lines 154--154
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 165--165
  [] 
  []
 
 [5 <../Functional_Requirements_DIagrams/UseCases/UseCase_Login.jpg>]
+<../Functional_Requirements_DIagrams/UseCases/use_case_createBuzzSpace.jpg, id=
+31, 665.48625pt x 359.09157pt>
+File: ../Functional_Requirements_DIagrams/UseCases/use_case_createBuzzSpace.jpg
+ Graphic file (type jpg)
+
+<use ../Functional_Requirements_DIagrams/UseCases/use_case_createBuzzSpace.jpg>
+Package pdftex.def Info: ../Functional_Requirements_DIagrams/UseCases/use_case_
+createBuzzSpace.jpg used on input line 169.
+(pdftex.def)             Requested size: 446.9055pt x 241.14899pt.
+
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 169--169
+ [] 
+ []
+
+
+LaTeX Warning: File `../Functional_Requirements_Diagrams/UseCases1,2,3 - Kale-a
+b Tessera/UseCase1.jpg' not found on input line 173.
+
+
+<../Functional_Requirements_Diagrams/UseCases1,2,3 - Kale-ab Tessera/UseCase1.j
+pg, id=32, 892.33376pt x 797.98125pt>
+File: ../Functional_Requirements_Diagrams/UseCases1,2,3 - Kale-ab Tessera/UseCa
+se1.jpg Graphic file (type jpg)
+
+<use ../Functional_Requirements_Diagrams/UseCases1,2,3 - Kale-ab Tessera/UseCas
+e1.jpg>
+Package pdftex.def Info: ../Functional_Requirements_Diagrams/UseCases1,2,3 - Ka
+le-ab Tessera/UseCase1.jpg used on input line 173.
+(pdftex.def)             Requested size: 446.9055pt x 399.65933pt.
+
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 173--173
+ [] 
+ []
+
+[6 <../Functional_Requirements_DIagrams/UseCases/UseCase_Logout.jpg> <../Functi
+onal_Requirements_DIagrams/UseCases/use_case_createBuzzSpace.jpg>]
 <../Functional_Requirements_DIagrams/UseCases/UseCase_StatisticalInformation.jp
-g, id=31, 1532.72626pt x 914.41624pt>
+g, id=37, 1532.72626pt x 914.41624pt>
 File: ../Functional_Requirements_DIagrams/UseCases/UseCase_StatisticalInformati
 on.jpg Graphic file (type jpg)
 
 <use ../Functional_Requirements_DIagrams/UseCases/UseCase_StatisticalInformatio
 n.jpg>
 Package pdftex.def Info: ../Functional_Requirements_DIagrams/UseCases/UseCase_S
-tatisticalInformation.jpg used on input line 167.
+tatisticalInformation.jpg used on input line 183.
 (pdftex.def)             Requested size: 446.9055pt x 266.61107pt.
 
-Overfull \hbox (29.3747pt too wide) in paragraph at lines 167--167
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 183--183
  [] 
  []
 
-[6 <../Functional_Requirements_DIagrams/UseCases/UseCase_Logout.jpg>]
-<../Functional_Requirements_DIagrams/UseCases/UseCase_SocialTagging.jpg, id=36,
+[7 <../Functional_Requirements_Diagrams/UseCases1,2,3 - Kale-ab Tessera/UseCase
+1.jpg>]
+<../Functional_Requirements_DIagrams/UseCases/UseCase_SocialTagging.jpg, id=41,
  820.06375pt x 578.16pt>
 File: ../Functional_Requirements_DIagrams/UseCases/UseCase_SocialTagging.jpg Gr
 aphic file (type jpg)
 
 <use ../Functional_Requirements_DIagrams/UseCases/UseCase_SocialTagging.jpg>
 Package pdftex.def Info: ../Functional_Requirements_DIagrams/UseCases/UseCase_S
-ocialTagging.jpg used on input line 171.
+ocialTagging.jpg used on input line 187.
 (pdftex.def)             Requested size: 446.9055pt x 315.08655pt.
 
-Overfull \hbox (29.3747pt too wide) in paragraph at lines 171--171
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 187--187
  [] 
  []
 
 
 <../Functional_Requirements_DIagrams/UseCases/UseCase_SearchingAndFiltering.jpg
-, id=37, 800.9925pt x 578.16pt>
+, id=42, 800.9925pt x 578.16pt>
 File: ../Functional_Requirements_DIagrams/UseCases/UseCase_SearchingAndFilterin
 g.jpg Graphic file (type jpg)
 
 <use ../Functional_Requirements_DIagrams/UseCases/UseCase_SearchingAndFiltering
 .jpg>
 Package pdftex.def Info: ../Functional_Requirements_DIagrams/UseCases/UseCase_S
-earchingAndFiltering.jpg used on input line 175.
+earchingAndFiltering.jpg used on input line 191.
 (pdftex.def)             Requested size: 446.9055pt x 322.58524pt.
 
-Overfull \hbox (29.3747pt too wide) in paragraph at lines 175--175
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 191--191
  [] 
  []
 
-[7 <../Functional_Requirements_DIagrams/UseCases/UseCase_StatisticalInformation
+[8 <../Functional_Requirements_DIagrams/UseCases/UseCase_StatisticalInformation
 .jpg> <../Functional_Requirements_DIagrams/UseCases/UseCase_SocialTagging.jpg>]
 
-<../Functional_Requirements_DIagrams/UseCases/UseCase_FormatCode.jpg, id=41, 96
+<../Functional_Requirements_DIagrams/UseCases/UseCase_FormatCode.jpg, id=46, 96
 4.60374pt x 745.78625pt>
 File: ../Functional_Requirements_DIagrams/UseCases/UseCase_FormatCode.jpg Graph
 ic file (type jpg)
 
 <use ../Functional_Requirements_DIagrams/UseCases/UseCase_FormatCode.jpg>
 Package pdftex.def Info: ../Functional_Requirements_DIagrams/UseCases/UseCase_F
-ormatCode.jpg used on input line 179.
+ormatCode.jpg used on input line 195.
 (pdftex.def)             Requested size: 446.9055pt x 345.52386pt.
 
-Overfull \hbox (29.3747pt too wide) in paragraph at lines 179--179
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 195--195
  [] 
  []
 
-[8 <../Functional_Requirements_DIagrams/UseCases/UseCase_SearchingAndFiltering.
+[9 <../Functional_Requirements_DIagrams/UseCases/UseCase_SearchingAndFiltering.
 jpg>]
-Overfull \hbox (85.57787pt too wide) in paragraph at lines 198--199
+
+LaTeX Warning: File `../Functional_Requirements_Diagrams/UseCases1,2,3 - Kale-a
+b Tessera/UseCase3.jpg' not found on input line 202.
+
+
+<../Functional_Requirements_Diagrams/UseCases1,2,3 - Kale-ab Tessera/UseCase3.j
+pg, id=50, 916.42375pt x 611.28375pt>
+File: ../Functional_Requirements_Diagrams/UseCases1,2,3 - Kale-ab Tessera/UseCa
+se3.jpg Graphic file (type jpg)
+
+<use ../Functional_Requirements_Diagrams/UseCases1,2,3 - Kale-ab Tessera/UseCas
+e3.jpg>
+Package pdftex.def Info: ../Functional_Requirements_Diagrams/UseCases1,2,3 - Ka
+le-ab Tessera/UseCase3.jpg used on input line 202.
+(pdftex.def)             Requested size: 446.9055pt x 298.10455pt.
+
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 202--202
+ [] 
+ []
+
+[10 <../Functional_Requirements_DIagrams/UseCases/UseCase_FormatCode.jpg>]
+Overfull \hbox (85.57787pt too wide) in paragraph at lines 217--218
 []\OT1/cmr/m/n/12 Student is not reg-is-tered for a course [Un-less he/she is a
  Teach-ing As-sis-tant/Tutor/Lecturer/Admin. 
  []
 
-[9 <../Functional_Requirements_DIagrams/UseCases/UseCase_FormatCode.jpg>]
-Overfull \hbox (18.96466pt too wide) in paragraph at lines 237--238
+[11 <../Functional_Requirements_Diagrams/UseCases1,2,3 - Kale-ab Tessera/UseCas
+e3.jpg>]
+Overfull \hbox (18.96466pt too wide) in paragraph at lines 256--257
 []\OT1/cmr/m/n/12 Not a reg-is-tered stu-dent for the course [Un-less in-di-vid
 -ual is an Ad-min-is-tra-tor/Teaching
  []
 
-[10]
+
+<../Functional_Requirements_DIagrams/UseCases/DomainModel.jpg, id=57, 794.97pt 
+x 598.235pt>
+File: ../Functional_Requirements_DIagrams/UseCases/DomainModel.jpg Graphic file
+ (type jpg)
+
+<use ../Functional_Requirements_DIagrams/UseCases/DomainModel.jpg>
+Package pdftex.def Info: ../Functional_Requirements_DIagrams/UseCases/DomainMod
+el.jpg used on input line 275.
+(pdftex.def)             Requested size: 446.9055pt x 336.31467pt.
+ [12]
+[13 <../Functional_Requirements_DIagrams/UseCases/DomainModel.jpg>]
 No file COS301_Phase1_Group1_Specs.bbl.
 (./COS301_Phase1_Group1_Specs.aux) ) 
 Here is how much of TeX's memory you used:
- 1591 strings out of 493117
- 24697 string characters out of 6135433
+ 1611 strings out of 493117
+ 26045 string characters out of 6135433
  82405 words of memory out of 5000000
- 5039 multiletter control sequences out of 15000+600000
+ 5055 multiletter control sequences out of 15000+600000
  10937 words of font info for 38 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  37i,7n,23p,401b,251s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -302,10 +383,10 @@ pe1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2014/texmf-dist/fonts/type
 /public/amsfonts/cm/cmssbx10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type
 1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1
 /public/amsfonts/cm/cmti12.pfb>
-Output written on COS301_Phase1_Group1_Specs.pdf (11 pages, 1347534 bytes).
+Output written on COS301_Phase1_Group1_Specs.pdf (14 pages, 1813093 bytes).
 PDF statistics:
- 75 PDF objects out of 1000 (max. 8388607)
- 47 compressed objects within 1 object stream
+ 89 PDF objects out of 1000 (max. 8388607)
+ 54 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 36 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 56 words of extra memory for PDF output out of 10000 (max. 10000000)
 
