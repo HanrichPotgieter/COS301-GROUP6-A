@@ -8,5 +8,5 @@ Students working with this project:
   Lelethu Zazaza  -> u13028023
   Chris Cloete  -> u13029721
   Kaleab Tessera  -> u13048423
-  William M -> u
+  William Seloma -> u10155865
   Herman Willem Keuris-> u13037618
