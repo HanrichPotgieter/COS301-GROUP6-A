@@ -1,16 +1,15 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.2.19)  26 FEB 2015 08:03
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.2.26)  26 FEB 2015 08:35
 entering extended mode
- restricted \write18 enabled.
- file:line:error style messages enabled.
- %&-line parsing enabled.
 **COS301_Phase1_Group1_Specs.tex
-(./COS301_Phase1_Group1_Specs.tex
+
+(C:\Users\user\Documents\GitHub\COS301-GROUP6-A\LaTex_Documents_Revised_Version
+\COS301_Phase1_Group1_Specs.tex
 LaTeX2e <2014/05/01>
-Babel <3.9k> and hyphenation patterns for 78 languages loaded.
-(/usr/local/texlive/2014/texmf-dist/tex/latex/base/report.cls
-Document Class: report 2007/10/19 v1.4h Standard LaTeX document class
-(/usr/local/texlive/2014/texmf-dist/tex/latex/base/size12.clo
-File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+Babel <3.9l> and hyphenation patterns for 68 languages loaded.
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\report.cls"
+Document Class: report 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size12.clo"
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
 \c@chapter=\count80
@@ -26,35 +25,33 @@ File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 \bibindent=\dimen102
 )
 \@indexfile=\write3
-\openout3 = `COS301_Phase1_Group1_Specs.idx'.
-
 
 Writing index file COS301_Phase1_Group1_Specs.idx
-(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/graphicx.sty
-Package: graphicx 2014/04/25 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
 
-(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/keyval.sty
-Package: keyval 2014/05/08 v1.15 key=value parser (DPC)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks14
 )
-(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/graphics.sty
-Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
 
-(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/trig.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
 Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 )
-(/usr/local/texlive/2014/texmf-dist/tex/latex/latexconfig/graphics.cfg
-File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
 )
 Package graphics Info: Driver file: pdftex.def on input line 91.
 
-(/usr/local/texlive/2014/texmf-dist/tex/latex/pdftex-def/pdftex.def
+("C:\Program Files\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
 File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
 
-(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
 Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
 )
-(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
 Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 )
 \Gread@gobject=\count88
@@ -62,19 +59,19 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 \Gin@req@height=\dimen103
 \Gin@req@width=\dimen104
 )
-(/usr/local/texlive/2014/texmf-dist/tex/latex/base/makeidx.sty
-Package: makeidx 2000/03/29 v1.0m Standard LaTeX package
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\makeidx.sty"
+Package: makeidx 2014/09/29 v1.0m Standard LaTeX package
 )
-(/usr/local/texlive/2014/texmf-dist/tex/latex/hyperref/hyperref.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty"
 Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
 
-(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
-Package: hobsub-hyperref 2012/05/28 v1.13 Bundle oberdiek, subset hyperref (HO)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty"
+Package: hobsub-hyperref 2012/04/25 v1.12 Bundle oberdiek, subset hyperref (HO)
 
 
-(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
-Package: hobsub-generic 2012/05/28 v1.13 Bundle oberdiek, subset generic (HO)
-Package: hobsub 2012/05/28 v1.13 Construct package bundles (HO)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty"
+Package: hobsub-generic 2012/04/25 v1.12 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2012/04/25 v1.12 Construct package bundles (HO)
 Package hobsub Info: Skipping package `infwarerr' (already loaded).
 Package hobsub Info: Skipping package `ltxcmds' (already loaded).
 Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
@@ -105,7 +102,7 @@ Package: uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
 )
 Package hobsub Info: Skipping package `hobsub' (already loaded).
 Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
-Package: hopatch 2012/05/28 v1.2 Wrapper for package hooks (HO)
+Package: hopatch 2011/06/24 v1.1 Wrapper for package hooks (HO)
 Package: xcolor-patch 2011/01/30 xcolor patch
 Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
 Package atveryend Info: \enddocument detected (standard20110627).
@@ -113,25 +110,25 @@ Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
 Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
 Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
 )
-(/usr/local/texlive/2014/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+("C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
-(/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/auxhook.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty"
 Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
 )
-(/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
 Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
 )
 \@linkdim=\dimen105
 \Hy@linkcounter=\count89
 \Hy@pagecounter=\count90
 
-(/usr/local/texlive/2014/texmf-dist/tex/latex/hyperref/pd1enc.def
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def"
 File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
 )
 \Hy@SavedSpaceFactor=\count91
 
-(/usr/local/texlive/2014/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg"
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
 Package hyperref Info: Hyper figures OFF on input line 4443.
@@ -143,7 +140,7 @@ Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4688.
 \c@Hy@tempcnt=\count92
 
-(/usr/local/texlive/2014/texmf-dist/tex/latex/url/url.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\url\url.sty"
 \Urlmuskip=\muskip10
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
@@ -168,12 +165,12 @@ LaTeX Info: Redefining \pageref on input line 6369.
 
 Package hyperref Message: Driver (autodetected): hpdftex.
 
-(/usr/local/texlive/2014/texmf-dist/tex/latex/hyperref/hpdftex.def
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def"
 File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
 \Fld@listcount=\count97
 \c@bookmark@seq@number=\count98
 
-(/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty"
 Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
@@ -182,9 +179,8 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 Package hyperref Info: Option `colorlinks' set `true' on input line 18.
 
-(./COS301_Phase1_Group1_Specs.aux)
-\openout1 = `COS301_Phase1_Group1_Specs.aux'.
-
+(C:\Users\user\Documents\GitHub\COS301-GROUP6-A\LaTex_Documents_Revised_Version
+\COS301_Phase1_Group1_Specs.aux)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
 LaTeX Font Info:    ... okay on input line 24.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
@@ -200,7 +196,7 @@ LaTeX Font Info:    ... okay on input line 24.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 24.
 LaTeX Font Info:    ... okay on input line 24.
 
-(/usr/local/texlive/2014/texmf-dist/tex/context/base/supp-pdf.mkii
+("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count99
 \scratchdimen=\dimen109
@@ -213,37 +209,22 @@ LaTeX Font Info:    ... okay on input line 24.
 \MPnumerator=\count103
 \makeMPintoPDFobject=\count104
 \everyMPtoPDFconversion=\toks16
-) (/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
-Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
-
-(/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/grfext.sty
-Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
 )
-Package grfext Info: Graphics extension search list:
-(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
-G,.JBIG2,.JB2,.eps]
-(grfext)             \AppendGraphicsExtensions on input line 452.
-
-(/usr/local/texlive/2014/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
-e
-))
 \AtBeginShipoutBox=\box27
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\color.sty"
+Package: color 2014/10/28 v1.1a Standard LaTeX Color (DPC)
 
-(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/color.sty
-Package: color 2014/04/23 v1.1a Standard LaTeX Color (DPC)
-
-(/usr/local/texlive/2014/texmf-dist/tex/latex/latexconfig/color.cfg
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
 File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
 Package color Info: Driver file: pdftex.def on input line 137.
 )
 Package hyperref Info: Link coloring ON on input line 24.
 
-(/usr/local/texlive/2014/texmf-dist/tex/latex/hyperref/nameref.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 
-(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count105
@@ -252,12 +233,13 @@ LaTeX Info: Redefining \ref on input line 24.
 LaTeX Info: Redefining \pageref on input line 24.
 LaTeX Info: Redefining \nameref on input line 24.
 
-(./COS301_Phase1_Group1_Specs.out) (./COS301_Phase1_Group1_Specs.out)
+(C:\Users\user\Documents\GitHub\COS301-GROUP6-A\LaTex_Documents_Revised_Version
+\COS301_Phase1_Group1_Specs.out)
+(C:\Users\user\Documents\GitHub\COS301-GROUP6-A\LaTex_Documents_Revised_Version
+\COS301_Phase1_Group1_Specs.out)
 \@outlinefile=\write4
-\openout4 = `COS301_Phase1_Group1_Specs.out'.
 
-
-<./up-logo.jpg, id=32, 287.1528pt x 78.7743pt>
+<./up-logo.jpg, id=31, 287.1528pt x 78.7743pt>
 File: ./up-logo.jpg Graphic file (type jpg)
  <use ./up-logo.jpg>
 Package pdftex.def Info: ./up-logo.jpg used on input line 32.
@@ -270,9 +252,11 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 45.
  [1
 
-{/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./up-lo
-go.jpg>]
-(./declaration_of_originality.tex
+{C:/Users/user/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Users/use
+r/Documents/GitHub/COS301-GROUP6-A/LaTex_Documents_Revised_Version/up-logo.jpg>
+]
+(C:\Users\user\Documents\GitHub\COS301-GROUP6-A\LaTex_Documents_Revised_Version
+\declaration_of_originality.tex
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 51.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -292,12 +276,12 @@ been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.78 \newpage
-              [1]) [2] (./COS301_Phase1_Group1_Specs.toc)
+              [1]) [2]
+(C:\Users\user\Documents\GitHub\COS301-GROUP6-A\LaTex_Documents_Revised_Version
+\COS301_Phase1_Group1_Specs.toc)
 \tf@toc=\write5
-\openout5 = `COS301_Phase1_Group1_Specs.toc'.
 
-
-<./Diagrams/MainDiagram.jpg, id=64, 738.76pt x 584.1825pt>
+<./Diagrams/MainDiagram.jpg, id=63, 738.76pt x 584.1825pt>
 File: ./Diagrams/MainDiagram.jpg Graphic file (type jpg)
 
 <use ./Diagrams/MainDiagram.jpg>
@@ -305,115 +289,131 @@ Package pdftex.def Info: ./Diagrams/MainDiagram.jpg used on input line 151.
 (pdftex.def)             Requested size: 446.9055pt x 353.39139pt.
  [3
 
-] [4 <./Diagrams/MainDiagram.jpg>]
+] [4 <C:/Users/user/Documents/GitHub/COS301-GROUP6-A/LaTex_Documents_Revised_Ve
+rsion/Diagrams/MainDiagram.jpg>]
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 159.
 
 
-(/usr/local/texlive/2014/texmf-dist/tex/latex/base/omscmr.fd
-File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 159.
 
-Underfull \hbox (badness 1708) in paragraph at lines 182--182
+Underfull \hbox (badness 1708) in paragraph at lines 181--181
 []\OT1/cmr/m/n/12 User must still
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 183--183
+Underfull \hbox (badness 10000) in paragraph at lines 182--182
 []\OT1/cmr/m/n/12 Information
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 186--186
+Underfull \hbox (badness 10000) in paragraph at lines 185--185
 []\OT1/cmr/m/n/12 Achievement
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 191--191
+Underfull \hbox (badness 10000) in paragraph at lines 190--190
 []\OT1/cmr/m/n/12 User Man-age-
  []
 
 
-<../Functional_Requirements_Diagrams/UseCases/UseCase_Login.jpg, id=74, 836.123
+<../Functional_Requirements_Diagrams/UseCases/UseCase_Login.jpg, id=73, 836.123
 75pt x 608.2725pt>
 File: ../Functional_Requirements_Diagrams/UseCases/UseCase_Login.jpg Graphic fi
 le (type jpg)
 
 <use ../Functional_Requirements_Diagrams/UseCases/UseCase_Login.jpg>
 Package pdftex.def Info: ../Functional_Requirements_Diagrams/UseCases/UseCase_L
-ogin.jpg used on input line 199.
+ogin.jpg used on input line 198.
 (pdftex.def)             Requested size: 446.9055pt x 325.13022pt.
 
-Overfull \hbox (29.3747pt too wide) in paragraph at lines 199--199
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 198--198
  [] 
  []
 
-[5] [6 <../Functional_Requirements_Diagrams/UseCases/UseCase_Login.jpg>]
+[5]
+File: ../Functional_Requirements_Diagrams/UseCases/UseCase_Login.jpg Graphic fi
+le (type jpg)
+ <use ../Functional_Requirements_Diagrams/UseCases/UseCase_Login.jpg>
+Package pdftex.def Info: ../Functional_Requirements_Diagrams/UseCases/UseCase_L
+ogin.jpg used on input line 201.
+(pdftex.def)             Requested size: 446.9055pt x 325.13022pt.
+
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 201--201
+ [] 
+ []
+
+[6 <C:/Users/user/Documents/GitHub/COS301-GROUP6-A/Functional_Requirements_Diag
+rams/UseCases/UseCase_Login.jpg>] [7]
 <../Functional_Requirements_Diagrams/UseCases/UseCase_StatisticalInformation.jp
-g, id=85, 1532.72626pt x 914.41624pt>
+g, id=88, 1532.72626pt x 914.41624pt>
 File: ../Functional_Requirements_Diagrams/UseCases/UseCase_StatisticalInformati
 on.jpg Graphic file (type jpg)
 
 <use ../Functional_Requirements_Diagrams/UseCases/UseCase_StatisticalInformatio
 n.jpg>
 Package pdftex.def Info: ../Functional_Requirements_Diagrams/UseCases/UseCase_S
-tatisticalInformation.jpg used on input line 204.
+tatisticalInformation.jpg used on input line 206.
 (pdftex.def)             Requested size: 446.9055pt x 266.61107pt.
 
-Overfull \hbox (29.3747pt too wide) in paragraph at lines 204--204
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 206--206
  [] 
  []
 
 
 <../Functional_Requirements_Diagrams/ActivityDiagrams/ActivityDIagram_UpdateBuz
-zSpace.jpg, id=86, 708.39656pt x 265.74281pt>
+zSpace.jpg, id=89, 708.39656pt x 265.74281pt>
 File: ../Functional_Requirements_Diagrams/ActivityDiagrams/ActivityDIagram_Upda
 teBuzzSpace.jpg Graphic file (type jpg)
 
 <use ../Functional_Requirements_Diagrams/ActivityDiagrams/ActivityDIagram_Updat
 eBuzzSpace.jpg>
 Package pdftex.def Info: ../Functional_Requirements_Diagrams/ActivityDiagrams/A
-ctivityDIagram_UpdateBuzzSpace.jpg used on input line 212.
+ctivityDIagram_UpdateBuzzSpace.jpg used on input line 214.
 (pdftex.def)             Requested size: 446.9055pt x 167.64998pt.
 
-Overfull \hbox (29.3747pt too wide) in paragraph at lines 212--212
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 214--214
  [] 
  []
 
-[7 <../Functional_Requirements_Diagrams/UseCases/UseCase_StatisticalInformation
-.jpg> <../Functional_Requirements_Diagrams/ActivityDiagrams/ActivityDIagram_Upd
-ateBuzzSpace.jpg>]
+[8 <C:/Users/user/Documents/GitHub/COS301-GROUP6-A/Functional_Requirements_Diag
+rams/UseCases/UseCase_StatisticalInformation.jpg> <C:/Users/user/Documents/GitH
+ub/COS301-GROUP6-A/Functional_Requirements_Diagrams/ActivityDiagrams/ActivityDI
+agram_UpdateBuzzSpace.jpg>]
 No file COS301_Phase1_Group1_Specs.bbl.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 222.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 222.
-(./COS301_Phase1_Group1_Specs.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 222.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 222.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 224.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 224.
+
+(C:\Users\user\Documents\GitHub\COS301-GROUP6-A\LaTex_Documents_Revised_Version
+\COS301_Phase1_Group1_Specs.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 224.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 224.
 Package rerunfilecheck Info: File `COS301_Phase1_Group1_Specs.out' has not chan
 ged.
-(rerunfilecheck)             Checksum: 677A761D9E52F8D2AC018E78FC601FC9;493.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 222.
+(rerunfilecheck)             Checksum: 176CD47F8D37680E9A60BDBB397AC09B;500.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 224.
  ) 
 Here is how much of TeX's memory you used:
- 5217 strings out of 493117
- 79223 string characters out of 6135433
- 165110 words of memory out of 5000000
- 8617 multiletter control sequences out of 15000+600000
- 10937 words of font info for 38 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 29i,8n,28p,495b,446s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
-></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb
-></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><
-/usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></
-usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><
-/usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></
-usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on COS301_Phase1_Group1_Specs.pdf (8 pages, 821103 bytes).
+ 5105 strings out of 493705
+ 77721 string characters out of 3144573
+ 162193 words of memory out of 3000000
+ 8372 multiletter control sequences out of 15000+200000
+ 10937 words of font info for 38 fonts, out of 3000000 for 9000
+ 1025 hyphenation exceptions out of 8191
+ 29i,8n,28p,496b,449s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Pr
+ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Program F
+iles/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKT
+eX 2.9/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Program Files/MiKTeX 2.9/f
+onts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
+ype1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pub
+lic/amsfonts/cm/cmti12.pfb>
+Output written on COS301_Phase1_Group1_Specs.pdf (9 pages, 829406 bytes).
 PDF statistics:
- 122 PDF objects out of 1000 (max. 8388607)
- 99 compressed objects within 1 object stream
- 20 named destinations out of 1000 (max. 500000)
+ 124 PDF objects out of 1000 (max. 8388607)
+ 21 named destinations out of 1000 (max. 500000)
  82 words of extra memory for PDF output out of 10000 (max. 10000000)
 
