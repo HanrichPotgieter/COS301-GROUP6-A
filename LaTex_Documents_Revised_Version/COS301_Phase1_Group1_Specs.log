@@ -1,7 +1,6 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.2.19)  26 FEB 2015 21:26
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.2.19)  26 FEB 2015 22:16
 entering extended mode
  restricted \write18 enabled.
- file:line:error style messages enabled.
  %&-line parsing enabled.
 **COS301_Phase1_Group1_Specs.tex
 (./COS301_Phase1_Group1_Specs.tex
@@ -489,58 +488,68 @@ Overfull \hbox (29.3747pt too wide) in paragraph at lines 220--220
  [] 
  []
 
+<../Jason/Access.jpg, id=105, 798.985pt x 682.55pt>
+File: ../Jason/Access.jpg Graphic file (type jpg)
+ <use ../Jason/Access.jpg>
+Package pdftex.def Info: ../Jason/Access.jpg used on input line 227.
+(pdftex.def)             Requested size: 446.9055pt x 381.77756pt.
 
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 227--227
+ [] 
+ []
+
+[11 <../Jason/Communication_(Notifications).jpg>]
 <../Functional_Requirements_Diagrams/ActivityDiagrams/ActivityDIagram_CreateBuz
-zSpace.jpg, id=105, 712.91344pt x 372.64218pt>
+zSpace.jpg, id=110, 712.91344pt x 372.64218pt>
 File: ../Functional_Requirements_Diagrams/ActivityDiagrams/ActivityDIagram_Crea
 teBuzzSpace.jpg Graphic file (type jpg)
 
 <use ../Functional_Requirements_Diagrams/ActivityDiagrams/ActivityDIagram_Creat
 eBuzzSpace.jpg>
 Package pdftex.def Info: ../Functional_Requirements_Diagrams/ActivityDiagrams/A
-ctivityDIagram_CreateBuzzSpace.jpg used on input line 228.
+ctivityDIagram_CreateBuzzSpace.jpg used on input line 235.
 (pdftex.def)             Requested size: 446.9055pt x 233.60017pt.
 
-Overfull \hbox (29.3747pt too wide) in paragraph at lines 228--228
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 235--235
  [] 
  []
 
-[11 <../Jason/Communication_(Notifications).jpg>]
-<../Chris/Validationactivitydiagram.jpg, id=110, 795.97375pt x 772.8875pt>
+[12 <../Jason/Access.jpg>]
+<../Chris/Validationactivitydiagram.jpg, id=116, 795.97375pt x 772.8875pt>
 File: ../Chris/Validationactivitydiagram.jpg Graphic file (type jpg)
 
 <use ../Chris/Validationactivitydiagram.jpg>
 Package pdftex.def Info: ../Chris/Validationactivitydiagram.jpg used on input l
-ine 232.
+ine 239.
 (pdftex.def)             Requested size: 446.9055pt x 433.9344pt.
 
-Overfull \hbox (29.3747pt too wide) in paragraph at lines 232--232
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 239--239
  [] 
  []
 
-[12 <../Functional_Requirements_Diagrams/ActivityDiagrams/ActivityDIagram_Creat
+[13 <../Functional_Requirements_Diagrams/ActivityDiagrams/ActivityDIagram_Creat
 eBuzzSpace.jpg>]
 File: ../Hanrich/BuzzElements.jpg Graphic file (type jpg)
  <use ../Hanrich/BuzzElements.jpg>
-Package pdftex.def Info: ../Hanrich/BuzzElements.jpg used on input line 237.
+Package pdftex.def Info: ../Hanrich/BuzzElements.jpg used on input line 244.
 (pdftex.def)             Requested size: 446.9055pt x 319.21777pt.
- [13 <../Chris/Validationactivitydiagram.jpg>] [14]
+ [14 <../Chris/Validationactivitydiagram.jpg>] [15]
 No file COS301_Phase1_Group1_Specs.bbl.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 245.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 245.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 252.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 252.
 (./COS301_Phase1_Group1_Specs.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 245.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 245.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 252.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 252.
 Package rerunfilecheck Info: File `COS301_Phase1_Group1_Specs.out' has not chan
 ged.
 (rerunfilecheck)             Checksum: 677A761D9E52F8D2AC018E78FC601FC9;493.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 245.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 252.
  ) 
 Here is how much of TeX's memory you used:
- 5247 strings out of 493117
- 79561 string characters out of 6135433
+ 5253 strings out of 493117
+ 79673 string characters out of 6135433
  166110 words of memory out of 5000000
- 8633 multiletter control sequences out of 15000+600000
+ 8637 multiletter control sequences out of 15000+600000
  10937 words of font info for 38 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  29i,8n,28p,548b,458s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -551,10 +560,10 @@ Here is how much of TeX's memory you used:
 usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><
 /usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></
 usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on COS301_Phase1_Group1_Specs.pdf (15 pages, 1266768 bytes).
+Output written on COS301_Phase1_Group1_Specs.pdf (16 pages, 1475540 bytes).
 PDF statistics:
- 157 PDF objects out of 1000 (max. 8388607)
- 122 compressed objects within 2 object streams
- 27 named destinations out of 1000 (max. 500000)
- 102 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 162 PDF objects out of 1000 (max. 8388607)
+ 125 compressed objects within 2 object streams
+ 28 named destinations out of 1000 (max. 500000)
+ 107 words of extra memory for PDF output out of 10000 (max. 10000000)
 
