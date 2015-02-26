@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.2.26)  26 FEB 2015 23:02
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.2.26)  26 FEB 2015 23:05
 entering extended mode
 **COS301_Phase1_Group1_Specs.tex
 
@@ -247,10 +247,10 @@ LaTeX Info: Redefining \nameref on input line 24.
 (C:\Users\User\Documents\GitHub\COS301-GROUP6-A\LaTex_Documents_Revised_Version
 \COS301_Phase1_Group1_Specs.out)
 \@outlinefile=\write4
- <./up-logo.jpg, id=3, 287.1528pt x 78.7743pt>
-File: ./up-logo.jpg Graphic file (type jpg)
 
-<use ./up-logo.jpg>
+<./up-logo.jpg, id=31, 287.1528pt x 78.7743pt>
+File: ./up-logo.jpg Graphic file (type jpg)
+ <use ./up-logo.jpg>
 Package pdftex.def Info: ./up-logo.jpg used on input line 32.
 (pdftex.def)             Requested size: 446.9055pt x 122.60974pt.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -285,9 +285,8 @@ been already used, duplicate ignored
                    \relax 
 l.78 \newpage
               [1]) [2]
-
-Package hyperref Warning: old toc file detected, not used; run LaTeX again.
-
+(C:\Users\User\Documents\GitHub\COS301-GROUP6-A\LaTex_Documents_Revised_Version
+\COS301_Phase1_Group1_Specs.toc)
 \tf@toc=\write5
 
 Overfull \hbox (27.35487pt too wide) in paragraph at lines 148--149
@@ -295,7 +294,7 @@ Overfull \hbox (27.35487pt too wide) in paragraph at lines 148--149
 nk https://github.com/DieBaber/COS301-
  []
 
-<../Hanrich/BuzzElements.jpg, id=28, 688.5725pt x 491.8375pt>
+<../Hanrich/BuzzElements.jpg, id=63, 688.5725pt x 491.8375pt>
 File: ../Hanrich/BuzzElements.jpg Graphic file (type jpg)
 
 <use ../Hanrich/BuzzElements.jpg>
@@ -303,7 +302,7 @@ Package pdftex.def Info: ../Hanrich/BuzzElements.jpg used on input line 151.
 (pdftex.def)             Requested size: 446.9055pt x 319.21777pt.
  [3
 
- <C:/Users/User/Documents/GitHub/COS301-GROUP6-A/Hanrich/BuzzElements.jpg>] [4]
+] [4 <C:/Users/User/Documents/GitHub/COS301-GROUP6-A/Hanrich/BuzzElements.jpg>]
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 159.
 
 
@@ -422,7 +421,7 @@ Overfull \hbox (27.88582pt too wide) in paragraph at lines 178--192
  [] 
  []
 
-[5] [6] <../Lelethu/UseCase_BuzzSpace.jpg, id=53, 680.5425pt x 319.1925pt>
+[5] [6] <../Lelethu/UseCase_BuzzSpace.jpg, id=83, 680.5425pt x 319.1925pt>
 File: ../Lelethu/UseCase_BuzzSpace.jpg Graphic file (type jpg)
 
 <use ../Lelethu/UseCase_BuzzSpace.jpg>
@@ -435,7 +434,7 @@ Overfull \hbox (29.3747pt too wide) in paragraph at lines 199--199
  []
 
 [7 <C:/Users/User/Documents/GitHub/COS301-GROUP6-A/Lelethu/UseCase_BuzzSpace.jp
-g>] <../Chris/Validation.jpg, id=58, 766.865pt x 485.815pt>
+g>] <../Chris/Validation.jpg, id=88, 766.865pt x 485.815pt>
 File: ../Chris/Validation.jpg Graphic file (type jpg)
 
 <use ../Chris/Validation.jpg>
@@ -446,7 +445,7 @@ Overfull \hbox (29.3747pt too wide) in paragraph at lines 204--204
  [] 
  []
 
-<../Herman/viewTags.jpg, id=59, 966.61125pt x 843.15pt>
+<../Herman/viewTags.jpg, id=89, 966.61125pt x 843.15pt>
 File: ../Herman/viewTags.jpg Graphic file (type jpg)
 
 <use ../Herman/viewTags.jpg>
@@ -458,7 +457,7 @@ Overfull \hbox (29.3747pt too wide) in paragraph at lines 208--208
  []
 
 [8 <C:/Users/User/Documents/GitHub/COS301-GROUP6-A/Chris/Validation.jpg>]
-<../Hanrich/Report.jpg, id=64, 831.105pt x 549.05125pt>
+<../Hanrich/Report.jpg, id=94, 831.105pt x 549.05125pt>
 File: ../Hanrich/Report.jpg Graphic file (type jpg)
 
 <use ../Hanrich/Report.jpg>
@@ -471,7 +470,7 @@ Overfull \hbox (29.3747pt too wide) in paragraph at lines 212--212
 
 [9 <C:/Users/User/Documents/GitHub/COS301-GROUP6-A/Herman/viewTags.jpg>]
 [10 <C:/Users/User/Documents/GitHub/COS301-GROUP6-A/Hanrich/Report.jpg>]
-<../Jason/Communication_(Notifications).jpg, id=73, 836.12375pt x 764.8575pt>
+<../Jason/Communication_(Notifications).jpg, id=103, 836.12375pt x 764.8575pt>
 File: ../Jason/Communication_(Notifications).jpg Graphic file (type jpg)
 
 <use ../Jason/Communication_(Notifications).jpg>
@@ -483,7 +482,7 @@ Overfull \hbox (29.3747pt too wide) in paragraph at lines 220--220
  [] 
  []
 
-<../Jason/Access.jpg, id=74, 798.985pt x 682.55pt>
+<../Jason/Access.jpg, id=104, 798.985pt x 682.55pt>
 File: ../Jason/Access.jpg Graphic file (type jpg)
  <use ../Jason/Access.jpg>
 Package pdftex.def Info: ../Jason/Access.jpg used on input line 227.
@@ -496,7 +495,7 @@ Overfull \hbox (29.3747pt too wide) in paragraph at lines 227--227
 [11 <C:/Users/User/Documents/GitHub/COS301-GROUP6-A/Jason/Communication_(Notifi
 cations).jpg>]
 <../Functional_Requirements_Diagrams/ActivityDiagrams/ActivityDIagram_CreateBuz
-zSpace.jpg, id=79, 712.91344pt x 372.64218pt>
+zSpace.jpg, id=109, 712.91344pt x 372.64218pt>
 File: ../Functional_Requirements_Diagrams/ActivityDiagrams/ActivityDIagram_Crea
 teBuzzSpace.jpg Graphic file (type jpg)
 
@@ -511,7 +510,7 @@ Overfull \hbox (29.3747pt too wide) in paragraph at lines 239--239
  []
 
 [12 <C:/Users/User/Documents/GitHub/COS301-GROUP6-A/Jason/Access.jpg>]
-<../Chris/Validationactivitydiagram.jpg, id=86, 795.97375pt x 772.8875pt>
+<../Chris/Validationactivitydiagram.jpg, id=115, 795.97375pt x 772.8875pt>
 File: ../Chris/Validationactivitydiagram.jpg Graphic file (type jpg)
 
 <use ../Chris/Validationactivitydiagram.jpg>
@@ -525,8 +524,8 @@ Overfull \hbox (29.3747pt too wide) in paragraph at lines 243--243
 
 [13 <C:/Users/User/Documents/GitHub/COS301-GROUP6-A/Functional_Requirements_Dia
 grams/ActivityDiagrams/ActivityDIagram_CreateBuzzSpace.jpg>]
-<../Goodness/Achievement_Rewards_System_ActivityDiagram.jpg, id=91, 1161.33875p
-t x 519.9425pt>
+<../Goodness/Achievement_Rewards_System_ActivityDiagram.jpg, id=120, 1161.33875
+pt x 519.9425pt>
 File: ../Goodness/Achievement_Rewards_System_ActivityDiagram.jpg Graphic file (
 type jpg)
 
@@ -554,23 +553,16 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 261.
 \COS301_Phase1_Group1_Specs.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 261.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 261.
-
-
-Package rerunfilecheck Warning: File `COS301_Phase1_Group1_Specs.out' has chang
-ed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `COS301_Phase1_Group1_Specs.out':
-(rerunfilecheck)             Before: D41D8CD98F00B204E9800998ECF8427E;0
-(rerunfilecheck)             After:  176CD47F8D37680E9A60BDBB397AC09B;500.
+Package rerunfilecheck Info: File `COS301_Phase1_Group1_Specs.out' has not chan
+ged.
+(rerunfilecheck)             Checksum: 176CD47F8D37680E9A60BDBB397AC09B;500.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 261.
  ) 
 Here is how much of TeX's memory you used:
- 5138 strings out of 493921
- 78150 string characters out of 3147285
- 160044 words of memory out of 3000000
- 8362 multiletter control sequences out of 15000+200000
+ 5148 strings out of 493921
+ 78491 string characters out of 3147285
+ 160148 words of memory out of 3000000
+ 8370 multiletter control sequences out of 15000+200000
  10937 words of font info for 38 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  29i,8n,28p,549b,457s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -581,9 +573,9 @@ eX 2.9/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Program Files/MiKTeX 2.9/f
 onts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
 ype1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pub
 lic/amsfonts/cm/cmti12.pfb>
-Output written on COS301_Phase1_Group1_Specs.pdf (16 pages, 1617840 bytes).
+Output written on COS301_Phase1_Group1_Specs.pdf (16 pages, 1621246 bytes).
 PDF statistics:
- 131 PDF objects out of 1000 (max. 8388607)
+ 160 PDF objects out of 1000 (max. 8388607)
  28 named destinations out of 1000 (max. 500000)
- 56 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 112 words of extra memory for PDF output out of 10000 (max. 10000000)
 
