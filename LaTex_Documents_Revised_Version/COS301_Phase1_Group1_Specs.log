@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.2.19)  26 FEB 2015 16:20
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.2.19)  26 FEB 2015 16:36
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -297,15 +297,20 @@ l.78 \newpage
 \openout5 = `COS301_Phase1_Group1_Specs.toc'.
 
 
-<./Diagrams/MainDiagram.jpg, id=64, 738.76pt x 584.1825pt>
-File: ./Diagrams/MainDiagram.jpg Graphic file (type jpg)
+Overfull \hbox (27.35487pt too wide) in paragraph at lines 148--149
+[]\OT1/cmr/m/n/12 For fur-ther ref-er-ences see [][]gitHub[][] or got to the li
+nk https://github.com/DieBaber/COS301-
+ []
 
-<use ./Diagrams/MainDiagram.jpg>
-Package pdftex.def Info: ./Diagrams/MainDiagram.jpg used on input line 151.
-(pdftex.def)             Requested size: 446.9055pt x 353.39139pt.
+<../Hanrich/BuzzElements.jpg, id=64, 688.5725pt x 491.8375pt>
+File: ../Hanrich/BuzzElements.jpg Graphic file (type jpg)
+
+<use ../Hanrich/BuzzElements.jpg>
+Package pdftex.def Info: ../Hanrich/BuzzElements.jpg used on input line 151.
+(pdftex.def)             Requested size: 446.9055pt x 319.21777pt.
  [3
 
-] [4 <./Diagrams/MainDiagram.jpg>]
+] [4 <../Hanrich/BuzzElements.jpg>]
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 159.
 
 
@@ -458,8 +463,8 @@ ged.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 237.
  ) 
 Here is how much of TeX's memory you used:
- 5233 strings out of 493117
- 79338 string characters out of 6135433
+ 5232 strings out of 493117
+ 79332 string characters out of 6135433
  166110 words of memory out of 5000000
  8625 multiletter control sequences out of 15000+600000
  10937 words of font info for 38 fonts, out of 8000000 for 9000
@@ -472,7 +477,7 @@ Here is how much of TeX's memory you used:
 usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><
 /usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></
 usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on COS301_Phase1_Group1_Specs.pdf (12 pages, 845106 bytes).
+Output written on COS301_Phase1_Group1_Specs.pdf (12 pages, 838396 bytes).
 PDF statistics:
  141 PDF objects out of 1000 (max. 8388607)
  111 compressed objects within 2 object streams
