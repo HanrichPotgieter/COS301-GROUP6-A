@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.2.4)  26 FEB 2015 18:55
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.2.4)  26 FEB 2015 18:57
 entering extended mode
 **COS301_Phase1_Group1_Specs.tex
 
@@ -414,16 +414,16 @@ Overfull \hbox (29.3747pt too wide) in paragraph at lines 222--222
  []
 
 
-<../Functional_Requirements_Diagrams/ActivityDiagrams/ActivityDIagram_UpdateBuz
-zSpace.jpg, id=104, 708.39656pt x 265.74281pt>
-File: ../Functional_Requirements_Diagrams/ActivityDiagrams/ActivityDIagram_Upda
+<../Functional_Requirements_Diagrams/ActivityDiagrams/ActivityDIagram_CreateBuz
+zSpace.jpg, id=104, 712.91344pt x 372.64218pt>
+File: ../Functional_Requirements_Diagrams/ActivityDiagrams/ActivityDIagram_Crea
 teBuzzSpace.jpg Graphic file (type jpg)
 
-<use ../Functional_Requirements_Diagrams/ActivityDiagrams/ActivityDIagram_Updat
+<use ../Functional_Requirements_Diagrams/ActivityDiagrams/ActivityDIagram_Creat
 eBuzzSpace.jpg>
 Package pdftex.def Info: ../Functional_Requirements_Diagrams/ActivityDiagrams/A
-ctivityDIagram_UpdateBuzzSpace.jpg used on input line 230.
-(pdftex.def)             Requested size: 446.9055pt x 167.64998pt.
+ctivityDIagram_CreateBuzzSpace.jpg used on input line 230.
+(pdftex.def)             Requested size: 446.9055pt x 233.60017pt.
 
 Overfull \hbox (29.3747pt too wide) in paragraph at lines 230--230
  [] 
@@ -444,8 +444,8 @@ Overfull \hbox (29.3747pt too wide) in paragraph at lines 234--234
  []
 
 [12 <C:/Users/Lelethu Zazaza/Desktop/COS301-GROUP6-A/Functional_Requirements_Di
-agrams/ActivityDiagrams/ActivityDIagram_UpdateBuzzSpace.jpg> <C:/Users/Lelethu 
-Zazaza/Desktop/COS301-GROUP6-A/Chris/Validationactivitydiagram.jpg>] [13]
+agrams/ActivityDiagrams/ActivityDIagram_CreateBuzzSpace.jpg>] [13 <C:/Users/Lel
+ethu Zazaza/Desktop/COS301-GROUP6-A/Chris/Validationactivitydiagram.jpg>]
 No file COS301_Phase1_Group1_Specs.bbl.
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 244.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 244.
@@ -474,7 +474,7 @@ eX 2.9/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Program Files/MiKTeX 2.9/f
 onts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
 ype1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pub
 lic/amsfonts/cm/cmti12.pfb>
-Output written on COS301_Phase1_Group1_Specs.pdf (14 pages, 1227010 bytes).
+Output written on COS301_Phase1_Group1_Specs.pdf (14 pages, 1279603 bytes).
 PDF statistics:
  150 PDF objects out of 1000 (max. 8388607)
  26 named destinations out of 1000 (max. 500000)
