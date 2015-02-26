@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.2.24)  26 FEB 2015 10:47
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.2.24)  26 FEB 2015 11:32
 entering extended mode
 **COS301_Phase1_Group1_Specs.tex
 
@@ -285,11 +285,11 @@ been already used, duplicate ignored
                    \relax 
 l.78 \newpage
               [1]) [2]
-
-Package hyperref Warning: old toc file detected, not used; run LaTeX again.
-
+(O:\Uni\2015\COS301\GitHub\COS301-GROUP6-A\LaTex_Documents_Revised_Version\COS3
+01_Phase1_Group1_Specs.toc)
 \tf@toc=\write5
-<./Diagrams/MainDiagram.jpg, id=56, 738.76pt x 584.1825pt>
+
+<./Diagrams/MainDiagram.jpg, id=63, 738.76pt x 584.1825pt>
 File: ./Diagrams/MainDiagram.jpg Graphic file (type jpg)
 
 <use ./Diagrams/MainDiagram.jpg>
@@ -297,8 +297,8 @@ Package pdftex.def Info: ./Diagrams/MainDiagram.jpg used on input line 151.
 (pdftex.def)             Requested size: 446.9055pt x 353.39139pt.
  [3
 
- <O:/Uni/2015/COS301/GitHub/COS301-GROUP6-A/LaTex_Documents_Revised_Version/Dia
-grams/MainDiagram.jpg>] [4]
+] [4 <O:/Uni/2015/COS301/GitHub/COS301-GROUP6-A/LaTex_Documents_Revised_Version
+/Diagrams/MainDiagram.jpg>]
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 159.
 
 
@@ -358,7 +358,7 @@ Underfull \hbox (badness 1694) in paragraph at lines 191--191
  []
 
 [5]
-<../Functional_Requirements_Diagrams/UseCases/UseCase_Login.jpg, id=71, 836.123
+<../Functional_Requirements_Diagrams/UseCases/UseCase_Login.jpg, id=78, 836.123
 75pt x 608.2725pt>
 File: ../Functional_Requirements_Diagrams/UseCases/UseCase_Login.jpg Graphic fi
 le (type jpg)
@@ -385,7 +385,7 @@ Overfull \hbox (29.3747pt too wide) in paragraph at lines 203--203
 
 [6 <O:/Uni/2015/COS301/GitHub/COS301-GROUP6-A/Functional_Requirements_Diagrams/
 UseCases/UseCase_Login.jpg>] [7]
-<../Chris/Validation2.jpg, id=81, 806.01125pt x 805.0075pt>
+<../Chris/Validation2.jpg, id=88, 806.01125pt x 805.0075pt>
 File: ../Chris/Validation2.jpg Graphic file (type jpg)
 
 <use ../Chris/Validation2.jpg>
@@ -397,7 +397,7 @@ Overfull \hbox (29.3747pt too wide) in paragraph at lines 208--208
  []
 
 [8 <O:/Uni/2015/COS301/GitHub/COS301-GROUP6-A/Chris/Validation2.jpg>]
-<../Hanrich/Report.jpg, id=86, 831.105pt x 549.05125pt>
+<../Hanrich/Report.jpg, id=93, 831.105pt x 549.05125pt>
 File: ../Hanrich/Report.jpg Graphic file (type jpg)
 
 <use ../Hanrich/Report.jpg>
@@ -410,7 +410,7 @@ Overfull \hbox (29.3747pt too wide) in paragraph at lines 214--214
 
 
 <../Functional_Requirements_Diagrams/ActivityDiagrams/ActivityDIagram_UpdateBuz
-zSpace.jpg, id=87, 708.39656pt x 265.74281pt>
+zSpace.jpg, id=94, 708.39656pt x 265.74281pt>
 File: ../Functional_Requirements_Diagrams/ActivityDiagrams/ActivityDIagram_Upda
 teBuzzSpace.jpg Graphic file (type jpg)
 
@@ -424,27 +424,40 @@ Overfull \hbox (29.3747pt too wide) in paragraph at lines 222--222
  [] 
  []
 
-[9 <O:/Uni/2015/COS301/GitHub/COS301-GROUP6-A/Hanrich/Report.jpg>] [10 <O:/Uni/
-2015/COS301/GitHub/COS301-GROUP6-A/Functional_Requirements_Diagrams/ActivityDia
-grams/ActivityDIagram_UpdateBuzzSpace.jpg>]
+[9 <O:/Uni/2015/COS301/GitHub/COS301-GROUP6-A/Hanrich/Report.jpg>]
+<../Chris/Validationactivitydiagram.jpg, id=99, 795.97375pt x 772.8875pt>
+File: ../Chris/Validationactivitydiagram.jpg Graphic file (type jpg)
+
+<use ../Chris/Validationactivitydiagram.jpg>
+Package pdftex.def Info: ../Chris/Validationactivitydiagram.jpg used on input l
+ine 226.
+(pdftex.def)             Requested size: 446.9055pt x 433.9344pt.
+
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 226--226
+ [] 
+ []
+
+[10 <O:/Uni/2015/COS301/GitHub/COS301-GROUP6-A/Functional_Requirements_Diagrams
+/ActivityDiagrams/ActivityDIagram_UpdateBuzzSpace.jpg> <O:/Uni/2015/COS301/GitH
+ub/COS301-GROUP6-A/Chris/Validationactivitydiagram.jpg>] [11]
 No file COS301_Phase1_Group1_Specs.bbl.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 232.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 232.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 236.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 236.
 
 (O:\Uni\2015\COS301\GitHub\COS301-GROUP6-A\LaTex_Documents_Revised_Version\COS3
 01_Phase1_Group1_Specs.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 232.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 232.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 236.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 236.
 Package rerunfilecheck Info: File `COS301_Phase1_Group1_Specs.out' has not chan
 ged.
 (rerunfilecheck)             Checksum: 176CD47F8D37680E9A60BDBB397AC09B;500.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 232.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 236.
  ) 
 Here is how much of TeX's memory you used:
- 5114 strings out of 493921
- 77446 string characters out of 3147282
- 158044 words of memory out of 3000000
- 8350 multiletter control sequences out of 15000+200000
+ 5122 strings out of 493921
+ 77861 string characters out of 3147282
+ 158148 words of memory out of 3000000
+ 8354 multiletter control sequences out of 15000+200000
  10937 words of font info for 38 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  29i,8n,28p,515b,451s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -455,9 +468,9 @@ ex 2.9/fonts/type1/public/amsfonts/cm/cmss10.pfb><J:/Program Files/MikTex 2.9/f
 onts/type1/public/amsfonts/cm/cmssbx10.pfb><J:/Program Files/MikTex 2.9/fonts/t
 ype1/public/amsfonts/cm/cmsy10.pfb><J:/Program Files/MikTex 2.9/fonts/type1/pub
 lic/amsfonts/cm/cmti12.pfb>
-Output written on COS301_Phase1_Group1_Specs.pdf (11 pages, 758189 bytes).
+Output written on COS301_Phase1_Group1_Specs.pdf (12 pages, 873091 bytes).
 PDF statistics:
- 126 PDF objects out of 1000 (max. 8388607)
- 23 named destinations out of 1000 (max. 500000)
- 87 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 138 PDF objects out of 1000 (max. 8388607)
+ 24 named destinations out of 1000 (max. 500000)
+ 92 words of extra memory for PDF output out of 10000 (max. 10000000)
 
