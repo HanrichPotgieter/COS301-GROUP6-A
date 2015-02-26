@@ -1,34 +1,13 @@
-Jason
-- Login
-- Logout [New]
-- Social tagging system on threads (and posts)
-- Searching and Filtering of threads
-
-Kaleb
-- Buzz thread CRUD own posts
-- Buzz thread CRUD of other people's posts
-- Record what has been read and highlight what is unread
-
-Lelethu
-- Buzz thread posts CRUD [New]
-- Content Management
-
-William
-- Automatic update of user status
--  User restriction
-
-Goodness
-- Semi-Automatic evaluation of posts
-- Text formatting functionality based on user level
-
-Herman
-- Gathering and analization of statistical information.
-- Semi-Automatic functionality for generating thread summaries.
-
 Hanrich
-- Format code in an easy to view/edit layout.
-- Domain Model.
-
-Chris 
--User Restriction based on level
--Have functionality to vote for and evaluate posts
+-Reporting
+Chris
+-Validation
+Jason
+-Communications
+Herman
+-Information management
+Goodness
+-Achievement/Rewards System
+Lelethu 
+-BUzzSpace
+ 
