@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.2.26)  26 FEB 2015 22:41
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.2.21)  26 FEB 2015 23:12
 entering extended mode
 **COS301_Phase1_Group1_Specs.tex
 
-(C:\Users\User\Documents\GitHub\COS301-GROUP6-A\LaTex_Documents_Revised_Version
-\COS301_Phase1_Group1_Specs.tex
+(C:\Users\Kale-ab\Documents\GitHub\COS301-GROUP6-A\LaTex_Documents_Revised_Vers
+ion\COS301_Phase1_Group1_Specs.tex
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -188,8 +188,8 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 Package hyperref Info: Option `colorlinks' set `true' on input line 18.
 
-(C:\Users\User\Documents\GitHub\COS301-GROUP6-A\LaTex_Documents_Revised_Version
-\COS301_Phase1_Group1_Specs.aux)
+(C:\Users\Kale-ab\Documents\GitHub\COS301-GROUP6-A\LaTex_Documents_Revised_Vers
+ion\COS301_Phase1_Group1_Specs.aux)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
 LaTeX Font Info:    ... okay on input line 24.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
@@ -242,10 +242,10 @@ LaTeX Info: Redefining \ref on input line 24.
 LaTeX Info: Redefining \pageref on input line 24.
 LaTeX Info: Redefining \nameref on input line 24.
 
-(C:\Users\User\Documents\GitHub\COS301-GROUP6-A\LaTex_Documents_Revised_Version
-\COS301_Phase1_Group1_Specs.out)
-(C:\Users\User\Documents\GitHub\COS301-GROUP6-A\LaTex_Documents_Revised_Version
-\COS301_Phase1_Group1_Specs.out)
+(C:\Users\Kale-ab\Documents\GitHub\COS301-GROUP6-A\LaTex_Documents_Revised_Vers
+ion\COS301_Phase1_Group1_Specs.out)
+(C:\Users\Kale-ab\Documents\GitHub\COS301-GROUP6-A\LaTex_Documents_Revised_Vers
+ion\COS301_Phase1_Group1_Specs.out)
 \@outlinefile=\write4
 
 <./up-logo.jpg, id=31, 287.1528pt x 78.7743pt>
@@ -261,10 +261,10 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 45.
  [1
 
-{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Users/User/Documents/G
-itHub/COS301-GROUP6-A/LaTex_Documents_Revised_Version/up-logo.jpg>]
-(C:\Users\User\Documents\GitHub\COS301-GROUP6-A\LaTex_Documents_Revised_Version
-\declaration_of_originality.tex
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Users/Kale-ab/Document
+s/GitHub/COS301-GROUP6-A/LaTex_Documents_Revised_Version/up-logo.jpg>]
+(C:\Users\Kale-ab\Documents\GitHub\COS301-GROUP6-A\LaTex_Documents_Revised_Vers
+ion\declaration_of_originality.tex
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 51.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -285,8 +285,8 @@ been already used, duplicate ignored
                    \relax 
 l.78 \newpage
               [1]) [2]
-(C:\Users\User\Documents\GitHub\COS301-GROUP6-A\LaTex_Documents_Revised_Version
-\COS301_Phase1_Group1_Specs.toc)
+(C:\Users\Kale-ab\Documents\GitHub\COS301-GROUP6-A\LaTex_Documents_Revised_Vers
+ion\COS301_Phase1_Group1_Specs.toc)
 \tf@toc=\write5
 
 Overfull \hbox (27.35487pt too wide) in paragraph at lines 148--149
@@ -302,7 +302,8 @@ Package pdftex.def Info: ../Hanrich/BuzzElements.jpg used on input line 151.
 (pdftex.def)             Requested size: 446.9055pt x 319.21777pt.
  [3
 
-] [4 <C:/Users/User/Documents/GitHub/COS301-GROUP6-A/Hanrich/BuzzElements.jpg>]
+] [4 <C:/Users/Kale-ab/Documents/GitHub/COS301-GROUP6-A/Hanrich/BuzzElements.jp
+g>]
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 159.
 
 
@@ -417,6 +418,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 188--188
  []
 
 
+Underfull \hbox (badness 3557) in paragraph at lines 188--188
+\OT1/cmr/m/n/12 tem which man-ages
+ []
+
+
 Overfull \hbox (27.88582pt too wide) in paragraph at lines 178--192
  [] 
  []
@@ -433,8 +439,8 @@ Overfull \hbox (29.3747pt too wide) in paragraph at lines 199--199
  [] 
  []
 
-[7 <C:/Users/User/Documents/GitHub/COS301-GROUP6-A/Lelethu/UseCase_BuzzSpace.jp
-g>] <../Chris/Validation.jpg, id=88, 766.865pt x 485.815pt>
+[7 <C:/Users/Kale-ab/Documents/GitHub/COS301-GROUP6-A/Lelethu/UseCase_BuzzSpace
+.jpg>] <../Chris/Validation.jpg, id=88, 766.865pt x 485.815pt>
 File: ../Chris/Validation.jpg Graphic file (type jpg)
 
 <use ../Chris/Validation.jpg>
@@ -456,7 +462,7 @@ Overfull \hbox (29.3747pt too wide) in paragraph at lines 208--208
  [] 
  []
 
-[8 <C:/Users/User/Documents/GitHub/COS301-GROUP6-A/Chris/Validation.jpg>]
+[8 <C:/Users/Kale-ab/Documents/GitHub/COS301-GROUP6-A/Chris/Validation.jpg>]
 <../Hanrich/Report.jpg, id=94, 831.105pt x 549.05125pt>
 File: ../Hanrich/Report.jpg Graphic file (type jpg)
 
@@ -468,8 +474,8 @@ Overfull \hbox (29.3747pt too wide) in paragraph at lines 212--212
  [] 
  []
 
-[9 <C:/Users/User/Documents/GitHub/COS301-GROUP6-A/Herman/viewTags.jpg>]
-[10 <C:/Users/User/Documents/GitHub/COS301-GROUP6-A/Hanrich/Report.jpg>]
+[9 <C:/Users/Kale-ab/Documents/GitHub/COS301-GROUP6-A/Herman/viewTags.jpg>]
+[10 <C:/Users/Kale-ab/Documents/GitHub/COS301-GROUP6-A/Hanrich/Report.jpg>]
 <../Jason/Communication_(Notifications).jpg, id=103, 836.12375pt x 764.8575pt>
 File: ../Jason/Communication_(Notifications).jpg Graphic file (type jpg)
 
@@ -492,8 +498,8 @@ Overfull \hbox (29.3747pt too wide) in paragraph at lines 227--227
  [] 
  []
 
-[11 <C:/Users/User/Documents/GitHub/COS301-GROUP6-A/Jason/Communication_(Notifi
-cations).jpg>]
+[11 <C:/Users/Kale-ab/Documents/GitHub/COS301-GROUP6-A/Jason/Communication_(Not
+ifications).jpg>]
 <../Functional_Requirements_Diagrams/ActivityDiagrams/ActivityDIagram_CreateBuz
 zSpace.jpg, id=109, 712.91344pt x 372.64218pt>
 File: ../Functional_Requirements_Diagrams/ActivityDiagrams/ActivityDIagram_Crea
@@ -509,7 +515,7 @@ Overfull \hbox (29.3747pt too wide) in paragraph at lines 235--235
  [] 
  []
 
-[12 <C:/Users/User/Documents/GitHub/COS301-GROUP6-A/Jason/Access.jpg>]
+[12 <C:/Users/Kale-ab/Documents/GitHub/COS301-GROUP6-A/Jason/Access.jpg>]
 <../Chris/Validationactivitydiagram.jpg, id=115, 795.97375pt x 772.8875pt>
 File: ../Chris/Validationactivitydiagram.jpg Graphic file (type jpg)
 
@@ -522,8 +528,8 @@ Overfull \hbox (29.3747pt too wide) in paragraph at lines 239--239
  [] 
  []
 
-[13 <C:/Users/User/Documents/GitHub/COS301-GROUP6-A/Functional_Requirements_Dia
-grams/ActivityDiagrams/ActivityDIagram_CreateBuzzSpace.jpg>]
+[13 <C:/Users/Kale-ab/Documents/GitHub/COS301-GROUP6-A/Functional_Requirements_
+Diagrams/ActivityDiagrams/ActivityDIagram_CreateBuzzSpace.jpg>]
 <../Goodness/Achievement_Rewards_System_ActivityDiagram.jpg, id=120, 1161.33875
 pt x 519.9425pt>
 File: ../Goodness/Achievement_Rewards_System_ActivityDiagram.jpg Graphic file (
@@ -542,15 +548,16 @@ File: ../Hanrich/BuzzElements.jpg Graphic file (type jpg)
 <use ../Hanrich/BuzzElements.jpg>
 Package pdftex.def Info: ../Hanrich/BuzzElements.jpg used on input line 249.
 (pdftex.def)             Requested size: 446.9055pt x 319.21777pt.
- [14 <C:/Users/User/Documents/GitHub/COS301-GROUP6-A/Chris/Validationactivitydi
-agram.jpg> <C:/Users/User/Documents/GitHub/COS301-GROUP6-A/Goodness/Achievement
-_Rewards_System_ActivityDiagram.jpg>] [15]
+ [14 <C:/Users/Kale-ab/Documents/GitHub/COS301-GROUP6-A/Chris/Validationactivit
+ydiagram.jpg> <C:/Users/Kale-ab/Documents/GitHub/COS301-GROUP6-A/Goodness/Achie
+vement_Rewards_System_ActivityDiagram.jpg>]
+[15]
 No file COS301_Phase1_Group1_Specs.bbl.
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 257.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 257.
 
-(C:\Users\User\Documents\GitHub\COS301-GROUP6-A\LaTex_Documents_Revised_Version
-\COS301_Phase1_Group1_Specs.aux)
+(C:\Users\Kale-ab\Documents\GitHub\COS301-GROUP6-A\LaTex_Documents_Revised_Vers
+ion\COS301_Phase1_Group1_Specs.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 257.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 257.
 Package rerunfilecheck Info: File `COS301_Phase1_Group1_Specs.out' has not chan
@@ -560,7 +567,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 257.
  ) 
 Here is how much of TeX's memory you used:
  5148 strings out of 493921
- 78491 string characters out of 3147285
+ 78536 string characters out of 3147276
  160148 words of memory out of 3000000
  8370 multiletter control sequences out of 15000+200000
  10937 words of font info for 38 fonts, out of 3000000 for 9000
@@ -573,7 +580,7 @@ eX 2.9/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Program Files/MiKTeX 2.9/f
 onts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
 ype1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pub
 lic/amsfonts/cm/cmti12.pfb>
-Output written on COS301_Phase1_Group1_Specs.pdf (16 pages, 1620323 bytes).
+Output written on COS301_Phase1_Group1_Specs.pdf (16 pages, 1620523 bytes).
 PDF statistics:
  160 PDF objects out of 1000 (max. 8388607)
  28 named destinations out of 1000 (max. 500000)
