@@ -160,8 +160,6 @@ We use this document to give a high level overview of the buzz  discussion board
   \item CRUD posts(Creating,Reading; Updating; Deleting).
   \item System Access
   \item Information Management
-  \item User restriction
-  \item Automatic update of Status
   \end{itemize}
 \textbf{Important} 
 \begin{itemize}
@@ -177,29 +175,26 @@ We use this document to give a high level overview of the buzz  discussion board
 \end{itemize}
 \subsection{Use case/Service contracts}
 \begin{center}
-  \begin{tabular}{ p{3cm} | p{4cm} | p{4cm} | p{4cm} }
+  \begin{tabular}{| p{3cm} | p{4cm} | p{4cm} | p{4cm} |}
     \hline
     Use Case & Pre Condition & Post Condition & Description \\ \hline \hline
-    BuzzSpace & There must be a valid user & User must still exist & \\ \hline
+    BuzzSpace & There must be a valid user & User must still exist & This use case provides an interface that facilitates management of threads\\ \hline
     Information Management &  &  &\\ \hline
-    Communication&  &  & \\ \hline
+    Communication& A user needs to be registered in order to have notifications sent to his profile inside the application. For e-mails to be sent, a valid and up-to-date e-mail address is needed on the user database. & A notification should visibally be highlighted in the application with appropriate messages. In some cases, an email is sent out from the system. & This use case specifies all the functions that the Buzz system needs to have in order to communicate important information with the user. \\ \hline
     Summaries &  &  & \\ \hline
-    Achievement Rewards System & A user's level requires Achievements to be allocated and/or rewards to be awarded & Achievements are allocated and/or rewards are awarded & \\ \hline
-    Summaries  & &  & \\ \hline
+    Achievement Rewards System & A user's level requires Achievements to be allocated and/or rewards to be awarded & Achievements are allocated and/or rewards are awarded & This use case provides a system that allocates achievements to users based on their levels and the votes they aquired. it also provides a system that awards rewards to users based on their achievements.\\ \hline
     Access &  &  & \\ \hline
-    Summaries &  &  & \\ \hline
     Validation & Post is palgiarised and/or does not follow netiquette & Post is valid against rules  & \\ \hline
     User Management &  &  & \\ \hline
     Reporting & Data must be available to report on. & Data must not be corrupt. & This use case generate report for all actors\\ \hline
-    Automatic update of the user status & User is logged in , Nothing is posted and old status remains. & User posted and status updated,  or User logged out and not updated status old status remains & User logs in and updates his or her status and status is updated \\ \hline
     \hline
   \end{tabular}
 \end{center}
 \subsection{Required functionality}
 \begin{itemize}
 \newpage
-	\item \textbf{BuzzSpace}
 	% We need to add the correct pictures here. We must also give a description of the elements.
+	\item \textbf{BuzzSpace}. A Buzz Space is a integral component of the Buzz System which facilitates the management of threads added by its users. Buzz Spaces may be created for each active module in the Computer Science Department in order to promote intuitive communication between the Computer Science staff and its students.	
 		\begin{center}
   	 	\includegraphics[width=1\textwidth] {../Lelethu/UseCase_BuzzSpace.jpg}\\[0.4cm]    
 		\end{center}
@@ -208,14 +203,21 @@ We use this document to give a high level overview of the buzz  discussion board
 		\begin{center}
   	 	\includegraphics[width=1\textwidth] {../Chris/Validation.jpg}\\[0.4cm]    
 		\end{center}
-\newpage
-	\item  \textbf{Information Management}
+\item  \textbf{Information Management}
 		\begin{center}
   	 	\includegraphics[width=1\textwidth] {../Herman/viewTags.jpg}\\[0.4cm]    
 		\end{center}
-	\item \textbf{Reporting}. We will use the reporting module to generate quite a few reports regarding the Buzz Space system. It will be a key player in adding value to lecturers and students. Each student can easily general a report regarding their own contributions towards a Buzz Space. Lecturers will be able to grade student performance and see how much plagiarism has occurred. The system administrators will be able to check for system bugs and see error logs. 
+\item \textbf{Reporting}. We will use the reporting module to generate quite a few reports regarding the Buzz Space system. It will be a key player in adding value to lecturers and students. Each student can easily general a report regarding their own contributions towards a Buzz Space. Lecturers will be able to grade student performance and see how much plagiarism has occurred. The system administrators will be able to check for system bugs and see error logs. 
 		\begin{center}
   	 	\includegraphics[width=1\textwidth] {../Hanrich/Report.jpg}\\[0.4cm]    
+		\end{center}
+\newpage
+	\item \textbf{Communication (Notifications)}
+		\begin{flushleft}
+		This module describes the way the Buzz System will communicate with its users inside of the application as well as sending information and/or reports from the Buzz system to an external system such as email notifications.
+		\end{flushleft}
+		\begin{center}
+		\includegraphics[width=1\textwidth]{../Jason/Communication_(Notifications).jpg}\\[0.4cm]
 		\end{center}
 \end{itemize}
 \subsection{Process specification}
@@ -223,7 +225,7 @@ We want to show various important process specification of our recommendation.
 \begin{itemize}
 	\item CreateBuzzSpace
 		\begin{center}
-  	 	\includegraphics[width=1\textwidth] {../Functional_Requirements_Diagrams/ActivityDiagrams/ActivityDIagram_UpdateBuzzSpace.jpg}\\[0.4cm]    
+  	 	\includegraphics[width=1\textwidth] {../Functional_Requirements_Diagrams/ActivityDiagrams/ActivityDIagram_CreateBuzzSpace.jpg}\\[0.4cm]    
 		\end{center}
 	\item Validation
 		\begin{center}
