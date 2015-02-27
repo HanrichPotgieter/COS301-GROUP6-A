@@ -1,6 +1,7 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.2.19)  27 FEB 2015 08:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.2.19)  27 FEB 2015 09:52
 entering extended mode
  restricted \write18 enabled.
+ file:line:error style messages enabled.
  %&-line parsing enabled.
 **COS301_Phase1_Group1_Specs.tex
 (./COS301_Phase1_Group1_Specs.tex
@@ -319,15 +320,15 @@ Overfull \hbox (27.35487pt too wide) in paragraph at lines 148--149
 nk https://github.com/DieBaber/COS301-
  []
 
-<../Hanrich/BuzzElements.jpg, id=64, 688.5725pt x 491.8375pt>
+<../Hanrich/BuzzElements.jpg, id=64, 731.73375pt x 464.73625pt>
 File: ../Hanrich/BuzzElements.jpg Graphic file (type jpg)
 
 <use ../Hanrich/BuzzElements.jpg>
 Package pdftex.def Info: ../Hanrich/BuzzElements.jpg used on input line 151.
-(pdftex.def)             Requested size: 446.9055pt x 319.21777pt.
+(pdftex.def)             Requested size: 446.9055pt x 283.83617pt.
  [3
 
-]
+ <../Hanrich/BuzzElements.jpg>]
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 159.
 
 
@@ -336,7 +337,7 @@ File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 159.
- [4 <../Hanrich/BuzzElements.jpg>]
+
 Underfull \hbox (badness 10000) in paragraph at lines 182--182
 []|\OT1/cmr/m/n/12 Information
  []
@@ -498,7 +499,7 @@ Underfull \hbox (badness 1454) in paragraph at lines 185--185
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 187--187
-[]|\OT1/cmr/m/n/12 Post is pal-gia-rised
+[]|\OT1/cmr/m/n/12 Post is pla-gia-rism
  []
 
 
@@ -525,7 +526,7 @@ Overfull \hbox (27.88582pt too wide) in alignment at lines 178--191
 Underfull \vbox (badness 10000) detected at line 191
  []
 
-[5] [6] <../Lelethu/UseCase_BuzzSpace.jpg, id=85, 680.5425pt x 319.1925pt>
+[4] [5] [6] <../Lelethu/UseCase_BuzzSpace.jpg, id=85, 680.5425pt x 319.1925pt>
 File: ../Lelethu/UseCase_BuzzSpace.jpg Graphic file (type jpg)
 
 <use ../Lelethu/UseCase_BuzzSpace.jpg>
@@ -683,7 +684,7 @@ Overfull \hbox (29.3747pt too wide) in paragraph at lines 264--264
 File: ../Hanrich/BuzzElements.jpg Graphic file (type jpg)
 <use ../Hanrich/BuzzElements.jpg>
 Package pdftex.def Info: ../Hanrich/BuzzElements.jpg used on input line 269.
-(pdftex.def)             Requested size: 446.9055pt x 319.21777pt.
+(pdftex.def)             Requested size: 446.9055pt x 283.83617pt.
  [15 <../Chris/Validationactivitydiagram.jpg> <../Goodness/Achievement_Rewards_
 System_ActivityDiagram.jpg>] [16]
 No file COS301_Phase1_Group1_Specs.bbl.
@@ -700,7 +701,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 277.
 Here is how much of TeX's memory you used:
  5362 strings out of 493117
  81714 string characters out of 6135433
- 182938 words of memory out of 5000000
+ 184938 words of memory out of 5000000
  8734 multiletter control sequences out of 15000+600000
  10937 words of font info for 38 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -712,7 +713,7 @@ Here is how much of TeX's memory you used:
 usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><
 /usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></
 usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on COS301_Phase1_Group1_Specs.pdf (17 pages, 2292808 bytes).
+Output written on COS301_Phase1_Group1_Specs.pdf (17 pages, 2329136 bytes).
 PDF statistics:
  171 PDF objects out of 1000 (max. 8388607)
  129 compressed objects within 2 object streams
