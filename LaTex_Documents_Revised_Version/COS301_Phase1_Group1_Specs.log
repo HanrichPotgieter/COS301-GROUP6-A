@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.2.19)  27 FEB 2015 08:38
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.2.19)  27 FEB 2015 08:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -274,7 +274,7 @@ LaTeX Info: Redefining \nameref on input line 24.
 \openout4 = `COS301_Phase1_Group1_Specs.out'.
 
 
-<./up-logo.jpg, id=4, 287.1528pt x 78.7743pt>
+<./up-logo.jpg, id=32, 287.1528pt x 78.7743pt>
 File: ./up-logo.jpg Graphic file (type jpg)
  <use ./up-logo.jpg>
 Package pdftex.def Info: ./up-logo.jpg used on input line 32.
@@ -309,10 +309,7 @@ been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.78 \newpage
-              [1]) [2]
-
-Package hyperref Warning: old toc file detected, not used; run LaTeX again.
-
+              [1]) [2] (./COS301_Phase1_Group1_Specs.toc)
 \tf@toc=\write5
 \openout5 = `COS301_Phase1_Group1_Specs.toc'.
 
@@ -322,7 +319,7 @@ Overfull \hbox (27.35487pt too wide) in paragraph at lines 148--149
 nk https://github.com/DieBaber/COS301-
  []
 
-<../Hanrich/BuzzElements.jpg, id=29, 688.5725pt x 491.8375pt>
+<../Hanrich/BuzzElements.jpg, id=64, 688.5725pt x 491.8375pt>
 File: ../Hanrich/BuzzElements.jpg Graphic file (type jpg)
 
 <use ../Hanrich/BuzzElements.jpg>
@@ -330,7 +327,7 @@ Package pdftex.def Info: ../Hanrich/BuzzElements.jpg used on input line 151.
 (pdftex.def)             Requested size: 446.9055pt x 319.21777pt.
  [3
 
- <../Hanrich/BuzzElements.jpg>]
+]
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 159.
 
 
@@ -339,7 +336,7 @@ File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 159.
-
+ [4 <../Hanrich/BuzzElements.jpg>]
 Underfull \hbox (badness 10000) in paragraph at lines 182--182
 []|\OT1/cmr/m/n/12 Information
  []
@@ -528,7 +525,7 @@ Overfull \hbox (27.88582pt too wide) in alignment at lines 178--191
 Underfull \vbox (badness 10000) detected at line 191
  []
 
-[4] [5] [6] <../Lelethu/UseCase_BuzzSpace.jpg, id=55, 680.5425pt x 319.1925pt>
+[5] [6] <../Lelethu/UseCase_BuzzSpace.jpg, id=85, 680.5425pt x 319.1925pt>
 File: ../Lelethu/UseCase_BuzzSpace.jpg Graphic file (type jpg)
 
 <use ../Lelethu/UseCase_BuzzSpace.jpg>
@@ -541,7 +538,7 @@ Overfull \hbox (29.3747pt too wide) in paragraph at lines 199--199
  []
 
 [7 <../Lelethu/UseCase_BuzzSpace.jpg>]
-<../Chris/Validation.jpg, id=60, 766.865pt x 485.815pt>
+<../Chris/Validation.jpg, id=90, 766.865pt x 485.815pt>
 File: ../Chris/Validation.jpg Graphic file (type jpg)
 
 <use ../Chris/Validation.jpg>
@@ -552,7 +549,7 @@ Overfull \hbox (29.3747pt too wide) in paragraph at lines 204--204
  [] 
  []
 
-<../Herman/Information_Management.jpg, id=61, 872.25874pt x 626.34pt>
+<../Herman/Information_Management.jpg, id=91, 872.25874pt x 626.34pt>
 File: ../Herman/Information_Management.jpg Graphic file (type jpg)
 
 <use ../Herman/Information_Management.jpg>
@@ -565,7 +562,7 @@ Overfull \hbox (29.3747pt too wide) in paragraph at lines 208--208
  []
 
 [8 <../Chris/Validation.jpg>]
-<../Hanrich/Report.jpg, id=66, 831.105pt x 549.05125pt>
+<../Hanrich/Report.jpg, id=96, 831.105pt x 549.05125pt>
 File: ../Hanrich/Report.jpg Graphic file (type jpg)
 
 <use ../Hanrich/Report.jpg>
@@ -577,7 +574,7 @@ Overfull \hbox (29.3747pt too wide) in paragraph at lines 212--212
  []
 
 [9 <../Herman/Information_Management.jpg>] [10 <../Hanrich/Report.jpg>]
-<../Jason/Communication_(Notifications).jpg, id=75, 836.12375pt x 764.8575pt>
+<../Jason/Communication_(Notifications).jpg, id=105, 836.12375pt x 764.8575pt>
 File: ../Jason/Communication_(Notifications).jpg Graphic file (type jpg)
 
 <use ../Jason/Communication_(Notifications).jpg>
@@ -589,7 +586,7 @@ Overfull \hbox (29.3747pt too wide) in paragraph at lines 220--220
  [] 
  []
 
-<../Herman/Summaries.jpg, id=76, 997.7275pt x 436.63126pt>
+<../Herman/Summaries.jpg, id=106, 997.7275pt x 436.63126pt>
 File: ../Herman/Summaries.jpg Graphic file (type jpg)
 
 <use ../Herman/Summaries.jpg>
@@ -601,7 +598,7 @@ Overfull \hbox (29.3747pt too wide) in paragraph at lines 226--226
  []
 
 [11 <../Jason/Communication_(Notifications).jpg>]
-<../Jason/Access.jpg, id=81, 798.985pt x 682.55pt>
+<../Jason/Access.jpg, id=111, 798.985pt x 682.55pt>
 File: ../Jason/Access.jpg Graphic file (type jpg)
  <use ../Jason/Access.jpg>
 Package pdftex.def Info: ../Jason/Access.jpg used on input line 233.
@@ -612,7 +609,7 @@ Overfull \hbox (29.3747pt too wide) in paragraph at lines 233--233
  []
 
 [12 <../Herman/Summaries.jpg> <../Jason/Access.jpg>]
-<../Kale-ab/UserManagementUseCase.jpg, id=87, 976.64874pt x 588.1975pt>
+<../Kale-ab/UserManagementUseCase.jpg, id=117, 976.64874pt x 588.1975pt>
 File: ../Kale-ab/UserManagementUseCase.jpg Graphic file (type jpg)
 
 <use ../Kale-ab/UserManagementUseCase.jpg>
@@ -625,8 +622,8 @@ Overfull \hbox (29.3747pt too wide) in paragraph at lines 240--240
  []
 
 
-<../Goodness/Achievement_Rewards_System_Use_case_Diagram.jpg, id=88, 1203.49625
-pt x 611.28375pt>
+<../Goodness/Achievement_Rewards_System_Use_case_Diagram.jpg, id=118, 1203.4962
+5pt x 611.28375pt>
 File: ../Goodness/Achievement_Rewards_System_Use_case_Diagram.jpg Graphic file 
 (type jpg)
 
@@ -641,7 +638,7 @@ Overfull \hbox (29.3747pt too wide) in paragraph at lines 247--247
 
 [13 <../Kale-ab/UserManagementUseCase.jpg>]
 <../Functional_Requirements_Diagrams/ActivityDiagrams/ActivityDIagram_CreateBuz
-zSpace.jpg, id=93, 712.91344pt x 372.64218pt>
+zSpace.jpg, id=123, 712.91344pt x 372.64218pt>
 File: ../Functional_Requirements_Diagrams/ActivityDiagrams/ActivityDIagram_Crea
 teBuzzSpace.jpg Graphic file (type jpg)
 
@@ -655,7 +652,7 @@ Overfull \hbox (29.3747pt too wide) in paragraph at lines 255--255
  [] 
  []
 
-<../Chris/Validationactivitydiagram.jpg, id=94, 795.97375pt x 772.8875pt>
+<../Chris/Validationactivitydiagram.jpg, id=124, 795.97375pt x 772.8875pt>
 File: ../Chris/Validationactivitydiagram.jpg Graphic file (type jpg)
 
 <use ../Chris/Validationactivitydiagram.jpg>
@@ -669,7 +666,7 @@ Overfull \hbox (29.3747pt too wide) in paragraph at lines 259--259
 
 [14 <../Goodness/Achievement_Rewards_System_Use_case_Diagram.jpg> <../Functiona
 l_Requirements_Diagrams/ActivityDiagrams/ActivityDIagram_CreateBuzzSpace.jpg>]
-<../Goodness/Achievement_Rewards_System_ActivityDiagram.jpg, id=100, 1161.33875
+<../Goodness/Achievement_Rewards_System_ActivityDiagram.jpg, id=129, 1161.33875
 pt x 519.9425pt>
 File: ../Goodness/Achievement_Rewards_System_ActivityDiagram.jpg Graphic file (
 type jpg)
@@ -695,26 +692,19 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 277.
 (./COS301_Phase1_Group1_Specs.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 277.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 277.
-
-
-Package rerunfilecheck Warning: File `COS301_Phase1_Group1_Specs.out' has chang
-ed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `COS301_Phase1_Group1_Specs.out':
-(rerunfilecheck)             Before: D41D8CD98F00B204E9800998ECF8427E;0
-(rerunfilecheck)             After:  677A761D9E52F8D2AC018E78FC601FC9;493.
+Package rerunfilecheck Info: File `COS301_Phase1_Group1_Specs.out' has not chan
+ged.
+(rerunfilecheck)             Checksum: 677A761D9E52F8D2AC018E78FC601FC9;493.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 277.
  ) 
 Here is how much of TeX's memory you used:
- 5352 strings out of 493117
- 81529 string characters out of 6135433
- 183765 words of memory out of 5000000
- 8726 multiletter control sequences out of 15000+600000
+ 5362 strings out of 493117
+ 81714 string characters out of 6135433
+ 182938 words of memory out of 5000000
+ 8734 multiletter control sequences out of 15000+600000
  10937 words of font info for 38 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 29i,7n,28p,839b,476s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 29i,7n,28p,839b,475s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 ></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb
 ></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><
@@ -722,10 +712,10 @@ Here is how much of TeX's memory you used:
 usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><
 /usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></
 usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on COS301_Phase1_Group1_Specs.pdf (17 pages, 2291456 bytes).
+Output written on COS301_Phase1_Group1_Specs.pdf (17 pages, 2292808 bytes).
 PDF statistics:
- 141 PDF objects out of 1000 (max. 8388607)
- 100 compressed objects within 1 object stream
+ 171 PDF objects out of 1000 (max. 8388607)
+ 129 compressed objects within 2 object streams
  30 named destinations out of 1000 (max. 500000)
- 71 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 127 words of extra memory for PDF output out of 10000 (max. 10000000)
 
