@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.2.24)  27 FEB 2015 06:15
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.2.24)  27 FEB 2015 06:18
 entering extended mode
 **COS301_Phase1_Group1_Specs.tex
 
@@ -412,13 +412,28 @@ Underfull \hbox (badness 10000) in paragraph at lines 187--187
  []
 
 
-Underfull \hbox (badness 4686) in paragraph at lines 187--187
-\OT1/cmr/m/n/12 post fol-lows cer-tain
+Underfull \hbox (badness 10000) in paragraph at lines 187--187
+\OT1/cmr/m/n/12 the in-ter-face that
  []
 
 
-Underfull \hbox (badness 1810) in paragraph at lines 187--187
-\OT1/cmr/m/n/12 post will also make
+Underfull \hbox (badness 10000) in paragraph at lines 187--187
+\OT1/cmr/m/n/12 other mod-ules use
+ []
+
+
+Underfull \hbox (badness 1635) in paragraph at lines 187--187
+\OT1/cmr/m/n/12 in or-der to val-i-date
+ []
+
+
+Underfull \hbox (badness 4805) in paragraph at lines 187--187
+\OT1/cmr/m/n/12 any post and help
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 187--187
+\OT1/cmr/m/n/12 gen-er-ate cer-taain
  []
 
 
@@ -437,7 +452,7 @@ Overfull \hbox (27.88582pt too wide) in paragraph at lines 178--192
  []
 
 [5] [6]
-Overfull \vbox (135.06514pt too high) has occurred while \output is active []
+Overfull \vbox (4.56514pt too high) has occurred while \output is active []
 
 
 [7] [8] <../Lelethu/UseCase_BuzzSpace.jpg, id=91, 680.5425pt x 319.1925pt>
@@ -621,7 +636,7 @@ ex 2.9/fonts/type1/public/amsfonts/cm/cmss10.pfb><J:/Program Files/MikTex 2.9/f
 onts/type1/public/amsfonts/cm/cmssbx10.pfb><J:/Program Files/MikTex 2.9/fonts/t
 ype1/public/amsfonts/cm/cmsy10.pfb><J:/Program Files/MikTex 2.9/fonts/type1/pub
 lic/amsfonts/cm/cmti12.pfb>
-Output written on COS301_Phase1_Group1_Specs.pdf (19 pages, 2005198 bytes).
+Output written on COS301_Phase1_Group1_Specs.pdf (19 pages, 2004986 bytes).
 PDF statistics:
  176 PDF objects out of 1000 (max. 8388607)
  31 named destinations out of 1000 (max. 500000)
