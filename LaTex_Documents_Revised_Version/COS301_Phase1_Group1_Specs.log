@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.2.21)  26 FEB 2015 23:29
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.2.24)  27 FEB 2015 06:18
 entering extended mode
 **COS301_Phase1_Group1_Specs.tex
 
-(C:\Users\Kale-ab\Documents\GitHub\COS301-GROUP6-A\LaTex_Documents_Revised_Vers
-ion\COS301_Phase1_Group1_Specs.tex
+(O:\Uni\2015\COS301\GitHub\COS301-GROUP6-A\LaTex_Documents_Revised_Version\COS3
+01_Phase1_Group1_Specs.tex
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -15,9 +15,9 @@ german-x-2013-05-26, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
 ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
 an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
 ishmax, welsh, loaded.
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\report.cls"
+("J:\Program Files\MikTex 2.9\tex\latex\base\report.cls"
 Document Class: report 2007/10/19 v1.4h Standard LaTeX document class
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\size12.clo"
+("J:\Program Files\MikTex 2.9\tex\latex\base\size12.clo"
 File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
@@ -36,31 +36,31 @@ File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 \@indexfile=\write3
 
 Writing index file COS301_Phase1_Group1_Specs.idx
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+("J:\Program Files\MikTex 2.9\tex\latex\graphics\graphicx.sty"
 Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+("J:\Program Files\MikTex 2.9\tex\latex\graphics\keyval.sty"
 Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
 \KV@toks@=\toks14
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+("J:\Program Files\MikTex 2.9\tex\latex\graphics\graphics.sty"
 Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+("J:\Program Files\MikTex 2.9\tex\latex\graphics\trig.sty"
 Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+("J:\Program Files\MikTex 2.9\tex\latex\00miktex\graphics.cfg"
 File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
 )
 Package graphics Info: Driver file: pdftex.def on input line 91.
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+("J:\Program Files\MikTex 2.9\tex\latex\pdftex-def\pdftex.def"
 File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+("J:\Program Files\MikTex 2.9\tex\generic\oberdiek\infwarerr.sty"
 Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
 )
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+("J:\Program Files\MikTex 2.9\tex\generic\oberdiek\ltxcmds.sty"
 Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 )
 \Gread@gobject=\count88
@@ -68,17 +68,17 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 \Gin@req@height=\dimen103
 \Gin@req@width=\dimen104
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\makeidx.sty"
+("J:\Program Files\MikTex 2.9\tex\latex\base\makeidx.sty"
 Package: makeidx 2000/03/29 v1.0m Standard LaTeX package
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty"
+("J:\Program Files\MikTex 2.9\tex\latex\hyperref\hyperref.sty"
 Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty"
+("J:\Program Files\MikTex 2.9\tex\generic\oberdiek\hobsub-hyperref.sty"
 Package: hobsub-hyperref 2012/04/25 v1.12 Bundle oberdiek, subset hyperref (HO)
 
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty"
+("J:\Program Files\MikTex 2.9\tex\generic\oberdiek\hobsub-generic.sty"
 Package: hobsub-generic 2012/04/25 v1.12 Bundle oberdiek, subset generic (HO)
 Package: hobsub 2012/04/25 v1.12 Construct package bundles (HO)
 Package hobsub Info: Skipping package `infwarerr' (already loaded).
@@ -119,25 +119,25 @@ Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
 Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
 Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
 )
-("C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+("J:\Program Files\MikTex 2.9\tex\generic\ifxetex\ifxetex.sty"
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty"
+("J:\Program Files\MikTex 2.9\tex\latex\oberdiek\auxhook.sty"
 Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+("J:\Program Files\MikTex 2.9\tex\latex\oberdiek\kvoptions.sty"
 Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
 )
 \@linkdim=\dimen105
 \Hy@linkcounter=\count89
 \Hy@pagecounter=\count90
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def"
+("J:\Program Files\MikTex 2.9\tex\latex\hyperref\pd1enc.def"
 File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
 )
 \Hy@SavedSpaceFactor=\count91
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg"
+("J:\Program Files\MikTex 2.9\tex\latex\00miktex\hyperref.cfg"
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
 Package hyperref Info: Hyper figures OFF on input line 4443.
@@ -149,7 +149,7 @@ Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4688.
 \c@Hy@tempcnt=\count92
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\url\url.sty"
+(C:\Users\Chris\AppData\Roaming\MiKTeX\2.9\tex\latex\url\url.sty
 \Urlmuskip=\muskip10
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
@@ -174,12 +174,12 @@ LaTeX Info: Redefining \pageref on input line 6369.
 
 Package hyperref Message: Driver (autodetected): hpdftex.
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def"
+("J:\Program Files\MikTex 2.9\tex\latex\hyperref\hpdftex.def"
 File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
 \Fld@listcount=\count97
 \c@bookmark@seq@number=\count98
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty"
+("J:\Program Files\MikTex 2.9\tex\latex\oberdiek\rerunfilecheck.sty"
 Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
@@ -188,8 +188,8 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 Package hyperref Info: Option `colorlinks' set `true' on input line 18.
 
-(C:\Users\Kale-ab\Documents\GitHub\COS301-GROUP6-A\LaTex_Documents_Revised_Vers
-ion\COS301_Phase1_Group1_Specs.aux)
+(O:\Uni\2015\COS301\GitHub\COS301-GROUP6-A\LaTex_Documents_Revised_Version\COS3
+01_Phase1_Group1_Specs.aux)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
 LaTeX Font Info:    ... okay on input line 24.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
@@ -205,7 +205,7 @@ LaTeX Font Info:    ... okay on input line 24.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 24.
 LaTeX Font Info:    ... okay on input line 24.
 
-("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+(C:\Users\Chris\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count99
 \scratchdimen=\dimen109
@@ -220,20 +220,20 @@ LaTeX Font Info:    ... okay on input line 24.
 \everyMPtoPDFconversion=\toks16
 )
 \AtBeginShipoutBox=\box27
- ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\color.sty"
+ ("J:\Program Files\MikTex 2.9\tex\latex\graphics\color.sty"
 Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
+("J:\Program Files\MikTex 2.9\tex\latex\00miktex\color.cfg"
 File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
 Package color Info: Driver file: pdftex.def on input line 130.
 )
 Package hyperref Info: Link coloring ON on input line 24.
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
+("J:\Program Files\MikTex 2.9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
+("J:\Program Files\MikTex 2.9\tex\generic\oberdiek\gettitlestring.sty"
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count105
@@ -242,15 +242,15 @@ LaTeX Info: Redefining \ref on input line 24.
 LaTeX Info: Redefining \pageref on input line 24.
 LaTeX Info: Redefining \nameref on input line 24.
 
-(C:\Users\Kale-ab\Documents\GitHub\COS301-GROUP6-A\LaTex_Documents_Revised_Vers
-ion\COS301_Phase1_Group1_Specs.out)
-(C:\Users\Kale-ab\Documents\GitHub\COS301-GROUP6-A\LaTex_Documents_Revised_Vers
-ion\COS301_Phase1_Group1_Specs.out)
+(O:\Uni\2015\COS301\GitHub\COS301-GROUP6-A\LaTex_Documents_Revised_Version\COS3
+01_Phase1_Group1_Specs.out)
+(O:\Uni\2015\COS301\GitHub\COS301-GROUP6-A\LaTex_Documents_Revised_Version\COS3
+01_Phase1_Group1_Specs.out)
 \@outlinefile=\write4
-
-<./up-logo.jpg, id=31, 287.1528pt x 78.7743pt>
+ <./up-logo.jpg, id=31, 287.1528pt x 78.7743pt>
 File: ./up-logo.jpg Graphic file (type jpg)
- <use ./up-logo.jpg>
+
+<use ./up-logo.jpg>
 Package pdftex.def Info: ./up-logo.jpg used on input line 32.
 (pdftex.def)             Requested size: 446.9055pt x 122.60974pt.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -261,10 +261,10 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 45.
  [1
 
-{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Users/Kale-ab/Document
-s/GitHub/COS301-GROUP6-A/LaTex_Documents_Revised_Version/up-logo.jpg>]
-(C:\Users\Kale-ab\Documents\GitHub\COS301-GROUP6-A\LaTex_Documents_Revised_Vers
-ion\declaration_of_originality.tex
+{C:/Users/Chris/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <O:/Uni/2015
+/COS301/GitHub/COS301-GROUP6-A/LaTex_Documents_Revised_Version/up-logo.jpg>]
+(O:\Uni\2015\COS301\GitHub\COS301-GROUP6-A\LaTex_Documents_Revised_Version\decl
+aration_of_originality.tex
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 51.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -285,8 +285,8 @@ been already used, duplicate ignored
                    \relax 
 l.78 \newpage
               [1]) [2]
-(C:\Users\Kale-ab\Documents\GitHub\COS301-GROUP6-A\LaTex_Documents_Revised_Vers
-ion\COS301_Phase1_Group1_Specs.toc)
+(O:\Uni\2015\COS301\GitHub\COS301-GROUP6-A\LaTex_Documents_Revised_Version\COS3
+01_Phase1_Group1_Specs.toc)
 \tf@toc=\write5
 
 Overfull \hbox (27.35487pt too wide) in paragraph at lines 148--149
@@ -302,12 +302,11 @@ Package pdftex.def Info: ../Hanrich/BuzzElements.jpg used on input line 151.
 (pdftex.def)             Requested size: 446.9055pt x 319.21777pt.
  [3
 
-] [4 <C:/Users/Kale-ab/Documents/GitHub/COS301-GROUP6-A/Hanrich/BuzzElements.jp
-g>]
+] [4 <O:/Uni/2015/COS301/GitHub/COS301-GROUP6-A/Hanrich/BuzzElements.jpg>]
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 159.
 
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+("J:\Program Files\MikTex 2.9\tex\latex\base\omscmr.fd"
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
@@ -413,6 +412,31 @@ Underfull \hbox (badness 10000) in paragraph at lines 187--187
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 187--187
+\OT1/cmr/m/n/12 the in-ter-face that
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 187--187
+\OT1/cmr/m/n/12 other mod-ules use
+ []
+
+
+Underfull \hbox (badness 1635) in paragraph at lines 187--187
+\OT1/cmr/m/n/12 in or-der to val-i-date
+ []
+
+
+Underfull \hbox (badness 4805) in paragraph at lines 187--187
+\OT1/cmr/m/n/12 any post and help
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 187--187
+\OT1/cmr/m/n/12 gen-er-ate cer-taain
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 188--188
 []\OT1/cmr/m/n/12 User Man-age-
  []
@@ -427,7 +451,11 @@ Overfull \hbox (27.88582pt too wide) in paragraph at lines 178--192
  [] 
  []
 
-[5] [6] <../Lelethu/UseCase_BuzzSpace.jpg, id=83, 680.5425pt x 319.1925pt>
+[5] [6]
+Overfull \vbox (4.56514pt too high) has occurred while \output is active []
+
+
+[7] [8] <../Lelethu/UseCase_BuzzSpace.jpg, id=91, 680.5425pt x 319.1925pt>
 File: ../Lelethu/UseCase_BuzzSpace.jpg Graphic file (type jpg)
 
 <use ../Lelethu/UseCase_BuzzSpace.jpg>
@@ -439,8 +467,8 @@ Overfull \hbox (29.3747pt too wide) in paragraph at lines 199--199
  [] 
  []
 
-[7 <C:/Users/Kale-ab/Documents/GitHub/COS301-GROUP6-A/Lelethu/UseCase_BuzzSpace
-.jpg>] <../Chris/Validation.jpg, id=88, 766.865pt x 485.815pt>
+[9 <O:/Uni/2015/COS301/GitHub/COS301-GROUP6-A/Lelethu/UseCase_BuzzSpace.jpg>]
+<../Chris/Validation.jpg, id=96, 766.865pt x 485.815pt>
 File: ../Chris/Validation.jpg Graphic file (type jpg)
 
 <use ../Chris/Validation.jpg>
@@ -451,7 +479,7 @@ Overfull \hbox (29.3747pt too wide) in paragraph at lines 204--204
  [] 
  []
 
-<../Herman/viewTags.jpg, id=89, 966.61125pt x 843.15pt>
+<../Herman/viewTags.jpg, id=97, 966.61125pt x 843.15pt>
 File: ../Herman/viewTags.jpg Graphic file (type jpg)
 
 <use ../Herman/viewTags.jpg>
@@ -462,8 +490,8 @@ Overfull \hbox (29.3747pt too wide) in paragraph at lines 208--208
  [] 
  []
 
-[8 <C:/Users/Kale-ab/Documents/GitHub/COS301-GROUP6-A/Chris/Validation.jpg>]
-<../Hanrich/Report.jpg, id=94, 831.105pt x 549.05125pt>
+[10 <O:/Uni/2015/COS301/GitHub/COS301-GROUP6-A/Chris/Validation.jpg>]
+<../Hanrich/Report.jpg, id=102, 831.105pt x 549.05125pt>
 File: ../Hanrich/Report.jpg Graphic file (type jpg)
 
 <use ../Hanrich/Report.jpg>
@@ -474,9 +502,9 @@ Overfull \hbox (29.3747pt too wide) in paragraph at lines 212--212
  [] 
  []
 
-[9 <C:/Users/Kale-ab/Documents/GitHub/COS301-GROUP6-A/Herman/viewTags.jpg>]
-[10 <C:/Users/Kale-ab/Documents/GitHub/COS301-GROUP6-A/Hanrich/Report.jpg>]
-<../Jason/Communication_(Notifications).jpg, id=103, 836.12375pt x 764.8575pt>
+[11 <O:/Uni/2015/COS301/GitHub/COS301-GROUP6-A/Herman/viewTags.jpg>] [12 <O:/Un
+i/2015/COS301/GitHub/COS301-GROUP6-A/Hanrich/Report.jpg>]
+<../Jason/Communication_(Notifications).jpg, id=112, 836.12375pt x 764.8575pt>
 File: ../Jason/Communication_(Notifications).jpg Graphic file (type jpg)
 
 <use ../Jason/Communication_(Notifications).jpg>
@@ -488,7 +516,7 @@ Overfull \hbox (29.3747pt too wide) in paragraph at lines 220--220
  [] 
  []
 
-<../Jason/Access.jpg, id=104, 798.985pt x 682.55pt>
+<../Jason/Access.jpg, id=113, 798.985pt x 682.55pt>
 File: ../Jason/Access.jpg Graphic file (type jpg)
  <use ../Jason/Access.jpg>
 Package pdftex.def Info: ../Jason/Access.jpg used on input line 227.
@@ -498,9 +526,9 @@ Overfull \hbox (29.3747pt too wide) in paragraph at lines 227--227
  [] 
  []
 
-[11 <C:/Users/Kale-ab/Documents/GitHub/COS301-GROUP6-A/Jason/Communication_(Not
-ifications).jpg>]
-<../Kale-ab/UserManagementUseCase.jpg, id=109, 976.64874pt x 588.1975pt>
+[13 <O:/Uni/2015/COS301/GitHub/COS301-GROUP6-A/Jason/Communication_(Notificatio
+ns).jpg>]
+<../Kale-ab/UserManagementUseCase.jpg, id=118, 976.64874pt x 588.1975pt>
 File: ../Kale-ab/UserManagementUseCase.jpg Graphic file (type jpg)
 
 <use ../Kale-ab/UserManagementUseCase.jpg>
@@ -512,8 +540,8 @@ Overfull \hbox (29.3747pt too wide) in paragraph at lines 234--234
  [] 
  []
 
-[12 <C:/Users/Kale-ab/Documents/GitHub/COS301-GROUP6-A/Jason/Access.jpg>]
-<../Goodness/Achievement_Rewards_System_Use_case_Diagram.jpg, id=115, 1203.4962
+[14 <O:/Uni/2015/COS301/GitHub/COS301-GROUP6-A/Jason/Access.jpg>]
+<../Goodness/Achievement_Rewards_System_Use_case_Diagram.jpg, id=123, 1203.4962
 5pt x 611.28375pt>
 File: ../Goodness/Achievement_Rewards_System_Use_case_Diagram.jpg Graphic file 
 (type jpg)
@@ -527,11 +555,11 @@ Overfull \hbox (29.3747pt too wide) in paragraph at lines 241--241
  [] 
  []
 
-[13 <C:/Users/Kale-ab/Documents/GitHub/COS301-GROUP6-A/Kale-ab/UserManagementUs
-eCase.jpg> <C:/Users/Kale-ab/Documents/GitHub/COS301-GROUP6-A/Goodness/Achievem
-ent_Rewards_System_Use_case_Diagram.jpg>]
+[15 <O:/Uni/2015/COS301/GitHub/COS301-GROUP6-A/Kale-ab/UserManagementUseCase.jp
+g> <O:/Uni/2015/COS301/GitHub/COS301-GROUP6-A/Goodness/Achievement_Rewards_Syst
+em_Use_case_Diagram.jpg>]
 <../Functional_Requirements_Diagrams/ActivityDiagrams/ActivityDIagram_CreateBuz
-zSpace.jpg, id=120, 712.91344pt x 372.64218pt>
+zSpace.jpg, id=128, 712.91344pt x 372.64218pt>
 File: ../Functional_Requirements_Diagrams/ActivityDiagrams/ActivityDIagram_Crea
 teBuzzSpace.jpg Graphic file (type jpg)
 
@@ -545,7 +573,7 @@ Overfull \hbox (29.3747pt too wide) in paragraph at lines 249--249
  [] 
  []
 
-<../Chris/Validationactivitydiagram.jpg, id=121, 795.97375pt x 772.8875pt>
+<../Chris/Validationactivitydiagram.jpg, id=129, 795.97375pt x 772.8875pt>
 File: ../Chris/Validationactivitydiagram.jpg Graphic file (type jpg)
 
 <use ../Chris/Validationactivitydiagram.jpg>
@@ -557,9 +585,9 @@ Overfull \hbox (29.3747pt too wide) in paragraph at lines 253--253
  [] 
  []
 
-[14 <C:/Users/Kale-ab/Documents/GitHub/COS301-GROUP6-A/Functional_Requirements_
-Diagrams/ActivityDiagrams/ActivityDIagram_CreateBuzzSpace.jpg>]
-<../Goodness/Achievement_Rewards_System_ActivityDiagram.jpg, id=126, 1161.33875
+[16 <O:/Uni/2015/COS301/GitHub/COS301-GROUP6-A/Functional_Requirements_Diagrams
+/ActivityDiagrams/ActivityDIagram_CreateBuzzSpace.jpg>]
+<../Goodness/Achievement_Rewards_System_ActivityDiagram.jpg, id=134, 1161.33875
 pt x 519.9425pt>
 File: ../Goodness/Achievement_Rewards_System_ActivityDiagram.jpg Graphic file (
 type jpg)
@@ -577,16 +605,15 @@ File: ../Hanrich/BuzzElements.jpg Graphic file (type jpg)
 <use ../Hanrich/BuzzElements.jpg>
 Package pdftex.def Info: ../Hanrich/BuzzElements.jpg used on input line 263.
 (pdftex.def)             Requested size: 446.9055pt x 319.21777pt.
- [15 <C:/Users/Kale-ab/Documents/GitHub/COS301-GROUP6-A/Chris/Validationactivit
-ydiagram.jpg> <C:/Users/Kale-ab/Documents/GitHub/COS301-GROUP6-A/Goodness/Achie
-vement_Rewards_System_ActivityDiagram.jpg>]
-[16]
+ [17 <O:/Uni/2015/COS301/GitHub/COS301-GROUP6-A/Chris/Validationactivitydiagram
+.jpg> <O:/Uni/2015/COS301/GitHub/COS301-GROUP6-A/Goodness/Achievement_Rewards_S
+ystem_ActivityDiagram.jpg>] [18]
 No file COS301_Phase1_Group1_Specs.bbl.
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 271.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 271.
 
-(C:\Users\Kale-ab\Documents\GitHub\COS301-GROUP6-A\LaTex_Documents_Revised_Vers
-ion\COS301_Phase1_Group1_Specs.aux)
+(O:\Uni\2015\COS301\GitHub\COS301-GROUP6-A\LaTex_Documents_Revised_Version\COS3
+01_Phase1_Group1_Specs.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 271.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 271.
 Package rerunfilecheck Info: File `COS301_Phase1_Group1_Specs.out' has not chan
@@ -595,23 +622,23 @@ ged.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 271.
  ) 
 Here is how much of TeX's memory you used:
- 5160 strings out of 493921
- 79044 string characters out of 3147276
- 160148 words of memory out of 3000000
+ 5162 strings out of 493921
+ 79022 string characters out of 3147282
+ 161148 words of memory out of 3000000
  8378 multiletter control sequences out of 15000+200000
  10937 words of font info for 38 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 29i,8n,28p,549b,457s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Pr
-ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Program F
-iles/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKT
-eX 2.9/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Program Files/MiKTeX 2.9/f
-onts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
-ype1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pub
+ 29i,8n,28p,553b,457s stack positions out of 5000i,500n,10000p,200000b,50000s
+<J:/Program Files/MikTex 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><J:/Pr
+ogram Files/MikTex 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><J:/Program F
+iles/MikTex 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><J:/Program Files/MikT
+ex 2.9/fonts/type1/public/amsfonts/cm/cmss10.pfb><J:/Program Files/MikTex 2.9/f
+onts/type1/public/amsfonts/cm/cmssbx10.pfb><J:/Program Files/MikTex 2.9/fonts/t
+ype1/public/amsfonts/cm/cmsy10.pfb><J:/Program Files/MikTex 2.9/fonts/type1/pub
 lic/amsfonts/cm/cmti12.pfb>
-Output written on COS301_Phase1_Group1_Specs.pdf (17 pages, 2003587 bytes).
+Output written on COS301_Phase1_Group1_Specs.pdf (19 pages, 2004986 bytes).
 PDF statistics:
- 166 PDF objects out of 1000 (max. 8388607)
- 29 named destinations out of 1000 (max. 500000)
+ 176 PDF objects out of 1000 (max. 8388607)
+ 31 named destinations out of 1000 (max. 500000)
  122 words of extra memory for PDF output out of 10000 (max. 10000000)
 
