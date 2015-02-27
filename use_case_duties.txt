@@ -6,6 +6,7 @@ Jason
 -Communications
 Herman
 -Information management
+-Summaries
 Goodness
 -Achievement/Rewards System
 Lelethu 
