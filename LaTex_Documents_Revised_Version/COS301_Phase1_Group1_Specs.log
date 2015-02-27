@@ -1,14 +1,23 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.2.19)  27 FEB 2015 14:14
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.2.4)  27 FEB 2015 16:40
 entering extended mode
- restricted \write18 enabled.
- %&-line parsing enabled.
 **COS301_Phase1_Group1_Specs.tex
-(./COS301_Phase1_Group1_Specs.tex
-LaTeX2e <2014/05/01>
-Babel <3.9k> and hyphenation patterns for 78 languages loaded.
-(/usr/local/texlive/2014/texmf-dist/tex/latex/base/report.cls
+
+("C:\Users\Lelethu Zazaza\Desktop\COS301-GROUP6-A\LaTex_Documents_Revised_Versi
+on\COS301_Phase1_Group1_Specs.tex"
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2013-05-26, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, latin, latvian,
+ lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, n
+german-x-2013-05-26, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
+ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
+an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
+ishmax, welsh, loaded.
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\report.cls"
 Document Class: report 2007/10/19 v1.4h Standard LaTeX document class
-(/usr/local/texlive/2014/texmf-dist/tex/latex/base/size12.clo
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size12.clo"
 File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
@@ -25,11 +34,9 @@ File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 \bibindent=\dimen102
 )
 \@indexfile=\write3
-\openout3 = `COS301_Phase1_Group1_Specs.idx'.
-
 
 Writing index file COS301_Phase1_Group1_Specs.idx
-(/usr/local/texlive/2014/texmf-dist/tex/latex/tools/longtable.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\longtable.sty"
 Package: longtable 2004/02/01 v4.11 Multi-page Table package (DPC)
 \LTleft=\skip43
 \LTright=\skip44
@@ -47,31 +54,31 @@ Package: longtable 2004/02/01 v4.11 Multi-page Table package (DPC)
 \c@LT@chunks=\count92
 \LT@p@ftn=\toks14
 )
-(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/graphicx.sty
-Package: graphicx 2014/04/25 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
 
-(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/keyval.sty
-Package: keyval 2014/05/08 v1.15 key=value parser (DPC)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
 \KV@toks@=\toks15
 )
-(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/graphics.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
 Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
 
-(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/trig.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
 Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 )
-(/usr/local/texlive/2014/texmf-dist/tex/latex/latexconfig/graphics.cfg
-File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
 )
 Package graphics Info: Driver file: pdftex.def on input line 91.
 
-(/usr/local/texlive/2014/texmf-dist/tex/latex/pdftex-def/pdftex.def
+("C:\Program Files\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
 File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
 
-(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
 Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
 )
-(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
 Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 )
 \Gread@gobject=\count93
@@ -79,19 +86,19 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 \Gin@req@height=\dimen104
 \Gin@req@width=\dimen105
 )
-(/usr/local/texlive/2014/texmf-dist/tex/latex/base/makeidx.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\makeidx.sty"
 Package: makeidx 2000/03/29 v1.0m Standard LaTeX package
 )
-(/usr/local/texlive/2014/texmf-dist/tex/latex/hyperref/hyperref.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty"
 Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
 
-(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
-Package: hobsub-hyperref 2012/05/28 v1.13 Bundle oberdiek, subset hyperref (HO)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty"
+Package: hobsub-hyperref 2012/04/25 v1.12 Bundle oberdiek, subset hyperref (HO)
 
 
-(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
-Package: hobsub-generic 2012/05/28 v1.13 Bundle oberdiek, subset generic (HO)
-Package: hobsub 2012/05/28 v1.13 Construct package bundles (HO)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty"
+Package: hobsub-generic 2012/04/25 v1.12 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2012/04/25 v1.12 Construct package bundles (HO)
 Package hobsub Info: Skipping package `infwarerr' (already loaded).
 Package hobsub Info: Skipping package `ltxcmds' (already loaded).
 Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
@@ -122,7 +129,7 @@ Package: uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
 )
 Package hobsub Info: Skipping package `hobsub' (already loaded).
 Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
-Package: hopatch 2012/05/28 v1.2 Wrapper for package hooks (HO)
+Package: hopatch 2011/06/24 v1.1 Wrapper for package hooks (HO)
 Package: xcolor-patch 2011/01/30 xcolor patch
 Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
 Package atveryend Info: \enddocument detected (standard20110627).
@@ -130,25 +137,25 @@ Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
 Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
 Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
 )
-(/usr/local/texlive/2014/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+("C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
-(/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/auxhook.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty"
 Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
 )
-(/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
 Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
 )
 \@linkdim=\dimen106
 \Hy@linkcounter=\count94
 \Hy@pagecounter=\count95
 
-(/usr/local/texlive/2014/texmf-dist/tex/latex/hyperref/pd1enc.def
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def"
 File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
 )
 \Hy@SavedSpaceFactor=\count96
 
-(/usr/local/texlive/2014/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg"
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
 Package hyperref Info: Hyper figures OFF on input line 4443.
@@ -160,7 +167,7 @@ Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4688.
 \c@Hy@tempcnt=\count97
 
-(/usr/local/texlive/2014/texmf-dist/tex/latex/url/url.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\url\url.sty"
 \Urlmuskip=\muskip10
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
@@ -185,12 +192,12 @@ LaTeX Info: Redefining \pageref on input line 6369.
 
 Package hyperref Message: Driver (autodetected): hpdftex.
 
-(/usr/local/texlive/2014/texmf-dist/tex/latex/hyperref/hpdftex.def
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def"
 File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
 \Fld@listcount=\count102
 \c@bookmark@seq@number=\count103
 
-(/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty"
 Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
@@ -199,9 +206,8 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 Package hyperref Info: Option `colorlinks' set `true' on input line 18.
 
-(./COS301_Phase1_Group1_Specs.aux)
-\openout1 = `COS301_Phase1_Group1_Specs.aux'.
-
+("C:\Users\Lelethu Zazaza\Desktop\COS301-GROUP6-A\LaTex_Documents_Revised_Versi
+on\COS301_Phase1_Group1_Specs.aux")
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
 LaTeX Font Info:    ... okay on input line 24.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
@@ -217,7 +223,7 @@ LaTeX Font Info:    ... okay on input line 24.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 24.
 LaTeX Font Info:    ... okay on input line 24.
 
-(/usr/local/texlive/2014/texmf-dist/tex/context/base/supp-pdf.mkii
+("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count104
 \scratchdimen=\dimen110
@@ -230,37 +236,22 @@ LaTeX Font Info:    ... okay on input line 24.
 \MPnumerator=\count108
 \makeMPintoPDFobject=\count109
 \everyMPtoPDFconversion=\toks17
-) (/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
-Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
-
-(/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/grfext.sty
-Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
 )
-Package grfext Info: Graphics extension search list:
-(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
-G,.JBIG2,.JB2,.eps]
-(grfext)             \AppendGraphicsExtensions on input line 452.
-
-(/usr/local/texlive/2014/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
-e
-))
 \AtBeginShipoutBox=\box31
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\color.sty"
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
 
-(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/color.sty
-Package: color 2014/04/23 v1.1a Standard LaTeX Color (DPC)
-
-(/usr/local/texlive/2014/texmf-dist/tex/latex/latexconfig/color.cfg
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
 File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
-Package color Info: Driver file: pdftex.def on input line 137.
+Package color Info: Driver file: pdftex.def on input line 130.
 )
 Package hyperref Info: Link coloring ON on input line 24.
 
-(/usr/local/texlive/2014/texmf-dist/tex/latex/hyperref/nameref.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 
-(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count110
@@ -269,12 +260,13 @@ LaTeX Info: Redefining \ref on input line 24.
 LaTeX Info: Redefining \pageref on input line 24.
 LaTeX Info: Redefining \nameref on input line 24.
 
-(./COS301_Phase1_Group1_Specs.out) (./COS301_Phase1_Group1_Specs.out)
+("C:\Users\Lelethu Zazaza\Desktop\COS301-GROUP6-A\LaTex_Documents_Revised_Versi
+on\COS301_Phase1_Group1_Specs.out")
+("C:\Users\Lelethu Zazaza\Desktop\COS301-GROUP6-A\LaTex_Documents_Revised_Versi
+on\COS301_Phase1_Group1_Specs.out")
 \@outlinefile=\write4
-\openout4 = `COS301_Phase1_Group1_Specs.out'.
 
-
-<./up-logo.jpg, id=32, 287.1528pt x 78.7743pt>
+<./up-logo.jpg, id=31, 287.1528pt x 78.7743pt>
 File: ./up-logo.jpg Graphic file (type jpg)
  <use ./up-logo.jpg>
 Package pdftex.def Info: ./up-logo.jpg used on input line 32.
@@ -287,9 +279,10 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 45.
  [1
 
-{/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./up-lo
-go.jpg>]
-(./declaration_of_originality.tex
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Users/Lelethu Zazaza/D
+esktop/COS301-GROUP6-A/LaTex_Documents_Revised_Version/up-logo.jpg>]
+("C:\Users\Lelethu Zazaza\Desktop\COS301-GROUP6-A\LaTex_Documents_Revised_Versi
+on\declaration_of_originality.tex"
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 51.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -309,34 +302,34 @@ been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.78 \newpage
-              [1]) [2] (./COS301_Phase1_Group1_Specs.toc)
-\tf@toc=\write5
-\openout5 = `COS301_Phase1_Group1_Specs.toc'.
+              [1]) [2]
 
+Package hyperref Warning: old toc file detected, not used; run LaTeX again.
+
+\tf@toc=\write5
 
 Overfull \hbox (27.35487pt too wide) in paragraph at lines 148--149
 []\OT1/cmr/m/n/12 For fur-ther ref-er-ences see [][]gitHub[][] or got to the li
 nk https://github.com/DieBaber/COS301-
  []
 
-<../Hanrich/BuzzElements.jpg, id=64, 731.73375pt x 464.73625pt>
-File: ../Hanrich/BuzzElements.jpg Graphic file (type jpg)
+<../Lelethu/BuzzSystem.jpg, id=56, 617.30624pt x 301.8778pt>
+File: ../Lelethu/BuzzSystem.jpg Graphic file (type jpg)
 
-<use ../Hanrich/BuzzElements.jpg>
-Package pdftex.def Info: ../Hanrich/BuzzElements.jpg used on input line 151.
-(pdftex.def)             Requested size: 446.9055pt x 283.83617pt.
- [3
-
- <../Hanrich/BuzzElements.jpg>]
+<use ../Lelethu/BuzzSystem.jpg>
+Package pdftex.def Info: ../Lelethu/BuzzSystem.jpg used on input line 151.
+(pdftex.def)             Requested size: 446.9055pt x 218.55408pt.
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 159.
 
 
-(/usr/local/texlive/2014/texmf-dist/tex/latex/base/omscmr.fd
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 159.
+ [3
 
+ <C:/Users/Lelethu Zazaza/Desktop/COS301-GROUP6-A/Lelethu/BuzzSystem.jpg>]
 Underfull \hbox (badness 10000) in paragraph at lines 181--181
 []|\OT1/cmr/m/n/12 Information
  []
@@ -535,20 +528,19 @@ Overfull \hbox (27.88582pt too wide) in alignment at lines 177--190
 Underfull \vbox (badness 10000) detected at line 190
  []
 
-[4] [5] [6] <../Lelethu/UseCase_BuzzSpace.jpg, id=85, 680.5425pt x 319.1925pt>
-File: ../Lelethu/UseCase_BuzzSpace.jpg Graphic file (type jpg)
+[4] [5] [6] <../Lelethu/BuzzSpace.jpg, id=77, 685.05937pt x 304.88907pt>
+File: ../Lelethu/BuzzSpace.jpg Graphic file (type jpg)
 
-<use ../Lelethu/UseCase_BuzzSpace.jpg>
-Package pdftex.def Info: ../Lelethu/UseCase_BuzzSpace.jpg used on input line 19
-8.
-(pdftex.def)             Requested size: 446.9055pt x 209.6108pt.
+<use ../Lelethu/BuzzSpace.jpg>
+Package pdftex.def Info: ../Lelethu/BuzzSpace.jpg used on input line 198.
+(pdftex.def)             Requested size: 446.9055pt x 198.90129pt.
 
 Overfull \hbox (29.3747pt too wide) in paragraph at lines 198--198
  [] 
  []
 
-[7 <../Lelethu/UseCase_BuzzSpace.jpg>]
-<../Chris/Validation.jpg, id=90, 766.865pt x 485.815pt>
+[7 <C:/Users/Lelethu Zazaza/Desktop/COS301-GROUP6-A/Lelethu/BuzzSpace.jpg>]
+<../Chris/Validation.jpg, id=82, 766.865pt x 485.815pt>
 File: ../Chris/Validation.jpg Graphic file (type jpg)
 
 <use ../Chris/Validation.jpg>
@@ -559,7 +551,7 @@ Overfull \hbox (29.3747pt too wide) in paragraph at lines 203--203
  [] 
  []
 
-<../Herman/Information_Management.jpg, id=91, 872.25874pt x 626.34pt>
+<../Herman/Information_Management.jpg, id=83, 872.25874pt x 626.34pt>
 File: ../Herman/Information_Management.jpg Graphic file (type jpg)
 
 <use ../Herman/Information_Management.jpg>
@@ -571,8 +563,8 @@ Overfull \hbox (29.3747pt too wide) in paragraph at lines 207--207
  [] 
  []
 
-[8 <../Chris/Validation.jpg>]
-<../Hanrich/Report.jpg, id=96, 831.105pt x 549.05125pt>
+[8 <C:/Users/Lelethu Zazaza/Desktop/COS301-GROUP6-A/Chris/Validation.jpg>]
+<../Hanrich/Report.jpg, id=88, 831.105pt x 549.05125pt>
 File: ../Hanrich/Report.jpg Graphic file (type jpg)
 
 <use ../Hanrich/Report.jpg>
@@ -583,8 +575,10 @@ Overfull \hbox (29.3747pt too wide) in paragraph at lines 211--211
  [] 
  []
 
-[9 <../Herman/Information_Management.jpg>] [10 <../Hanrich/Report.jpg>]
-<../Jason/Communication_(Notifications).jpg, id=105, 836.12375pt x 764.8575pt>
+[9 <C:/Users/Lelethu Zazaza/Desktop/COS301-GROUP6-A/Herman/Information_Manageme
+nt.jpg>] [10 <C:/Users/Lelethu Zazaza/Desktop/COS301-GROUP6-A/Hanrich/Report.jp
+g>]
+<../Jason/Communication_(Notifications).jpg, id=97, 836.12375pt x 764.8575pt>
 File: ../Jason/Communication_(Notifications).jpg Graphic file (type jpg)
 
 <use ../Jason/Communication_(Notifications).jpg>
@@ -596,7 +590,7 @@ Overfull \hbox (29.3747pt too wide) in paragraph at lines 219--219
  [] 
  []
 
-<../Herman/Summaries.jpg, id=106, 997.7275pt x 436.63126pt>
+<../Herman/Summaries.jpg, id=98, 997.7275pt x 436.63126pt>
 File: ../Herman/Summaries.jpg Graphic file (type jpg)
 
 <use ../Herman/Summaries.jpg>
@@ -607,10 +601,11 @@ Overfull \hbox (29.3747pt too wide) in paragraph at lines 225--225
  [] 
  []
 
-[11 <../Jason/Communication_(Notifications).jpg>]
-<../Jason/Access.jpg, id=111, 798.985pt x 682.55pt>
+[11 <C:/Users/Lelethu Zazaza/Desktop/COS301-GROUP6-A/Jason/Communication_(Notif
+ications).jpg>] <../Jason/Access.jpg, id=103, 798.985pt x 682.55pt>
 File: ../Jason/Access.jpg Graphic file (type jpg)
- <use ../Jason/Access.jpg>
+
+<use ../Jason/Access.jpg>
 Package pdftex.def Info: ../Jason/Access.jpg used on input line 232.
 (pdftex.def)             Requested size: 446.9055pt x 381.77756pt.
 
@@ -618,8 +613,9 @@ Overfull \hbox (29.3747pt too wide) in paragraph at lines 232--232
  [] 
  []
 
-[12 <../Herman/Summaries.jpg> <../Jason/Access.jpg>]
-<../Kale-ab/UserManagementUseCase.jpg, id=117, 976.64874pt x 588.1975pt>
+[12 <C:/Users/Lelethu Zazaza/Desktop/COS301-GROUP6-A/Herman/Summaries.jpg> <C:/
+Users/Lelethu Zazaza/Desktop/COS301-GROUP6-A/Jason/Access.jpg>]
+<../Kale-ab/UserManagementUseCase.jpg, id=109, 976.64874pt x 588.1975pt>
 File: ../Kale-ab/UserManagementUseCase.jpg Graphic file (type jpg)
 
 <use ../Kale-ab/UserManagementUseCase.jpg>
@@ -632,7 +628,7 @@ Overfull \hbox (29.3747pt too wide) in paragraph at lines 239--239
  []
 
 
-<../Goodness/Achievement_Rewards_System_Use_case_Diagram.jpg, id=118, 1203.4962
+<../Goodness/Achievement_Rewards_System_Use_case_Diagram.jpg, id=110, 1203.4962
 5pt x 611.28375pt>
 File: ../Goodness/Achievement_Rewards_System_Use_case_Diagram.jpg Graphic file 
 (type jpg)
@@ -646,23 +642,20 @@ Overfull \hbox (29.3747pt too wide) in paragraph at lines 246--246
  [] 
  []
 
-[13 <../Kale-ab/UserManagementUseCase.jpg>]
-<../Functional_Requirements_Diagrams/ActivityDiagrams/ActivityDIagram_CreateBuz
-zSpace.jpg, id=123, 712.91344pt x 372.64218pt>
-File: ../Functional_Requirements_Diagrams/ActivityDiagrams/ActivityDIagram_Crea
-teBuzzSpace.jpg Graphic file (type jpg)
+[13 <C:/Users/Lelethu Zazaza/Desktop/COS301-GROUP6-A/Kale-ab/UserManagementUseC
+ase.jpg>] <../Lelethu/createBuzzSpace.jpg, id=115, 715.17188pt x 326.72063pt>
+File: ../Lelethu/createBuzzSpace.jpg Graphic file (type jpg)
 
-<use ../Functional_Requirements_Diagrams/ActivityDiagrams/ActivityDIagram_Creat
-eBuzzSpace.jpg>
-Package pdftex.def Info: ../Functional_Requirements_Diagrams/ActivityDiagrams/A
-ctivityDIagram_CreateBuzzSpace.jpg used on input line 254.
-(pdftex.def)             Requested size: 446.9055pt x 233.60017pt.
+<use ../Lelethu/createBuzzSpace.jpg>
+Package pdftex.def Info: ../Lelethu/createBuzzSpace.jpg used on input line 254.
+
+(pdftex.def)             Requested size: 446.9055pt x 204.16498pt.
 
 Overfull \hbox (29.3747pt too wide) in paragraph at lines 254--254
  [] 
  []
 
-<../Chris/Validationactivitydiagram.jpg, id=124, 795.97375pt x 772.8875pt>
+<../Chris/Validationactivitydiagram.jpg, id=116, 795.97375pt x 772.8875pt>
 File: ../Chris/Validationactivitydiagram.jpg Graphic file (type jpg)
 
 <use ../Chris/Validationactivitydiagram.jpg>
@@ -674,9 +667,10 @@ Overfull \hbox (29.3747pt too wide) in paragraph at lines 258--258
  [] 
  []
 
-[14 <../Goodness/Achievement_Rewards_System_Use_case_Diagram.jpg> <../Functiona
-l_Requirements_Diagrams/ActivityDiagrams/ActivityDIagram_CreateBuzzSpace.jpg>]
-<../Goodness/Achievement_Rewards_System_ActivityDiagram.jpg, id=129, 1161.33875
+[14 <C:/Users/Lelethu Zazaza/Desktop/COS301-GROUP6-A/Goodness/Achievement_Rewar
+ds_System_Use_case_Diagram.jpg> <C:/Users/Lelethu Zazaza/Desktop/COS301-GROUP6-
+A/Lelethu/createBuzzSpace.jpg>]
+<../Goodness/Achievement_Rewards_System_ActivityDiagram.jpg, id=121, 1161.33875
 pt x 519.9425pt>
 File: ../Goodness/Achievement_Rewards_System_ActivityDiagram.jpg Graphic file (
 type jpg)
@@ -690,9 +684,10 @@ Overfull \hbox (29.3747pt too wide) in paragraph at lines 263--263
  [] 
  []
 
-[15 <../Chris/Validationactivitydiagram.jpg> <../Goodness/Achievement_Rewards_S
-ystem_ActivityDiagram.jpg>]
-<../Herman/SummariesActivity.jpg, id=134, 1468.48625pt x 495.8525pt>
+[15 <C:/Users/Lelethu Zazaza/Desktop/COS301-GROUP6-A/Chris/Validationactivitydi
+agram.jpg> <C:/Users/Lelethu Zazaza/Desktop/COS301-GROUP6-A/Goodness/Achievemen
+t_Rewards_System_ActivityDiagram.jpg>]
+<../Herman/SummariesActivity.jpg, id=126, 1468.48625pt x 495.8525pt>
 File: ../Herman/SummariesActivity.jpg Graphic file (type jpg)
 
 <use ../Herman/SummariesActivity.jpg>
@@ -704,41 +699,46 @@ Overfull \hbox (29.3747pt too wide) in paragraph at lines 268--268
  [] 
  []
 
+<../Hanrich/BuzzElements.jpg, id=127, 731.73375pt x 464.73625pt>
 File: ../Hanrich/BuzzElements.jpg Graphic file (type jpg)
+
 <use ../Hanrich/BuzzElements.jpg>
 Package pdftex.def Info: ../Hanrich/BuzzElements.jpg used on input line 273.
 (pdftex.def)             Requested size: 446.9055pt x 283.83617pt.
- [16 <../Herman/SummariesActivity.jpg>]
+ [16 <C:/Users/Lelethu Zazaza/Desktop/COS301-GROUP6-A/Herman/SummariesActivity.
+jpg> <C:/Users/Lelethu Zazaza/Desktop/COS301-GROUP6-A/Hanrich/BuzzElements.jpg>
+]
 No file COS301_Phase1_Group1_Specs.bbl.
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 281.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 281.
-(./COS301_Phase1_Group1_Specs.aux)
+
+("C:\Users\Lelethu Zazaza\Desktop\COS301-GROUP6-A\LaTex_Documents_Revised_Versi
+on\COS301_Phase1_Group1_Specs.aux")
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 281.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 281.
 Package rerunfilecheck Info: File `COS301_Phase1_Group1_Specs.out' has not chan
 ged.
-(rerunfilecheck)             Checksum: 677A761D9E52F8D2AC018E78FC601FC9;493.
+(rerunfilecheck)             Checksum: 176CD47F8D37680E9A60BDBB397AC09B;500.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 281.
  ) 
 Here is how much of TeX's memory you used:
- 5367 strings out of 493117
- 81878 string characters out of 6135433
- 185938 words of memory out of 5000000
- 8738 multiletter control sequences out of 15000+600000
- 10937 words of font info for 38 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 29i,7n,28p,839b,475s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
-></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb
-></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><
-/usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></
-usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><
-/usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></
-usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on COS301_Phase1_Group1_Specs.pdf (17 pages, 2506614 bytes).
+ 5258 strings out of 493921
+ 79953 string characters out of 3147256
+ 176803 words of memory out of 3000000
+ 8471 multiletter control sequences out of 15000+200000
+ 10937 words of font info for 38 fonts, out of 3000000 for 9000
+ 841 hyphenation exceptions out of 8191
+ 29i,7n,28p,839b,476s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Pr
+ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Program F
+iles/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKT
+eX 2.9/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Program Files/MiKTeX 2.9/f
+onts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
+ype1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pub
+lic/amsfonts/cm/cmti12.pfb>
+Output written on COS301_Phase1_Group1_Specs.pdf (17 pages, 2537763 bytes).
 PDF statistics:
- 172 PDF objects out of 1000 (max. 8388607)
- 129 compressed objects within 2 object streams
+ 163 PDF objects out of 1000 (max. 8388607)
  30 named destinations out of 1000 (max. 500000)
- 132 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 137 words of extra memory for PDF output out of 10000 (max. 10000000)
 
