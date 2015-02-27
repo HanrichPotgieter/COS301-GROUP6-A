@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.2.4)  27 FEB 2015 16:40
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.2.4)  27 FEB 2015 17:03
 entering extended mode
 **COS301_Phase1_Group1_Specs.tex
 
@@ -303,9 +303,8 @@ been already used, duplicate ignored
                    \relax 
 l.78 \newpage
               [1]) [2]
-
-Package hyperref Warning: old toc file detected, not used; run LaTeX again.
-
+("C:\Users\Lelethu Zazaza\Desktop\COS301-GROUP6-A\LaTex_Documents_Revised_Versi
+on\COS301_Phase1_Group1_Specs.toc")
 \tf@toc=\write5
 
 Overfull \hbox (27.35487pt too wide) in paragraph at lines 148--149
@@ -313,422 +312,422 @@ Overfull \hbox (27.35487pt too wide) in paragraph at lines 148--149
 nk https://github.com/DieBaber/COS301-
  []
 
-<../Lelethu/BuzzSystem.jpg, id=56, 617.30624pt x 301.8778pt>
+[3
+
+] <../Lelethu/BuzzSystem.jpg, id=68, 617.30624pt x 301.8778pt>
 File: ../Lelethu/BuzzSystem.jpg Graphic file (type jpg)
 
 <use ../Lelethu/BuzzSystem.jpg>
-Package pdftex.def Info: ../Lelethu/BuzzSystem.jpg used on input line 151.
+Package pdftex.def Info: ../Lelethu/BuzzSystem.jpg used on input line 152.
 (pdftex.def)             Requested size: 446.9055pt x 218.55408pt.
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 159.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 160.
 
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 159.
- [3
-
- <C:/Users/Lelethu Zazaza/Desktop/COS301-GROUP6-A/Lelethu/BuzzSystem.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 181--181
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 160.
+ [4 <C:/Users/Lelethu Zazaza/Desktop/COS301-GROUP6-A/Lelethu/BuzzSystem.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 182--182
 []|\OT1/cmr/m/n/12 Information
  []
 
 
-Underfull \hbox (badness 4981) in paragraph at lines 181--181
+Underfull \hbox (badness 4981) in paragraph at lines 182--182
 \OT1/cmr/m/n/12 and tags must ex-
  []
 
 
-Underfull \hbox (badness 2564) in paragraph at lines 181--181
+Underfull \hbox (badness 2564) in paragraph at lines 182--182
 \OT1/cmr/m/n/12 and dis-play lists of
  []
 
 
-Underfull \hbox (badness 5504) in paragraph at lines 181--181
+Underfull \hbox (badness 5504) in paragraph at lines 182--182
 \OT1/cmr/m/n/12 by the buzz space
  []
 
 
-Underfull \hbox (badness 1158) in paragraph at lines 182--182
+Underfull \hbox (badness 1158) in paragraph at lines 183--183
 []|\OT1/cmr/m/n/12 A user needs to be
  []
 
 
-Underfull \hbox (badness 1924) in paragraph at lines 182--182
+Underfull \hbox (badness 1924) in paragraph at lines 183--183
 \OT1/cmr/m/n/12 to his pro-file in-side
  []
 
 
-Underfull \hbox (badness 3746) in paragraph at lines 182--182
+Underfull \hbox (badness 3746) in paragraph at lines 183--183
 \OT1/cmr/m/n/12 e-mails to be sent,
  []
 
 
-Underfull \hbox (badness 4859) in paragraph at lines 182--182
+Underfull \hbox (badness 4859) in paragraph at lines 183--183
 \OT1/cmr/m/n/12 a valid and up-to-
  []
 
 
-Underfull \hbox (badness 2478) in paragraph at lines 182--182
+Underfull \hbox (badness 2478) in paragraph at lines 183--183
 \OT1/cmr/m/n/12 needed on the user
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 182--182
+Underfull \hbox (badness 10000) in paragraph at lines 183--183
 \OT1/cmr/m/n/12 vis-i-bally be high-
  []
 
 
-Underfull \hbox (badness 1478) in paragraph at lines 182--182
+Underfull \hbox (badness 1478) in paragraph at lines 183--183
 \OT1/cmr/m/n/12 mes-sages. In some
  []
 
 
-Underfull \hbox (badness 1005) in paragraph at lines 182--182
+Underfull \hbox (badness 1005) in paragraph at lines 183--183
 []|\OT1/cmr/m/n/12 This use case spec-i-
  []
 
 
-Underfull \hbox (badness 3657) in paragraph at lines 182--182
+Underfull \hbox (badness 3657) in paragraph at lines 183--183
 \OT1/cmr/m/n/12 that the Buzz sys-
  []
 
 
-Underfull \hbox (badness 4378) in paragraph at lines 182--182
+Underfull \hbox (badness 4378) in paragraph at lines 183--183
 \OT1/cmr/m/n/12 tem needs to have
  []
 
 
-Underfull \hbox (badness 5504) in paragraph at lines 183--183
+Underfull \hbox (badness 5504) in paragraph at lines 184--184
 \OT1/cmr/m/n/12 re-quired it is very
  []
 
 
-Underfull \hbox (badness 1590) in paragraph at lines 183--183
+Underfull \hbox (badness 1590) in paragraph at lines 184--184
 \OT1/cmr/m/n/12 num-ber of posts on
  []
 
 
-Underfull \hbox (badness 6047) in paragraph at lines 183--183
+Underfull \hbox (badness 6047) in paragraph at lines 184--184
 \OT1/cmr/m/n/12 the thread and to
  []
 
 
-Underfull \hbox (badness 2961) in paragraph at lines 183--183
+Underfull \hbox (badness 2961) in paragraph at lines 184--184
 \OT1/cmr/m/n/12 al-ready have a few
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 183--183
+Underfull \hbox (badness 10000) in paragraph at lines 184--184
 \OT1/cmr/m/n/12 thread sum-maries.
  []
 
 
-Underfull \hbox (badness 7595) in paragraph at lines 183--183
+Underfull \hbox (badness 7595) in paragraph at lines 184--184
 \OT1/cmr/m/n/12 Some user iput is
  []
 
 
-Underfull \hbox (badness 1072) in paragraph at lines 183--183
+Underfull \hbox (badness 1072) in paragraph at lines 184--184
 \OT1/cmr/m/n/12 usu-ally re-quired and
  []
 
 
-Underfull \hbox (badness 1803) in paragraph at lines 183--183
+Underfull \hbox (badness 1803) in paragraph at lines 184--184
 \OT1/cmr/m/n/12 thread sum-mary (or
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 183--183
+Underfull \hbox (badness 10000) in paragraph at lines 184--184
 []|\OT1/cmr/m/n/12 This use case at-
  []
 
 
-Underfull \hbox (badness 3219) in paragraph at lines 183--183
+Underfull \hbox (badness 3219) in paragraph at lines 184--184
 \OT1/cmr/m/n/12 as lit-tle user in-ter-
  []
 
 
-Underfull \hbox (badness 4954) in paragraph at lines 183--183
+Underfull \hbox (badness 4954) in paragraph at lines 184--184
 \OT1/cmr/m/n/12 ven-tion as pos-si-ble.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 184--184
+Underfull \hbox (badness 10000) in paragraph at lines 185--185
 []|\OT1/cmr/m/n/12 Achievement
  []
 
 
-Underfull \hbox (badness 3838) in paragraph at lines 184--184
+Underfull \hbox (badness 3838) in paragraph at lines 185--185
 \OT1/cmr/m/n/12 Achieve-ments to be
  []
 
 
-Underfull \hbox (badness 2213) in paragraph at lines 184--184
+Underfull \hbox (badness 2213) in paragraph at lines 185--185
 \OT1/cmr/m/n/12 al-lo-cated and/or re-
  []
 
 
-Underfull \hbox (badness 2591) in paragraph at lines 184--184
+Underfull \hbox (badness 2591) in paragraph at lines 185--185
 \OT1/cmr/m/n/12 a sys-tem that al-lo-
  []
 
 
-Underfull \hbox (badness 1117) in paragraph at lines 184--184
+Underfull \hbox (badness 1117) in paragraph at lines 185--185
 \OT1/cmr/m/n/12 lev-els and the votes
  []
 
 
-Underfull \hbox (badness 7379) in paragraph at lines 184--184
+Underfull \hbox (badness 7379) in paragraph at lines 185--185
 \OT1/cmr/m/n/12 they aquired. it
  []
 
 
-Underfull \hbox (badness 1454) in paragraph at lines 184--184
+Underfull \hbox (badness 1454) in paragraph at lines 185--185
 \OT1/cmr/m/n/12 that awards re-wards
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 186--186
+Underfull \hbox (badness 10000) in paragraph at lines 187--187
 []|\OT1/cmr/m/n/12 Post is pla-gia-rism
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 186--186
+Underfull \hbox (badness 10000) in paragraph at lines 187--187
 \OT1/cmr/m/n/12 and/or does not
  []
 
 
-Underfull \hbox (badness 1953) in paragraph at lines 186--186
+Underfull \hbox (badness 1953) in paragraph at lines 187--187
 \OT1/cmr/m/n/12 will val-i-date a post
  []
 
 
-Underfull \hbox (badness 6691) in paragraph at lines 186--186
+Underfull \hbox (badness 6691) in paragraph at lines 187--187
 \OT1/cmr/m/n/12 pub-lish-ing it. It
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 187--187
+Underfull \hbox (badness 10000) in paragraph at lines 188--188
 []|\OT1/cmr/m/n/12 User Man-age-
  []
 
 
-Underfull \hbox (badness 3557) in paragraph at lines 187--187
+Underfull \hbox (badness 3557) in paragraph at lines 188--188
 \OT1/cmr/m/n/12 tem which man-ages
  []
 
 
-Overfull \hbox (27.88582pt too wide) in alignment at lines 177--190
+Overfull \hbox (27.88582pt too wide) in alignment at lines 178--191
  [] [] [] [] 
  []
 
 
-Underfull \vbox (badness 10000) detected at line 190
+Underfull \vbox (badness 10000) detected at line 191
  []
 
-[4] [5] [6] <../Lelethu/BuzzSpace.jpg, id=77, 685.05937pt x 304.88907pt>
+[5] [6] <../Lelethu/BuzzSpace.jpg, id=84, 685.05937pt x 304.88907pt>
 File: ../Lelethu/BuzzSpace.jpg Graphic file (type jpg)
 
 <use ../Lelethu/BuzzSpace.jpg>
-Package pdftex.def Info: ../Lelethu/BuzzSpace.jpg used on input line 198.
+Package pdftex.def Info: ../Lelethu/BuzzSpace.jpg used on input line 202.
 (pdftex.def)             Requested size: 446.9055pt x 198.90129pt.
 
-Overfull \hbox (29.3747pt too wide) in paragraph at lines 198--198
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 202--202
  [] 
  []
 
 [7 <C:/Users/Lelethu Zazaza/Desktop/COS301-GROUP6-A/Lelethu/BuzzSpace.jpg>]
-<../Chris/Validation.jpg, id=82, 766.865pt x 485.815pt>
+<../Chris/Validation.jpg, id=89, 766.865pt x 485.815pt>
 File: ../Chris/Validation.jpg Graphic file (type jpg)
 
 <use ../Chris/Validation.jpg>
-Package pdftex.def Info: ../Chris/Validation.jpg used on input line 203.
+Package pdftex.def Info: ../Chris/Validation.jpg used on input line 210.
 (pdftex.def)             Requested size: 446.9055pt x 283.12204pt.
 
-Overfull \hbox (29.3747pt too wide) in paragraph at lines 203--203
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 210--210
  [] 
  []
 
-<../Herman/Information_Management.jpg, id=83, 872.25874pt x 626.34pt>
+<../Herman/Information_Management.jpg, id=90, 872.25874pt x 626.34pt>
 File: ../Herman/Information_Management.jpg Graphic file (type jpg)
 
 <use ../Herman/Information_Management.jpg>
 Package pdftex.def Info: ../Herman/Information_Management.jpg used on input lin
-e 207.
+e 217.
 (pdftex.def)             Requested size: 446.9055pt x 320.90097pt.
 
-Overfull \hbox (29.3747pt too wide) in paragraph at lines 207--207
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 217--217
  [] 
  []
 
 [8 <C:/Users/Lelethu Zazaza/Desktop/COS301-GROUP6-A/Chris/Validation.jpg>]
-<../Hanrich/Report.jpg, id=88, 831.105pt x 549.05125pt>
+<../Hanrich/Report.jpg, id=95, 831.105pt x 549.05125pt>
 File: ../Hanrich/Report.jpg Graphic file (type jpg)
 
 <use ../Hanrich/Report.jpg>
-Package pdftex.def Info: ../Hanrich/Report.jpg used on input line 211.
+Package pdftex.def Info: ../Hanrich/Report.jpg used on input line 224.
 (pdftex.def)             Requested size: 446.9055pt x 295.23495pt.
 
-Overfull \hbox (29.3747pt too wide) in paragraph at lines 211--211
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 224--224
  [] 
  []
 
 [9 <C:/Users/Lelethu Zazaza/Desktop/COS301-GROUP6-A/Herman/Information_Manageme
 nt.jpg>] [10 <C:/Users/Lelethu Zazaza/Desktop/COS301-GROUP6-A/Hanrich/Report.jp
 g>]
-<../Jason/Communication_(Notifications).jpg, id=97, 836.12375pt x 764.8575pt>
+<../Jason/Communication_(Notifications).jpg, id=104, 836.12375pt x 764.8575pt>
 File: ../Jason/Communication_(Notifications).jpg Graphic file (type jpg)
 
 <use ../Jason/Communication_(Notifications).jpg>
 Package pdftex.def Info: ../Jason/Communication_(Notifications).jpg used on inp
-ut line 219.
+ut line 232.
 (pdftex.def)             Requested size: 446.9055pt x 408.82709pt.
-
-Overfull \hbox (29.3747pt too wide) in paragraph at lines 219--219
- [] 
- []
-
-<../Herman/Summaries.jpg, id=98, 997.7275pt x 436.63126pt>
-File: ../Herman/Summaries.jpg Graphic file (type jpg)
-
-<use ../Herman/Summaries.jpg>
-Package pdftex.def Info: ../Herman/Summaries.jpg used on input line 225.
-(pdftex.def)             Requested size: 446.9055pt x 195.57616pt.
-
-Overfull \hbox (29.3747pt too wide) in paragraph at lines 225--225
- [] 
- []
-
-[11 <C:/Users/Lelethu Zazaza/Desktop/COS301-GROUP6-A/Jason/Communication_(Notif
-ications).jpg>] <../Jason/Access.jpg, id=103, 798.985pt x 682.55pt>
-File: ../Jason/Access.jpg Graphic file (type jpg)
-
-<use ../Jason/Access.jpg>
-Package pdftex.def Info: ../Jason/Access.jpg used on input line 232.
-(pdftex.def)             Requested size: 446.9055pt x 381.77756pt.
 
 Overfull \hbox (29.3747pt too wide) in paragraph at lines 232--232
  [] 
  []
 
+<../Herman/Summaries.jpg, id=105, 997.7275pt x 436.63126pt>
+File: ../Herman/Summaries.jpg Graphic file (type jpg)
+
+<use ../Herman/Summaries.jpg>
+Package pdftex.def Info: ../Herman/Summaries.jpg used on input line 238.
+(pdftex.def)             Requested size: 446.9055pt x 195.57616pt.
+
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 238--238
+ [] 
+ []
+
+[11 <C:/Users/Lelethu Zazaza/Desktop/COS301-GROUP6-A/Jason/Communication_(Notif
+ications).jpg>] <../Jason/Access.jpg, id=110, 798.985pt x 682.55pt>
+File: ../Jason/Access.jpg Graphic file (type jpg)
+
+<use ../Jason/Access.jpg>
+Package pdftex.def Info: ../Jason/Access.jpg used on input line 245.
+(pdftex.def)             Requested size: 446.9055pt x 381.77756pt.
+
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 245--245
+ [] 
+ []
+
 [12 <C:/Users/Lelethu Zazaza/Desktop/COS301-GROUP6-A/Herman/Summaries.jpg> <C:/
 Users/Lelethu Zazaza/Desktop/COS301-GROUP6-A/Jason/Access.jpg>]
-<../Kale-ab/UserManagementUseCase.jpg, id=109, 976.64874pt x 588.1975pt>
+<../Kale-ab/UserManagementUseCase.jpg, id=116, 976.64874pt x 588.1975pt>
 File: ../Kale-ab/UserManagementUseCase.jpg Graphic file (type jpg)
 
 <use ../Kale-ab/UserManagementUseCase.jpg>
 Package pdftex.def Info: ../Kale-ab/UserManagementUseCase.jpg used on input lin
-e 239.
+e 252.
 (pdftex.def)             Requested size: 446.9055pt x 269.15605pt.
 
-Overfull \hbox (29.3747pt too wide) in paragraph at lines 239--239
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 252--252
  [] 
  []
 
 
-<../Goodness/Achievement_Rewards_System_Use_case_Diagram.jpg, id=110, 1203.4962
+<../Goodness/Achievement_Rewards_System_Use_case_Diagram.jpg, id=117, 1203.4962
 5pt x 611.28375pt>
 File: ../Goodness/Achievement_Rewards_System_Use_case_Diagram.jpg Graphic file 
 (type jpg)
 
 <use ../Goodness/Achievement_Rewards_System_Use_case_Diagram.jpg>
 Package pdftex.def Info: ../Goodness/Achievement_Rewards_System_Use_case_Diagra
-m.jpg used on input line 246.
+m.jpg used on input line 259.
 (pdftex.def)             Requested size: 446.9055pt x 226.99226pt.
 
-Overfull \hbox (29.3747pt too wide) in paragraph at lines 246--246
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 259--259
  [] 
  []
 
 [13 <C:/Users/Lelethu Zazaza/Desktop/COS301-GROUP6-A/Kale-ab/UserManagementUseC
-ase.jpg>] <../Lelethu/createBuzzSpace.jpg, id=115, 715.17188pt x 326.72063pt>
+ase.jpg>] <../Lelethu/createBuzzSpace.jpg, id=122, 715.17188pt x 326.72063pt>
 File: ../Lelethu/createBuzzSpace.jpg Graphic file (type jpg)
 
 <use ../Lelethu/createBuzzSpace.jpg>
-Package pdftex.def Info: ../Lelethu/createBuzzSpace.jpg used on input line 254.
+Package pdftex.def Info: ../Lelethu/createBuzzSpace.jpg used on input line 267.
 
 (pdftex.def)             Requested size: 446.9055pt x 204.16498pt.
 
-Overfull \hbox (29.3747pt too wide) in paragraph at lines 254--254
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 267--267
  [] 
  []
 
-<../Chris/Validationactivitydiagram.jpg, id=116, 795.97375pt x 772.8875pt>
+<../Chris/Validationactivitydiagram.jpg, id=123, 795.97375pt x 772.8875pt>
 File: ../Chris/Validationactivitydiagram.jpg Graphic file (type jpg)
 
 <use ../Chris/Validationactivitydiagram.jpg>
 Package pdftex.def Info: ../Chris/Validationactivitydiagram.jpg used on input l
-ine 258.
+ine 271.
 (pdftex.def)             Requested size: 446.9055pt x 433.9344pt.
 
-Overfull \hbox (29.3747pt too wide) in paragraph at lines 258--258
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 271--271
  [] 
  []
 
 [14 <C:/Users/Lelethu Zazaza/Desktop/COS301-GROUP6-A/Goodness/Achievement_Rewar
 ds_System_Use_case_Diagram.jpg> <C:/Users/Lelethu Zazaza/Desktop/COS301-GROUP6-
 A/Lelethu/createBuzzSpace.jpg>]
-<../Goodness/Achievement_Rewards_System_ActivityDiagram.jpg, id=121, 1161.33875
+<../Goodness/Achievement_Rewards_System_ActivityDiagram.jpg, id=128, 1161.33875
 pt x 519.9425pt>
 File: ../Goodness/Achievement_Rewards_System_ActivityDiagram.jpg Graphic file (
 type jpg)
 
 <use ../Goodness/Achievement_Rewards_System_ActivityDiagram.jpg>
 Package pdftex.def Info: ../Goodness/Achievement_Rewards_System_ActivityDiagram
-.jpg used on input line 263.
+.jpg used on input line 276.
 (pdftex.def)             Requested size: 446.9055pt x 200.08725pt.
 
-Overfull \hbox (29.3747pt too wide) in paragraph at lines 263--263
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 276--276
  [] 
  []
 
 [15 <C:/Users/Lelethu Zazaza/Desktop/COS301-GROUP6-A/Chris/Validationactivitydi
 agram.jpg> <C:/Users/Lelethu Zazaza/Desktop/COS301-GROUP6-A/Goodness/Achievemen
 t_Rewards_System_ActivityDiagram.jpg>]
-<../Herman/SummariesActivity.jpg, id=126, 1468.48625pt x 495.8525pt>
+<../Herman/SummariesActivity.jpg, id=133, 1468.48625pt x 495.8525pt>
 File: ../Herman/SummariesActivity.jpg Graphic file (type jpg)
 
 <use ../Herman/SummariesActivity.jpg>
-Package pdftex.def Info: ../Herman/SummariesActivity.jpg used on input line 268
+Package pdftex.def Info: ../Herman/SummariesActivity.jpg used on input line 281
 .
 (pdftex.def)             Requested size: 446.9055pt x 150.8981pt.
 
-Overfull \hbox (29.3747pt too wide) in paragraph at lines 268--268
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 281--281
  [] 
  []
 
-<../Hanrich/BuzzElements.jpg, id=127, 731.73375pt x 464.73625pt>
+<../Hanrich/BuzzElements.jpg, id=134, 731.73375pt x 464.73625pt>
 File: ../Hanrich/BuzzElements.jpg Graphic file (type jpg)
 
 <use ../Hanrich/BuzzElements.jpg>
-Package pdftex.def Info: ../Hanrich/BuzzElements.jpg used on input line 273.
+Package pdftex.def Info: ../Hanrich/BuzzElements.jpg used on input line 286.
 (pdftex.def)             Requested size: 446.9055pt x 283.83617pt.
  [16 <C:/Users/Lelethu Zazaza/Desktop/COS301-GROUP6-A/Herman/SummariesActivity.
 jpg> <C:/Users/Lelethu Zazaza/Desktop/COS301-GROUP6-A/Hanrich/BuzzElements.jpg>
 ]
 No file COS301_Phase1_Group1_Specs.bbl.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 281.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 281.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 294.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 294.
 
 ("C:\Users\Lelethu Zazaza\Desktop\COS301-GROUP6-A\LaTex_Documents_Revised_Versi
 on\COS301_Phase1_Group1_Specs.aux")
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 281.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 281.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 294.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 294.
 Package rerunfilecheck Info: File `COS301_Phase1_Group1_Specs.out' has not chan
 ged.
 (rerunfilecheck)             Checksum: 176CD47F8D37680E9A60BDBB397AC09B;500.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 281.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 294.
  ) 
 Here is how much of TeX's memory you used:
- 5258 strings out of 493921
- 79953 string characters out of 3147256
- 176803 words of memory out of 3000000
+ 5260 strings out of 493921
+ 80173 string characters out of 3147256
+ 175976 words of memory out of 3000000
  8471 multiletter control sequences out of 15000+200000
  10937 words of font info for 38 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 29i,7n,28p,839b,476s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 29i,7n,28p,839b,475s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Pr
 ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Program F
 iles/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKT
@@ -736,9 +735,9 @@ eX 2.9/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Program Files/MiKTeX 2.9/f
 onts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
 ype1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pub
 lic/amsfonts/cm/cmti12.pfb>
-Output written on COS301_Phase1_Group1_Specs.pdf (17 pages, 2537763 bytes).
+Output written on COS301_Phase1_Group1_Specs.pdf (17 pages, 2539178 bytes).
 PDF statistics:
- 163 PDF objects out of 1000 (max. 8388607)
+ 170 PDF objects out of 1000 (max. 8388607)
  30 named destinations out of 1000 (max. 500000)
  137 words of extra memory for PDF output out of 10000 (max. 10000000)
 
