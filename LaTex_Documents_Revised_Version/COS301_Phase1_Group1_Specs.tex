@@ -6,7 +6,7 @@
 \newcommand{\HRule}{\rule{\linewidth}{0.5mm}}
 \makeindex
 
-
+\usepackage{longtable}
 \usepackage[pdftex]{graphicx}
 \usepackage{makeidx}
 \usepackage{hyperref}
@@ -175,7 +175,7 @@ We use this document to give a high level overview of the buzz  discussion board
 \end{itemize}
 \subsection{Use case/Service contracts}
 \begin{center}
-  \begin{tabular}{| p{3cm} | p{4cm} | p{4cm} | p{4cm} |}
+  \begin{longtable}{| p{3cm} | p{4cm} | p{4cm} | p{4cm} |}
     \hline
     Use Case & Pre Condition & Post Condition & Description \\ \hline \hline
     BuzzSpace & There must be a valid user & User must still exist & This use case provides an interface that facilitates management of threads\\ \hline
@@ -188,7 +188,7 @@ We use this document to give a high level overview of the buzz  discussion board
     User Management & If the User is not inlvolved in the course (not a registered student/ tutor/ teaching assistant).  & The User is still involved in the course & This is a basic system which manages the User's Login and logout. \\ \hline
     Reporting & Data must be available to report on. & Data must not be corrupt. & This use case generate report for all actors\\ \hline
     \hline
-  \end{tabular}
+  \end{longtable}
 \end{center}
 \subsection{Required functionality}
 \begin{itemize}
